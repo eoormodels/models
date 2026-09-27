@@ -1,0 +1,63 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0934_00_00_BodySkin_Mesh": "120864331262815",
+    "pm0934_00_00_BodySkin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_FeelerA00Skin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_FeelerA01Skin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_FeelerB00Skin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_FeelerB01Skin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_FeelerC00Skin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_FeelerC01Skin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_FeelerDSkin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_FeelerE00Skin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_FeelerE01Skin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_FeelerFSkin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_FeelerGSkin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_FeelerHSkin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_FeelerISkin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_FeelerJSkin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_FeelerKSkin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_TeethA00Skin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_TeethA01Skin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_TeethB00Skin_Mesh_Emissives": "126438147411076",
+    "pm0934_00_00_TeethB01Skin_Mesh_Emissives": "126438147411076"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0934_00_00_BodySkin_Mesh": "92845279504830",
+    "pm0934_00_00_BodySkin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_FeelerA00Skin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_FeelerA01Skin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_FeelerB00Skin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_FeelerB01Skin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_FeelerC00Skin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_FeelerC01Skin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_FeelerDSkin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_FeelerE00Skin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_FeelerE01Skin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_FeelerFSkin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_FeelerGSkin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_FeelerHSkin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_FeelerISkin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_FeelerJSkin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_FeelerKSkin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_TeethA00Skin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_TeethA01Skin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_TeethB00Skin_Mesh_Emissives": "120978869250482",
+    "pm0934_00_00_TeethB01Skin_Mesh_Emissives": "120978869250482"
+  }
+}
