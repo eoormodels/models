@@ -1,0 +1,49 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm1023_00_00_arm_mesh_Mesh_Body_01": "108002417858004",
+    "pm1023_00_00_body_mesh_Mesh_Body_02": "98335260331877",
+    "pm1023_00_00_body_mesh_Mesh_Body_03": "96346613153485",
+    "pm1023_00_00_head_mesh_Mesh_Body_02": "98335260331877",
+    "pm1023_00_00_head_mesh_Mesh_Emissives_01": "112027414901364",
+    "pm1023_00_00_head_mesh_Mesh_Emissives_02": "71174858967667",
+    "pm1023_00_00_leg_mesh_Mesh_Body_01": "108002417858004",
+    "pm1023_00_00_silk_a_mesh_Mesh_Body_01": "108002417858004",
+    "pm1023_00_00_silk_b_mesh_Mesh_Body_01": "108002417858004",
+    "pm1023_00_00_silk_c_mesh_Mesh_Body_01": "108002417858004",
+    "pm1023_00_00_silk_d_mesh_Mesh_Body_01": "108002417858004",
+    "pm1023_00_00_silk_e_mesh_Mesh_Body_01": "108002417858004",
+    "pm1023_00_00_silk_f_mesh_Mesh_Body_01": "108002417858004",
+    "pm1023_00_00_silk_g_mesh_Mesh_Body_01": "108002417858004"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm1023_00_00_arm_mesh_Mesh_Body_01": "130853257820252",
+    "pm1023_00_00_body_mesh_Mesh_Body_02": "98512073863571",
+    "pm1023_00_00_body_mesh_Mesh_Body_03": "109409387490974",
+    "pm1023_00_00_head_mesh_Mesh_Body_02": "98512073863571",
+    "pm1023_00_00_head_mesh_Mesh_Emissives_01": "87144289694448",
+    "pm1023_00_00_head_mesh_Mesh_Emissives_02": "92002405897336",
+    "pm1023_00_00_leg_mesh_Mesh_Body_01": "130853257820252",
+    "pm1023_00_00_silk_a_mesh_Mesh_Body_01": "130853257820252",
+    "pm1023_00_00_silk_b_mesh_Mesh_Body_01": "130853257820252",
+    "pm1023_00_00_silk_c_mesh_Mesh_Body_01": "130853257820252",
+    "pm1023_00_00_silk_d_mesh_Mesh_Body_01": "130853257820252",
+    "pm1023_00_00_silk_e_mesh_Mesh_Body_01": "130853257820252",
+    "pm1023_00_00_silk_f_mesh_Mesh_Body_01": "130853257820252",
+    "pm1023_00_00_silk_g_mesh_Mesh_Body_01": "130853257820252"
+  }
+}
