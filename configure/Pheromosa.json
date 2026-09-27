@@ -1,0 +1,56 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "Body00_OptMesh_6_0": "92232012606175",
+    "Body00_OptMesh_7_0": "92232012606175",
+    "Body00_OptMesh_8_0": "92232012606175",
+    "Body00_OptMesh_9_0": "92232012606175",
+    "Body01_OptMesh_14_0": "92232012606175",
+    "Body01_arceus_EnvBody_OptMesh_15_0": "92232012606175",
+    "Body02_OptMesh_16_0": "92232012606175",
+    "Body03_OptMesh_17_0": "92232012606175",
+    "BodyVco00_OptMesh_19_0": "92232012606175",
+    "BodyVco02_arceus_Env_OptMesh_18_0": "92232012606175",
+    "Eye_OptMesh_10_0": "126676672252187",
+    "LIris_OptMesh_12_0": "84081199725709",
+    "Mouth_OptMesh_11_0": "94975706130588",
+    "RIris_OptMesh_13_0": "84081199725709",
+    "pm0879_00_EyelashASkin_0_0": "92232012606175"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "Body00_OptMesh_6_0": "108798977850610",
+    "Body00_OptMesh_7_0": "108798977850610",
+    "Body00_OptMesh_8_0": "108798977850610",
+    "Body00_OptMesh_9_0": "108798977850610",
+    "Body01_OptMesh_14_0": "108798977850610",
+    "Body01_arceus_EnvBody_OptMesh_15_0": "108798977850610",
+    "Body02_OptMesh_16_0": "108798977850610",
+    "Body03_OptMesh_17_0": "108798977850610",
+    "BodyVco00_OptMesh_19_0": "108798977850610",
+    "BodyVco02_arceus_Env_OptMesh_18_0": "108798977850610",
+    "Eye_OptMesh_10_0": "137261790525053",
+    "LIris_OptMesh_12_0": "100322554760191",
+    "Mouth_OptMesh_11_0": "88606766250485",
+    "RIris_OptMesh_13_0": "100322554760191",
+    "pm0879_00_EyelashASkin_0_0": "108798977850610",
+    "pm0879_00_EyelashBSkin_1_0": "108798977850610",
+    "pm0879_00_EyelashCSkin_2_0": "108798977850610",
+    "pm0879_00_EyelashDSkin_3_0": "108798977850610",
+    "pm0879_00_EyelashESkin_4_0": "108798977850610",
+    "pm0879_00_EyelashFSkin_5_0": "108798977850610"
+  }
+}
