@@ -1,0 +1,37 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0981_00_31_BodyASkin_Mesh": "102916587845446",
+    "pm0981_00_31_BodyASkin_Mesh_Eyes": "114191920532757",
+    "pm0981_00_31_LanceSkin_Mesh": "102916587845446",
+    "pm0981_00_31_ShieldSkin_Mesh": "102916587845446",
+    "pm0981_00_31_WingCloseLSkin_Mesh": "102916587845446",
+    "pm0981_00_31_WingCloseRSkin_Mesh": "102916587845446",
+    "pm0981_00_31_WingOpenLSkin_Mesh": "102916587845446",
+    "pm0981_00_31_WingOpenRSkin_Mesh": "102916587845446"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0981_00_31_BodyASkin_Mesh": "130161573563548",
+    "pm0981_00_31_BodyASkin_Mesh_Eyes": "85084269444012",
+    "pm0981_00_31_LanceSkin_Mesh": "130161573563548",
+    "pm0981_00_31_ShieldSkin_Mesh": "130161573563548",
+    "pm0981_00_31_WingCloseLSkin_Mesh": "130161573563548",
+    "pm0981_00_31_WingCloseRSkin_Mesh": "130161573563548",
+    "pm0981_00_31_WingOpenLSkin_Mesh": "130161573563548",
+    "pm0981_00_31_WingOpenRSkin_Mesh": "130161573563548"
+  }
+}
