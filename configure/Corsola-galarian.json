@@ -1,0 +1,55 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0222_00_31_BodySkin_Mesh": "116917851650260",
+    "pm0222_00_31_BodySkin_Mesh_BodyAnim_01": "78200185528094",
+    "pm0222_00_31_BodySkin_Mesh_Emissives": "109686053205240",
+    "pm0222_00_31_FeelerA1Skin_Mesh": "116917851650260",
+    "pm0222_00_31_FeelerASkin_Mesh_BodyAnim_02": "78795071125486",
+    "pm0222_00_31_LFeelerB1Skin_Mesh": "116917851650260",
+    "pm0222_00_31_LFeelerBSkin_Mesh_BodyAnim_02": "78795071125486",
+    "pm0222_00_31_LFeelerC1Skin_Mesh": "116917851650260",
+    "pm0222_00_31_LFeelerCSkin_Mesh_BodyAnim_02": "78795071125486",
+    "pm0222_00_31_LFeelerD1Skin_Mesh": "116917851650260",
+    "pm0222_00_31_LFeelerDSkin_Mesh_BodyAnim_02": "78795071125486",
+    "pm0222_00_31_RFeelerB1Skin_Mesh": "116917851650260",
+    "pm0222_00_31_RFeelerBSkin_Mesh_BodyAnim_02": "78795071125486",
+    "pm0222_00_31_RFeelerC1Skin_Mesh": "116917851650260",
+    "pm0222_00_31_RFeelerCSkin_Mesh_BodyAnim_02": "78795071125486",
+    "pm0222_00_31_RFeelerD1Skin_Mesh": "116917851650260",
+    "pm0222_00_31_RFeelerDSkin_Mesh_BodyAnim_02": "78795071125486"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0222_00_31_BodySkin_Mesh": "139705467637587",
+    "pm0222_00_31_BodySkin_Mesh_BodyAnim_01": "101140587506082",
+    "pm0222_00_31_BodySkin_Mesh_Emissives": "72938212885808",
+    "pm0222_00_31_FeelerA1Skin_Mesh": "139705467637587",
+    "pm0222_00_31_FeelerASkin_Mesh_BodyAnim_02": "139124917167409",
+    "pm0222_00_31_LFeelerB1Skin_Mesh": "139705467637587",
+    "pm0222_00_31_LFeelerBSkin_Mesh_BodyAnim_02": "139124917167409",
+    "pm0222_00_31_LFeelerC1Skin_Mesh": "139705467637587",
+    "pm0222_00_31_LFeelerCSkin_Mesh_BodyAnim_02": "139124917167409",
+    "pm0222_00_31_LFeelerD1Skin_Mesh": "139705467637587",
+    "pm0222_00_31_LFeelerDSkin_Mesh_BodyAnim_02": "139124917167409",
+    "pm0222_00_31_RFeelerB1Skin_Mesh": "139705467637587",
+    "pm0222_00_31_RFeelerBSkin_Mesh_BodyAnim_02": "139124917167409",
+    "pm0222_00_31_RFeelerC1Skin_Mesh": "139705467637587",
+    "pm0222_00_31_RFeelerCSkin_Mesh_BodyAnim_02": "139124917167409",
+    "pm0222_00_31_RFeelerD1Skin_Mesh": "139705467637587",
+    "pm0222_00_31_RFeelerDSkin_Mesh_BodyAnim_02": "139124917167409"
+  }
+}
