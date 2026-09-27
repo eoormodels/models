@@ -1,0 +1,47 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0989_00_00_BodySkin_Mesh": "135529317785727",
+    "pm0989_00_00_BodySkin_Mesh_Emissives": "133510193958824",
+    "pm0989_00_00_LArmASkin_Mesh_Emissives": "133510193958824",
+    "pm0989_00_00_LArmBSkin_Mesh_Emissives": "133510193958824",
+    "pm0989_00_00_LInnerArmSkin_Mesh": "135529317785727",
+    "pm0989_00_00_RArmASkin_Mesh_Emissives": "133510193958824",
+    "pm0989_00_00_RArmBSkin_Mesh_Emissives": "133510193958824",
+    "pm0989_00_00_RInnerArmSkin_Mesh": "135529317785727",
+    "pm0989_00_00_effectHairArmSkin_Mesh_BodyAnim_01": "124412147700054",
+    "pm0989_00_00_effectHairLArmSkin_Mesh_BodyAnim_01": "124412147700054",
+    "pm0989_00_00_effectHairLArmSkin_Mesh_BodyAnim_02": "115229882514484",
+    "pm0989_00_00_effectHairRArmSkin_Mesh_BodyAnim_01": "124412147700054",
+    "pm0989_00_00_effectHairRArmSkin_Mesh_BodyAnim_02": "115229882514484"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0989_00_00_BodySkin_Mesh": "89401406570622",
+    "pm0989_00_00_BodySkin_Mesh_Emissives": "96346055974399",
+    "pm0989_00_00_LArmASkin_Mesh_Emissives": "96346055974399",
+    "pm0989_00_00_LArmBSkin_Mesh_Emissives": "96346055974399",
+    "pm0989_00_00_LInnerArmSkin_Mesh": "89401406570622",
+    "pm0989_00_00_RArmASkin_Mesh_Emissives": "96346055974399",
+    "pm0989_00_00_RArmBSkin_Mesh_Emissives": "96346055974399",
+    "pm0989_00_00_RInnerArmSkin_Mesh": "89401406570622",
+    "pm0989_00_00_effectHairArmSkin_Mesh_BodyAnim_01": "90142036713840",
+    "pm0989_00_00_effectHairLArmSkin_Mesh_BodyAnim_01": "90142036713840",
+    "pm0989_00_00_effectHairLArmSkin_Mesh_BodyAnim_02": "127160399284886",
+    "pm0989_00_00_effectHairRArmSkin_Mesh_BodyAnim_01": "90142036713840",
+    "pm0989_00_00_effectHairRArmSkin_Mesh_BodyAnim_02": "127160399284886"
+  }
+}
