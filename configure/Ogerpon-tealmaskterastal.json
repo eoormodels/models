@@ -1,0 +1,26 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm1120_11_99_fxgrass_mesh_Mesh_Body_01": "84166692850767",
+    "pm1120_11_99_gem_mesh_Mesh_Body_02": "128319062756397",
+    "pm1120_11_99_gem_mesh_Mesh_Body_03": "102055727841019",
+    "pm1120_11_99_gem_mesh_Mesh_Body_04": "128319062756397",
+    "pm1120_11_99_gemmask_mesh_Mesh_Body_01": "84166692850767"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+  }
+}
