@@ -1,0 +1,59 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "BodyA01_OptMesh_6_0": "85277269598106",
+    "BodyA01_OptMesh_7_0": "85277269598106",
+    "BodyC01_OptMesh_8_0": "87390054236303",
+    "BodyC02Vco_OptMesh_10_0": "87390054236303",
+    "BodyC02Vco_OptMesh_11_0": "87390054236303",
+    "BodyC02Vco_OptMesh_12_0": "87390054236303",
+    "BodyC02Vco_OptMesh_9_0": "87390054236303",
+    "BodyC04_OptMesh_13_0": "87390054236303",
+    "BodyC04_OptMesh_14_0": "87390054236303",
+    "BodyC05Vco_OptMesh_15_0": "87390054236303",
+    "BodyC05Vco_OptMesh_16_0": "87390054236303",
+    "BodyC05Vco_OptMesh_17_0": "87390054236303",
+    "BodyC05Vco_OptMesh_18_0": "87390054236303",
+    "BodyC05Vco_OptMesh_19_0": "87390054236303",
+    "pm0885_00_EyeStarSkin_2_0": "132015441013004",
+    "pm0885_00_EyeStarSkin_3_0": "85277269598106",
+    "pm0885_00_HeadSkin_0_0": "87390054236303",
+    "pm0885_00_HeadSkin_1_0": "94203398764030"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "BodyA01_OptMesh_6_0": "133333056850466",
+    "BodyA01_OptMesh_7_0": "133333056850466",
+    "BodyC01_OptMesh_8_0": "80554914784737",
+    "BodyC02Vco_OptMesh_10_0": "80554914784737",
+    "BodyC02Vco_OptMesh_11_0": "80554914784737",
+    "BodyC02Vco_OptMesh_12_0": "80554914784737",
+    "BodyC02Vco_OptMesh_9_0": "80554914784737",
+    "BodyC04_OptMesh_13_0": "80554914784737",
+    "BodyC04_OptMesh_14_0": "80554914784737",
+    "BodyC05Vco_OptMesh_15_0": "80554914784737",
+    "BodyC05Vco_OptMesh_16_0": "80554914784737",
+    "BodyC05Vco_OptMesh_17_0": "80554914784737",
+    "BodyC05Vco_OptMesh_18_0": "80554914784737",
+    "BodyC05Vco_OptMesh_19_0": "80554914784737",
+    "pm0885_00_EyeFlowerSkin_4_0": "103173251416553",
+    "pm0885_00_EyeFlowerSkin_5_0": "133333056850466",
+    "pm0885_00_EyeStarSkin_2_0": "103173251416553",
+    "pm0885_00_EyeStarSkin_3_0": "133333056850466",
+    "pm0885_00_HeadSkin_0_0": "80554914784737",
+    "pm0885_00_HeadSkin_1_0": "140686736136864"
+  }
+}
