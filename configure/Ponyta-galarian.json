@@ -1,0 +1,35 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0077_00_31_BodySkin_Mesh": "100000700172899",
+    "pm0077_00_31_BodySkin_Mesh_Eyes": "81020203334049",
+    "pm0077_00_31_HaedHairSkin_Mesh_Emissives": "126431732839758",
+    "pm0077_00_31_HairSkin_Mesh_Emissives": "126431732839758",
+    "pm0077_00_31_HornSkin_Mesh_Emissives": "126431732839758",
+    "pm0077_00_31_LegFurSkin_Mesh_Emissives": "126431732839758",
+    "pm0077_00_31_TailSkin_Mesh_Emissives": "126431732839758"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0077_00_31_BodySkin_Mesh": "115881406258414",
+    "pm0077_00_31_BodySkin_Mesh_Eyes": "129787861647864",
+    "pm0077_00_31_HaedHairSkin_Mesh_Emissives": "80566691434262",
+    "pm0077_00_31_HairSkin_Mesh_Emissives": "80566691434262",
+    "pm0077_00_31_HornSkin_Mesh_Emissives": "80566691434262",
+    "pm0077_00_31_LegFurSkin_Mesh_Emissives": "80566691434262",
+    "pm0077_00_31_TailSkin_Mesh_Emissives": "80566691434262"
+  }
+}
