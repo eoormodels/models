@@ -1,0 +1,51 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm1103_12_00_acc_mesh_Mesh_Body_01": "92317387542357",
+    "pm1103_12_00_acc_mesh_Mesh_Body_02": "91297216830564",
+    "pm1103_12_00_acc_mesh_Mesh_Emissives_01": "116133175402097",
+    "pm1103_12_00_antenna_01_mesh_Mesh_Body_01": "92317387542357",
+    "pm1103_12_00_antenna_01_mesh_Mesh_Emissives_02": "88351591186913",
+    "pm1103_12_00_antenna_02_mesh_Mesh_Body_01": "92317387542357",
+    "pm1103_12_00_antenna_02_mesh_Mesh_Emissives_02": "88351591186913",
+    "pm1103_12_00_arm_mesh_Mesh_Body_02": "91297216830564",
+    "pm1103_12_00_arm_mesh_Mesh_Emissives_01": "116133175402097",
+    "pm1103_12_00_body_01_mesh_Mesh_Body_01": "92317387542357",
+    "pm1103_12_00_body_01_mesh_Mesh_Emissives_01": "116133175402097",
+    "pm1103_12_00_body_02_mesh_Mesh_Body_03": "88006399707412",
+    "pm1103_12_00_eye_mesh_Mesh_Emissives_03": "79783384600126",
+    "pm1103_12_00_head_mesh_Mesh_Body_01": "92317387542357",
+    "pm1103_12_00_jaw_mesh_Mesh_Body_01": "92317387542357",
+    "pm1103_12_00_jaw_mesh_Mesh_Emissives_01": "116133175402097",
+    "pm1103_12_00_lowleg_mesh_Mesh_Body_01": "92317387542357",
+    "pm1103_12_00_lowleg_mesh_Mesh_Body_02": "91297216830564",
+    "pm1103_12_00_neck_mesh_Mesh_Body_01": "92317387542357",
+    "pm1103_12_00_tail_01_mesh_Mesh_Body_03": "88006399707412",
+    "pm1103_12_00_tail_02_mesh_Mesh_Body_03": "88006399707412",
+    "pm1103_12_00_tail_03_mesh_Mesh_Body_03": "88006399707412",
+    "pm1103_12_00_tongue_mesh_Mesh_Body_01": "92317387542357",
+    "pm1103_12_00_upperleg_mesh_Mesh_Body_02": "91297216830564",
+    "pm1103_12_00_upperleg_mesh_Mesh_Emissives_01": "116133175402097",
+    "pm1103_12_00_upperleg_mesh_Mesh_Emissives_02": "88351591186913",
+    "pm1103_12_00_wheel_01_mesh_Mesh_Emissives_04": "101415384956894",
+    "pm1103_12_00_wheel_02_mesh_Mesh_Emissives_04": "101415384956894",
+    "pm1103_12_00_wheel_03_mesh_Mesh_Emissives_05": "114999264688474",
+    "pm1103_12_00_wing_mesh_Mesh_Body_04": "84166692850767"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+  }
+}
