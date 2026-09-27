@@ -1,0 +1,57 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "BodyA01_OptMesh_0_0": "88598790344833",
+    "BodyA01_OptMesh_1_0": "88598790344833",
+    "BodyA01_OptMesh_2_0": "88598790344833",
+    "BodyA02_OptMesh_14_0": "88598790344833",
+    "BodyA03_OptMesh_15_0": "88598790344833",
+    "BodyA04EnvVco_OptMesh_13_0": "88598790344833",
+    "BodyA05Vco_OptMesh_16_0": "88598790344833",
+    "BodyBInc_OptMesh_12_0": "79100385407580",
+    "BodyCInc_OptMesh_11_0": "115168332139620",
+    "BodyD01_OptMesh_3_0": "134496610429228",
+    "BodyD01_OptMesh_4_0": "134496610429228",
+    "BodyD01_OptMesh_5_0": "134496610429228",
+    "BodyD01_OptMesh_6_0": "134496610429228",
+    "BodyD01_OptMesh_7_0": "134496610429228",
+    "BodyD02_OptMesh_8_0": "134496610429228",
+    "BodyD02_OptMesh_9_0": "134496610429228",
+    "BodyD03Vco_OptMesh_17_0": "134496610429228",
+    "BodyEInc_OptMesh_10_0": "109896174172221"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "BodyA01_OptMesh_0_0": "105177080244220",
+    "BodyA01_OptMesh_1_0": "105177080244220",
+    "BodyA01_OptMesh_2_0": "105177080244220",
+    "BodyA02_OptMesh_14_0": "105177080244220",
+    "BodyA03_OptMesh_15_0": "105177080244220",
+    "BodyA04EnvVco_OptMesh_13_0": "105177080244220",
+    "BodyA05Vco_OptMesh_16_0": "105177080244220",
+    "BodyBInc_OptMesh_12_0": "75681960042864",
+    "BodyCInc_OptMesh_11_0": "134523156829493",
+    "BodyD01_OptMesh_3_0": "110616195228029",
+    "BodyD01_OptMesh_4_0": "110616195228029",
+    "BodyD01_OptMesh_5_0": "110616195228029",
+    "BodyD01_OptMesh_6_0": "110616195228029",
+    "BodyD01_OptMesh_7_0": "110616195228029",
+    "BodyD02_OptMesh_8_0": "110616195228029",
+    "BodyD02_OptMesh_9_0": "110616195228029",
+    "BodyD03Vco_OptMesh_17_0": "110616195228029",
+    "BodyEInc_OptMesh_10_0": "135874143105627"
+  }
+}
