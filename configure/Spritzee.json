@@ -1,0 +1,36 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "BodyADodo_OptMesh_10_0": "97397009118833",
+    "BodyA_OptMesh_8_0": "97397009118833",
+    "Eye_OptMesh_9_0": "98659190335404",
+    "pm0758_00_MatsugeASkin_0_0": "80114974373519"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "BodyADodo_OptMesh_10_0": "74431185986563",
+    "BodyA_OptMesh_8_0": "74431185986563",
+    "Eye_OptMesh_9_0": "105185046607920",
+    "pm0758_00_MatsugeASkin_0_0": "82792631129808",
+    "pm0758_00_MatsugeBSkin_1_0": "82792631129808",
+    "pm0758_00_MatsugeCSkin_2_0": "82792631129808",
+    "pm0758_00_MatsugeDSkin_3_0": "82792631129808",
+    "pm0758_00_MatsugeESkin_4_0": "82792631129808",
+    "pm0758_00_MatsugeFSkin_5_0": "82792631129808",
+    "pm0758_00_MatsugeGSkin_6_0": "82792631129808",
+    "pm0758_00_MatsugeHSkin_7_0": "82792631129808"
+  }
+}
