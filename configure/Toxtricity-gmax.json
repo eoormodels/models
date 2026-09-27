@@ -1,0 +1,35 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0922_81_00_BodySkin_Mesh": "110392175746216",
+    "pm0922_81_00_BodySkin_Mesh_Emissives": "77857995224985",
+    "pm0922_81_00_ChestPartsSkin_Mesh_Emissives": "77857995224985",
+    "pm0922_81_00_GuitarSkin_Mesh": "110392175746216",
+    "pm0922_81_00_HairASkin_Mesh_Emissives": "77857995224985",
+    "pm0922_81_00_HairBSkin_Mesh_Emissives": "77857995224985",
+    "pm0922_81_00_HipPartsSkin_Mesh": "110392175746216"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0922_81_00_BodySkin_Mesh": "104737237948396",
+    "pm0922_81_00_BodySkin_Mesh_Emissives": "129840326085204",
+    "pm0922_81_00_ChestPartsSkin_Mesh_Emissives": "129840326085204",
+    "pm0922_81_00_GuitarSkin_Mesh": "104737237948396",
+    "pm0922_81_00_HairASkin_Mesh_Emissives": "129840326085204",
+    "pm0922_81_00_HairBSkin_Mesh_Emissives": "129840326085204",
+    "pm0922_81_00_HipPartsSkin_Mesh": "104737237948396"
+  }
+}
