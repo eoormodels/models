@@ -1,0 +1,31 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0902_00_00_BodySkin_Mesh": "78768186283264",
+    "pm0902_00_00_BodySkin_Mesh_Eyes": "136004555101691",
+    "pm0902_00_00_LClawSkin_Mesh": "78768186283264",
+    "pm0902_00_00_RClawSkin_Mesh": "78768186283264",
+    "pm0902_00_00_TongueSkin_Mesh": "78768186283264"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0902_00_00_BodySkin_Mesh": "127326704274841",
+    "pm0902_00_00_BodySkin_Mesh_Eyes": "109640815247445",
+    "pm0902_00_00_LClawSkin_Mesh": "127326704274841",
+    "pm0902_00_00_RClawSkin_Mesh": "127326704274841",
+    "pm0902_00_00_TongueSkin_Mesh": "127326704274841"
+  }
+}
