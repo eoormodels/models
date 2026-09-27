@@ -1,0 +1,33 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0925_81_00_BodySkin_Mesh": "77955309984599",
+    "pm0925_81_00_BodySkin_Mesh_Eyes": "108907367921766",
+    "pm0925_81_00_CakeSkin_Mesh": "77955309984599",
+    "pm0925_81_00_CreamSkin_Mesh": "77955309984599",
+    "pm0925_81_00_DecorationSkin_Mesh": "77955309984599",
+    "pm0925_81_00_VeilSkin_Mesh": "77955309984599"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0925_81_00_BodySkin_Mesh": "74371558562342",
+    "pm0925_81_00_BodySkin_Mesh_Eyes": "114580957962370",
+    "pm0925_81_00_CakeSkin_Mesh": "74371558562342",
+    "pm0925_81_00_CreamSkin_Mesh": "74371558562342",
+    "pm0925_81_00_DecorationSkin_Mesh": "74371558562342",
+    "pm0925_81_00_VeilSkin_Mesh": "74371558562342"
+  }
+}
