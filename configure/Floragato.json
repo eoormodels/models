@@ -1,0 +1,53 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm1011_00_00_body_mesh_Mesh_Body_01": "111510796250328",
+    "pm1011_00_00_body_mesh_Mesh_Body_02": "91771477498955",
+    "pm1011_00_00_bud_mesh_Mesh_Body_02": "91771477498955",
+    "pm1011_00_00_bud_mesh_Mesh_Body_03": "118892081579712",
+    "pm1011_00_00_eye_mesh_Mesh_Emissives_01": "103316535217578",
+    "pm1011_00_00_eye_mesh_Mesh_Emissives_02": "128087841215747",
+    "pm1011_00_00_hand_mesh_Mesh_Body_01": "111510796250328",
+    "pm1011_00_00_hand_mesh_Mesh_Body_02": "91771477498955",
+    "pm1011_00_00_head_mesh_Mesh_Body_01": "111510796250328",
+    "pm1011_00_00_head_mesh_Mesh_Body_02": "91771477498955",
+    "pm1011_00_00_head_mesh_Mesh_Body_04": "135535040079984",
+    "pm1011_00_00_leaf_mesh_Mesh_Body_02": "91771477498955",
+    "pm1011_00_00_leaf_mesh_Mesh_Body_03": "118892081579712",
+    "pm1011_00_00_teeth_mesh_Mesh_Body_04": "135535040079984",
+    "pm1011_00_00_yoyo_mesh_Mesh_Body_02": "91771477498955",
+    "pm1011_00_00_yoyo_mesh_Mesh_Body_03": "118892081579712"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm1011_00_00_body_mesh_Mesh_Body_01": "89829895269435",
+    "pm1011_00_00_body_mesh_Mesh_Body_02": "90441555834107",
+    "pm1011_00_00_bud_mesh_Mesh_Body_02": "90441555834107",
+    "pm1011_00_00_bud_mesh_Mesh_Body_03": "91243191029151",
+    "pm1011_00_00_eye_mesh_Mesh_Emissives_01": "137310106708117",
+    "pm1011_00_00_eye_mesh_Mesh_Emissives_02": "82580594910376",
+    "pm1011_00_00_hand_mesh_Mesh_Body_01": "89829895269435",
+    "pm1011_00_00_hand_mesh_Mesh_Body_02": "90441555834107",
+    "pm1011_00_00_head_mesh_Mesh_Body_01": "89829895269435",
+    "pm1011_00_00_head_mesh_Mesh_Body_02": "90441555834107",
+    "pm1011_00_00_head_mesh_Mesh_Body_04": "117083982045635",
+    "pm1011_00_00_leaf_mesh_Mesh_Body_02": "90441555834107",
+    "pm1011_00_00_leaf_mesh_Mesh_Body_03": "91243191029151",
+    "pm1011_00_00_teeth_mesh_Mesh_Body_04": "117083982045635",
+    "pm1011_00_00_yoyo_mesh_Mesh_Body_02": "90441555834107",
+    "pm1011_00_00_yoyo_mesh_Mesh_Body_03": "91243191029151"
+  }
+}
