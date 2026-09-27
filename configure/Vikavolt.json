@@ -1,0 +1,37 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "Body00_OptMesh_2_0": "121924845197366",
+    "Body01_OptMesh_6_0": "121924845197366",
+    "Body02_OptMesh_7_0": "121924845197366",
+    "BodyInc_OptMesh_4_0": "121924845197366",
+    "BodyVco_OptMesh_5_0": "121924845197366",
+    "Eye_OptMesh_3_0": "103087230989916",
+    "pm0838_00_RearwingASkin_0_0": "97199623239689",
+    "pm0838_00_RearwingBSkin_1_0": "88768688336367"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "Body00_OptMesh_2_0": "92804652692355",
+    "Body01_OptMesh_6_0": "92804652692355",
+    "Body02_OptMesh_7_0": "92804652692355",
+    "BodyInc_OptMesh_4_0": "92804652692355",
+    "BodyVco_OptMesh_5_0": "92804652692355",
+    "Eye_OptMesh_3_0": "71957208215911",
+    "pm0838_00_RearwingASkin_0_0": "107846509301513",
+    "pm0838_00_RearwingBSkin_1_0": "112368225867240"
+  }
+}
