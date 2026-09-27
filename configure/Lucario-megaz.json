@@ -1,0 +1,51 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0448_52_00_arm_mesh_Mesh_Body_01": "113513640297487",
+    "pm0448_52_00_arm_mesh_Mesh_Body_02": "99330193783711",
+    "pm0448_52_00_body_mesh_Mesh_Body_03": "100211416097792",
+    "pm0448_52_00_eye_mesh_Mesh_Eyes_01": "103644540178324",
+    "pm0448_52_00_eye_mesh_Mesh_Eyes_02": "100590745305172",
+    "pm0448_52_00_feeler_a_mesh_Mesh_Body_03": "100211416097792",
+    "pm0448_52_00_hair_mesh_Mesh_Body_03": "100211416097792",
+    "pm0448_52_00_head_mesh_Mesh_Body_04": "126878537586150",
+    "pm0448_52_00_head_mesh_Mesh_Body_05": "114413801808673",
+    "pm0448_52_00_left_feeler_b_mesh_Mesh_Body_03": "100211416097792",
+    "pm0448_52_00_leg_mesh_Mesh_Body_01": "113513640297487",
+    "pm0448_52_00_leg_mesh_Mesh_Body_02": "99330193783711",
+    "pm0448_52_00_right_feeler_b_mesh_Mesh_Body_03": "100211416097792",
+    "pm0448_52_00_shoulder_mesh_Mesh_Body_02": "99330193783711",
+    "pm0448_52_00_steel_mesh_Mesh_Body_02": "99330193783711"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0448_52_00_arm_mesh_Mesh_Body_01": "140397994976689",
+    "pm0448_52_00_arm_mesh_Mesh_Body_02": "112383781868953",
+    "pm0448_52_00_body_mesh_Mesh_Body_03": "136610058873048",
+    "pm0448_52_00_eye_mesh_Mesh_Eyes_01": "90785508383089",
+    "pm0448_52_00_eye_mesh_Mesh_Eyes_02": "85329080839100",
+    "pm0448_52_00_feeler_a_mesh_Mesh_Body_03": "136610058873048",
+    "pm0448_52_00_hair_mesh_Mesh_Body_03": "136610058873048",
+    "pm0448_52_00_head_mesh_Mesh_Body_04": "131634270392494",
+    "pm0448_52_00_head_mesh_Mesh_Body_05": "93566623221289",
+    "pm0448_52_00_left_feeler_b_mesh_Mesh_Body_03": "136610058873048",
+    "pm0448_52_00_leg_mesh_Mesh_Body_01": "140397994976689",
+    "pm0448_52_00_leg_mesh_Mesh_Body_02": "112383781868953",
+    "pm0448_52_00_right_feeler_b_mesh_Mesh_Body_03": "136610058873048",
+    "pm0448_52_00_shoulder_mesh_Mesh_Body_02": "112383781868953",
+    "pm0448_52_00_steel_mesh_Mesh_Body_02": "112383781868953"
+  }
+}
