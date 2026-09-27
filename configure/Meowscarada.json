@@ -1,0 +1,49 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm1012_00_00_body_mesh_Mesh_Body_01": "72086572987962",
+    "pm1012_00_00_bom_a_mesh_Mesh_Body_02": "117318340001838",
+    "pm1012_00_00_bom_b_mesh_Mesh_Body_02": "117318340001838",
+    "pm1012_00_00_bom_c_mesh_Mesh_Body_02": "117318340001838",
+    "pm1012_00_00_claw_mesh_Mesh_Body_01": "72086572987962",
+    "pm1012_00_00_eye_mesh_Mesh_Emissives_01": "128686477207671",
+    "pm1012_00_00_eye_mesh_Mesh_Emissives_02": "128686477207671",
+    "pm1012_00_00_head_mesh_Mesh_Body_02": "117318340001838",
+    "pm1012_00_00_head_mesh_Mesh_Body_03": "134005424724774",
+    "pm1012_00_00_leg_mesh_Mesh_Body_01": "72086572987962",
+    "pm1012_00_00_mant_mesh_Mesh_Body_02": "117318340001838",
+    "pm1012_00_00_mant_mesh_Mesh_Body_03": "134005424724774",
+    "pm1012_00_00_neck_mesh_Mesh_Body_01": "72086572987962",
+    "pm1012_00_00_teeth_mesh_Mesh_Body_04": "139088225026318"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm1012_00_00_body_mesh_Mesh_Body_01": "95179736378453",
+    "pm1012_00_00_bom_a_mesh_Mesh_Body_02": "115417295583123",
+    "pm1012_00_00_bom_b_mesh_Mesh_Body_02": "115417295583123",
+    "pm1012_00_00_bom_c_mesh_Mesh_Body_02": "115417295583123",
+    "pm1012_00_00_claw_mesh_Mesh_Body_01": "95179736378453",
+    "pm1012_00_00_eye_mesh_Mesh_Emissives_01": "128686477207671",
+    "pm1012_00_00_eye_mesh_Mesh_Emissives_02": "128686477207671",
+    "pm1012_00_00_head_mesh_Mesh_Body_02": "115417295583123",
+    "pm1012_00_00_head_mesh_Mesh_Body_03": "94336443159964",
+    "pm1012_00_00_leg_mesh_Mesh_Body_01": "95179736378453",
+    "pm1012_00_00_mant_mesh_Mesh_Body_02": "115417295583123",
+    "pm1012_00_00_mant_mesh_Mesh_Body_03": "94336443159964",
+    "pm1012_00_00_neck_mesh_Mesh_Body_01": "95179736378453",
+    "pm1012_00_00_teeth_mesh_Mesh_Body_04": "84691385081746"
+  }
+}
