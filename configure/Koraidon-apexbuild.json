@@ -1,0 +1,51 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm1102_11_00_body_mesh_Mesh_Body_01": "129988245870131",
+    "pm1102_11_00_eye_ball_mesh_Mesh_Emissives_01": "123887337759186",
+    "pm1102_11_00_eye_ball_mesh_Mesh_Emissives_02": "73836815761460",
+    "pm1102_11_00_feeler_face_mesh_Mesh_Body_01": "129988245870131",
+    "pm1102_11_00_fine_mesh_Mesh_Body_01": "129988245870131",
+    "pm1102_11_00_hair_mesh_Mesh_Body_02": "72368197354352",
+    "pm1102_11_00_horn_mesh_Mesh_Body_02": "72368197354352",
+    "pm1102_11_00_lower_eyelid_mesh_Mesh_Body_01": "129988245870131",
+    "pm1102_11_00_tail01_mesh_Mesh_Body_03": "81699971695396",
+    "pm1102_11_00_tail02_mesh_Mesh_Body_03": "81699971695396",
+    "pm1102_11_00_tailhair_mesh_Mesh_Body_02": "72368197354352",
+    "pm1102_11_00_tire_mesh_Mesh_Body_03": "81699971695396",
+    "pm1102_11_00_tongue_mesh_Mesh_Body_01": "129988245870131",
+    "pm1102_11_00_upper_eyelid_mesh_Mesh_Body_01": "129988245870131",
+    "pm1102_11_00_wing_mesh_Mesh_Body_04": "80678430109021"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm1102_11_00_body_mesh_Mesh_Body_01": "76363274831296",
+    "pm1102_11_00_eye_ball_mesh_Mesh_Emissives_01": "102038366370053",
+    "pm1102_11_00_eye_ball_mesh_Mesh_Emissives_02": "125194926817446",
+    "pm1102_11_00_feeler_face_mesh_Mesh_Body_01": "76363274831296",
+    "pm1102_11_00_fine_mesh_Mesh_Body_01": "76363274831296",
+    "pm1102_11_00_hair_mesh_Mesh_Body_02": "82840965116063",
+    "pm1102_11_00_horn_mesh_Mesh_Body_02": "82840965116063",
+    "pm1102_11_00_lower_eyelid_mesh_Mesh_Body_01": "76363274831296",
+    "pm1102_11_00_tail01_mesh_Mesh_Body_03": "83348719071265",
+    "pm1102_11_00_tail02_mesh_Mesh_Body_03": "83348719071265",
+    "pm1102_11_00_tailhair_mesh_Mesh_Body_02": "82840965116063",
+    "pm1102_11_00_tire_mesh_Mesh_Body_03": "83348719071265",
+    "pm1102_11_00_tongue_mesh_Mesh_Body_01": "76363274831296",
+    "pm1102_11_00_upper_eyelid_mesh_Mesh_Body_01": "76363274831296",
+    "pm1102_11_00_wing_mesh_Mesh_Body_04": "70839118698563"
+  }
+}
