@@ -1,0 +1,55 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm1134_11_00_body_a_mesh_Mesh_Body_01": "79916612957162",
+    "pm1134_11_00_body_a_mesh_Mesh_Eyes_01": "77467389535049",
+    "pm1134_11_00_body_a_mesh_Mesh_Eyes_02": "77467389535049",
+    "pm1134_11_00_body_b_mesh_Mesh_Body_01": "79916612957162",
+    "pm1134_11_00_body_b_mesh_Mesh_Eyes_03": "77467389535049",
+    "pm1134_11_00_body_b_mesh_Mesh_Eyes_04": "77467389535049",
+    "pm1134_11_00_body_c_mesh_Mesh_Body_01": "79916612957162",
+    "pm1134_11_00_body_d_mesh_Mesh_Body_01": "79916612957162",
+    "pm1134_11_00_body_e_mesh_Mesh_Body_01": "79916612957162",
+    "pm1134_11_00_cup_a_mesh_Mesh_Body_01": "79916612957162",
+    "pm1134_11_00_cup_b_mesh_Mesh_Body_01": "79916612957162",
+    "pm1134_11_00_drop_a_mesh_Mesh_Body_01": "79916612957162",
+    "pm1134_11_00_drop_b_mesh_Mesh_Body_01": "79916612957162",
+    "pm1134_11_00_drop_c_mesh_Mesh_Body_01": "79916612957162",
+    "pm1134_11_00_drop_d_mesh_Mesh_Body_01": "79916612957162",
+    "pm1134_11_00_hair_a_mesh_Mesh_Body_01": "79916612957162",
+    "pm1134_11_00_hair_b_mesh_Mesh_Body_01": "79916612957162"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm1134_11_00_body_a_mesh_Mesh_Body_01": "98685625973348",
+    "pm1134_11_00_body_a_mesh_Mesh_Eyes_01": "77467389535049",
+    "pm1134_11_00_body_a_mesh_Mesh_Eyes_02": "77467389535049",
+    "pm1134_11_00_body_b_mesh_Mesh_Body_01": "98685625973348",
+    "pm1134_11_00_body_b_mesh_Mesh_Eyes_03": "77467389535049",
+    "pm1134_11_00_body_b_mesh_Mesh_Eyes_04": "77467389535049",
+    "pm1134_11_00_body_c_mesh_Mesh_Body_01": "98685625973348",
+    "pm1134_11_00_body_d_mesh_Mesh_Body_01": "98685625973348",
+    "pm1134_11_00_body_e_mesh_Mesh_Body_01": "98685625973348",
+    "pm1134_11_00_cup_a_mesh_Mesh_Body_01": "98685625973348",
+    "pm1134_11_00_cup_b_mesh_Mesh_Body_01": "98685625973348",
+    "pm1134_11_00_drop_a_mesh_Mesh_Body_01": "98685625973348",
+    "pm1134_11_00_drop_b_mesh_Mesh_Body_01": "98685625973348",
+    "pm1134_11_00_drop_c_mesh_Mesh_Body_01": "98685625973348",
+    "pm1134_11_00_drop_d_mesh_Mesh_Body_01": "98685625973348",
+    "pm1134_11_00_hair_a_mesh_Mesh_Body_01": "98685625973348",
+    "pm1134_11_00_hair_b_mesh_Mesh_Body_01": "98685625973348"
+  }
+}
