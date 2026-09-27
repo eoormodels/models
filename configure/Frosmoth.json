@@ -1,0 +1,53 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0946_00_00_BodySkin_Mesh": "120684698127085",
+    "pm0946_00_00_EyeASkin_Mesh": "120684698127085",
+    "pm0946_00_00_EyeBSkin_Mesh": "120684698127085",
+    "pm0946_00_00_EyeCSkin_Mesh": "120684698127085",
+    "pm0946_00_00_EyeDSkin_Mesh": "120684698127085",
+    "pm0946_00_00_EyeESkin_Mesh": "120684698127085",
+    "pm0946_00_00_EyeFSkin_Mesh": "120684698127085",
+    "pm0946_00_00_EyeGSkin_Mesh": "120684698127085",
+    "pm0946_00_00_FeelerASkin_Mesh": "120684698127085",
+    "pm0946_00_00_FeelerBSkin_Mesh": "120684698127085",
+    "pm0946_00_00_HandSkin_Mesh": "120684698127085",
+    "pm0946_00_00_HeadSkin_Mesh": "120684698127085",
+    "pm0946_00_00_LWingASkin_Mesh": "120684698127085",
+    "pm0946_00_00_LWingBSkin_Mesh": "120684698127085",
+    "pm0946_00_00_RWingASkin_Mesh": "120684698127085",
+    "pm0946_00_00_RWingBSkin_Mesh": "120684698127085"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0946_00_00_BodySkin_Mesh": "71492275420800",
+    "pm0946_00_00_EyeASkin_Mesh": "71492275420800",
+    "pm0946_00_00_EyeBSkin_Mesh": "71492275420800",
+    "pm0946_00_00_EyeCSkin_Mesh": "71492275420800",
+    "pm0946_00_00_EyeDSkin_Mesh": "71492275420800",
+    "pm0946_00_00_EyeESkin_Mesh": "71492275420800",
+    "pm0946_00_00_EyeFSkin_Mesh": "71492275420800",
+    "pm0946_00_00_EyeGSkin_Mesh": "71492275420800",
+    "pm0946_00_00_FeelerASkin_Mesh": "71492275420800",
+    "pm0946_00_00_FeelerBSkin_Mesh": "71492275420800",
+    "pm0946_00_00_HandSkin_Mesh": "71492275420800",
+    "pm0946_00_00_HeadSkin_Mesh": "71492275420800",
+    "pm0946_00_00_LWingASkin_Mesh": "71492275420800",
+    "pm0946_00_00_LWingBSkin_Mesh": "71492275420800",
+    "pm0946_00_00_RWingASkin_Mesh": "71492275420800",
+    "pm0946_00_00_RWingBSkin_Mesh": "71492275420800"
+  }
+}
