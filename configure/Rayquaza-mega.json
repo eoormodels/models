@@ -1,0 +1,57 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "BodyA00_Env_OptMesh_7_0": "95980289393083",
+    "BodyA00_Env_OptMesh_8_0": "95980289393083",
+    "BodyA00_Env_OptMesh_9_0": "95980289393083",
+    "BodyA01_EnvVco_OptMesh_10_0": "95980289393083",
+    "BodyA03_EnvVco_OptMesh_11_0": "95980289393083",
+    "BodyA04_EnvVco_OptMesh_12_0": "95980289393083",
+    "BodyA04_EnvVco_OptMesh_13_0": "95980289393083",
+    "BodyA05_EnvVco_OptMesh_14_0": "95980289393083",
+    "BodyA07_EnvVco_OptMesh_15_0": "95980289393083",
+    "BodyDiaInc_OptMesh_16_0": "106598679335565",
+    "Eye_OptMesh_17_0": "73058726347708",
+    "pm0384_51_BeamSkin_0_0": "90477627581594",
+    "pm0384_51_BeamSkin_1_0": "90477627581594",
+    "pm0384_51_BladeSkinSkin_2_0": "90477627581594",
+    "pm0384_51_NormalBeamASkin_3_0": "90477627581594",
+    "pm0384_51_NormalBeamASkin_4_0": "90477627581594",
+    "pm0384_51_NormalBeamASkin_5_0": "90477627581594",
+    "pm0384_51_NormalBeamASkin_6_0": "90477627581594"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "BodyA00_Env_OptMesh_7_0": "126534600506071",
+    "BodyA00_Env_OptMesh_8_0": "126534600506071",
+    "BodyA00_Env_OptMesh_9_0": "126534600506071",
+    "BodyA01_EnvVco_OptMesh_10_0": "126534600506071",
+    "BodyA03_EnvVco_OptMesh_11_0": "126534600506071",
+    "BodyA04_EnvVco_OptMesh_12_0": "126534600506071",
+    "BodyA04_EnvVco_OptMesh_13_0": "126534600506071",
+    "BodyA05_EnvVco_OptMesh_14_0": "126534600506071",
+    "BodyA07_EnvVco_OptMesh_15_0": "126534600506071",
+    "BodyDiaInc_OptMesh_16_0": "107278227675092",
+    "Eye_OptMesh_17_0": "99803926361135",
+    "pm0384_51_BeamSkin_0_0": "130891652717757",
+    "pm0384_51_BeamSkin_1_0": "130891652717757",
+    "pm0384_51_BladeSkinSkin_2_0": "130891652717757",
+    "pm0384_51_NormalBeamASkin_3_0": "130891652717757",
+    "pm0384_51_NormalBeamASkin_4_0": "130891652717757",
+    "pm0384_51_NormalBeamASkin_5_0": "130891652717757",
+    "pm0384_51_NormalBeamASkin_6_0": "130891652717757"
+  }
+}
