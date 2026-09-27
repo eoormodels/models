@@ -1,0 +1,39 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0910_00_00_BodySkin_Mesh": "128369290109123",
+    "pm0910_00_00_BodySkin_Mesh_Eyes": "100772976069031",
+    "pm0910_00_00_ChigoASkin_Mesh": "128369290109123",
+    "pm0910_00_00_ChigoBSkin_Mesh": "128369290109123",
+    "pm0910_00_00_ChigoCSkin_Mesh": "128369290109123",
+    "pm0910_00_00_HimeriASkin_Mesh": "128369290109123",
+    "pm0910_00_00_HimeriBSkin_Mesh": "128369290109123",
+    "pm0910_00_00_NanaASkin_Mesh": "128369290109123",
+    "pm0910_00_00_NanaBSkin_Mesh": "128369290109123"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0910_00_00_BodySkin_Mesh": "86621421994316",
+    "pm0910_00_00_BodySkin_Mesh_Eyes": "98534820245763",
+    "pm0910_00_00_ChigoASkin_Mesh": "86621421994316",
+    "pm0910_00_00_ChigoBSkin_Mesh": "86621421994316",
+    "pm0910_00_00_ChigoCSkin_Mesh": "86621421994316",
+    "pm0910_00_00_HimeriASkin_Mesh": "86621421994316",
+    "pm0910_00_00_HimeriBSkin_Mesh": "86621421994316",
+    "pm0910_00_00_NanaASkin_Mesh": "86621421994316",
+    "pm0910_00_00_NanaBSkin_Mesh": "86621421994316"
+  }
+}
