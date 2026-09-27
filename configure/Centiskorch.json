@@ -1,0 +1,61 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0916_00_00_BodySkin_Mesh": "101591483557199",
+    "pm0916_00_00_BodySkin_Mesh_Emissives": "94374920666295",
+    "pm0916_00_00_BodySkin_Mesh_Eyes": "93676234433029",
+    "pm0916_00_00_FireCoreASkin_Mesh": "101591483557199",
+    "pm0916_00_00_FireCoreBSkin_Mesh": "101591483557199",
+    "pm0916_00_00_FireCoreCSkin_Mesh": "101591483557199",
+    "pm0916_00_00_FireCoreDSkin_Mesh": "101591483557199",
+    "pm0916_00_00_FireCoreESkin_Mesh": "101591483557199",
+    "pm0916_00_00_FireCoreFSkin_Mesh": "101591483557199",
+    "pm0916_00_00_FireCoreGSkin_Mesh": "101591483557199",
+    "pm0916_00_00_FireCoreHSkin_Mesh": "101591483557199",
+    "pm0916_00_00_FireMaskASkin_Mesh": "101591483557199",
+    "pm0916_00_00_FireMaskBSkin_Mesh": "101591483557199",
+    "pm0916_00_00_FireMaskCSkin_Mesh": "101591483557199",
+    "pm0916_00_00_FireMaskDSkin_Mesh": "101591483557199",
+    "pm0916_00_00_FireMaskESkin_Mesh": "101591483557199",
+    "pm0916_00_00_FireMaskFSkin_Mesh": "101591483557199",
+    "pm0916_00_00_FireMaskGSkin_Mesh": "101591483557199",
+    "pm0916_00_00_FireMaskHSkin_Mesh": "101591483557199",
+    "pm0916_00_00_FootSkin_Mesh": "101591483557199"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0916_00_00_BodySkin_Mesh": "132134362175802",
+    "pm0916_00_00_BodySkin_Mesh_Emissives": "106182534291282",
+    "pm0916_00_00_BodySkin_Mesh_Eyes": "108565058489616",
+    "pm0916_00_00_FireCoreASkin_Mesh": "132134362175802",
+    "pm0916_00_00_FireCoreBSkin_Mesh": "132134362175802",
+    "pm0916_00_00_FireCoreCSkin_Mesh": "132134362175802",
+    "pm0916_00_00_FireCoreDSkin_Mesh": "132134362175802",
+    "pm0916_00_00_FireCoreESkin_Mesh": "132134362175802",
+    "pm0916_00_00_FireCoreFSkin_Mesh": "132134362175802",
+    "pm0916_00_00_FireCoreGSkin_Mesh": "132134362175802",
+    "pm0916_00_00_FireCoreHSkin_Mesh": "132134362175802",
+    "pm0916_00_00_FireMaskASkin_Mesh": "132134362175802",
+    "pm0916_00_00_FireMaskBSkin_Mesh": "132134362175802",
+    "pm0916_00_00_FireMaskCSkin_Mesh": "132134362175802",
+    "pm0916_00_00_FireMaskDSkin_Mesh": "132134362175802",
+    "pm0916_00_00_FireMaskESkin_Mesh": "132134362175802",
+    "pm0916_00_00_FireMaskFSkin_Mesh": "132134362175802",
+    "pm0916_00_00_FireMaskGSkin_Mesh": "132134362175802",
+    "pm0916_00_00_FireMaskHSkin_Mesh": "132134362175802",
+    "pm0916_00_00_FootSkin_Mesh": "132134362175802"
+  }
+}
