@@ -1,0 +1,54 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "AEye_OptMesh_3_0": "108980963850701",
+    "BodyATattu00_OptMesh_4_0": "135382033715557",
+    "BodyATattu00_OptMesh_5_0": "135382033715557",
+    "BodyATattu00_OptMesh_6_0": "135382033715557",
+    "BodyATattu01_OptMesh_13_0": "135382033715557",
+    "BodyATattu02_OptMesh_15_0": "135382033715557",
+    "BodyATattu03_OptMesh_16_0": "135382033715557",
+    "BodyATattu04_OptMesh_9_0": "135382033715557",
+    "BodyATattuVco00_OptMesh_10_0": "135382033715557",
+    "BodyATattuVco00_OptMesh_11_0": "135382033715557",
+    "BodyATattuVco01_OptMesh_14_0": "135382033715557",
+    "BodyBTattuVco00_OptMesh_7_0": "94356830743733",
+    "BodyBTattuVco01_OptMesh_12_0": "94356830743733",
+    "BodyBUniranNon_OptMesh_8_0": "138719098896859",
+    "pm0725_00_IrisSkin_1_0": "133888334724173",
+    "pm0725_00_IrisSkin_2_0": "133888334724173"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "AEye_OptMesh_3_0": "134362738969630",
+    "BodyATattu00_OptMesh_4_0": "84905728496703",
+    "BodyATattu00_OptMesh_5_0": "84905728496703",
+    "BodyATattu00_OptMesh_6_0": "84905728496703",
+    "BodyATattu01_OptMesh_13_0": "84905728496703",
+    "BodyATattu02_OptMesh_15_0": "84905728496703",
+    "BodyATattu03_OptMesh_16_0": "84905728496703",
+    "BodyATattu04_OptMesh_9_0": "84905728496703",
+    "BodyATattuVco00_OptMesh_10_0": "84905728496703",
+    "BodyATattuVco00_OptMesh_11_0": "84905728496703",
+    "BodyATattuVco01_OptMesh_14_0": "84905728496703",
+    "BodyBTattuVco00_OptMesh_7_0": "86033358729481",
+    "BodyBTattuVco01_OptMesh_12_0": "86033358729481",
+    "BodyBUniranNon_OptMesh_8_0": "92646308133321",
+    "pm0725_00_EyeBSkin_0_0": "137950508772012",
+    "pm0725_00_IrisSkin_1_0": "139617961230452",
+    "pm0725_00_IrisSkin_2_0": "139617961230452"
+  }
+}
