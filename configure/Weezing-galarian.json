@@ -1,0 +1,63 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0110_00_31_BodyASkin_Mesh": "119336445264559",
+    "pm0110_00_31_BodyASkin_Mesh_Eyes": "77662325415966",
+    "pm0110_00_31_BodyBSkin_Mesh": "119336445264559",
+    "pm0110_00_31_BodyCSkin_Mesh": "119336445264559",
+    "pm0110_00_31_CloudSkin_Mesh": "119336445264559",
+    "pm0110_00_31_SmokeCoreASkin_Mesh_BodyAnim_01": "115725123147872",
+    "pm0110_00_31_SmokeCoreBSkin_Mesh_BodyAnim_02": "125529851286533",
+    "pm0110_00_31_SmokeCoreCSkin_Mesh_BodyAnim_03": "100735032852993",
+    "pm0110_00_31_SmokeCoreDSkin_Mesh_BodyAnim_04": "79455740865598",
+    "pm0110_00_31_SmokeCoreESkin_Mesh_BodyAnim_05": "74111712734965",
+    "pm0110_00_31_SmokeCoreFSkin_Mesh_BodyAnim_06": "70377047793704",
+    "pm0110_00_31_SmokeGeomASkin_Mesh_BodyAnim_07": "77467389535049",
+    "pm0110_00_31_SmokeGeomBSkin_Mesh_BodyAnim_08": "77467389535049",
+    "pm0110_00_31_SmokeGeomCSkin_Mesh_BodyAnim_09": "77467389535049",
+    "pm0110_00_31_SmokeGeomDSkin_Mesh_BodyAnim_10": "77467389535049",
+    "pm0110_00_31_SmokeMaskASkin_Mesh_BodyAnim_07": "77467389535049",
+    "pm0110_00_31_SmokeMaskBSkin_Mesh_BodyAnim_08": "77467389535049",
+    "pm0110_00_31_SmokeMaskCSkin_Mesh_BodyAnim_09": "77467389535049",
+    "pm0110_00_31_SmokeMaskDSkin_Mesh_BodyAnim_10": "77467389535049",
+    "pm0110_00_31_SmokeMaskESkin_Mesh_BodyAnim_11": "84166692850767",
+    "pm0110_00_31_SmokeMaskFSkin_Mesh_BodyAnim_12": "84166692850767"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0110_00_31_BodyASkin_Mesh": "77085462396163",
+    "pm0110_00_31_BodyASkin_Mesh_Eyes": "105954551151560",
+    "pm0110_00_31_BodyBSkin_Mesh": "77085462396163",
+    "pm0110_00_31_BodyCSkin_Mesh": "77085462396163",
+    "pm0110_00_31_CloudSkin_Mesh": "77085462396163",
+    "pm0110_00_31_SmokeCoreASkin_Mesh_BodyAnim_01": "86868874455559",
+    "pm0110_00_31_SmokeCoreBSkin_Mesh_BodyAnim_02": "73576321050796",
+    "pm0110_00_31_SmokeCoreCSkin_Mesh_BodyAnim_03": "79251977096829",
+    "pm0110_00_31_SmokeCoreDSkin_Mesh_BodyAnim_04": "102177256173957",
+    "pm0110_00_31_SmokeCoreESkin_Mesh_BodyAnim_05": "84234203470293",
+    "pm0110_00_31_SmokeCoreFSkin_Mesh_BodyAnim_06": "112442815534834",
+    "pm0110_00_31_SmokeGeomASkin_Mesh_BodyAnim_07": "77467389535049",
+    "pm0110_00_31_SmokeGeomBSkin_Mesh_BodyAnim_08": "77467389535049",
+    "pm0110_00_31_SmokeGeomCSkin_Mesh_BodyAnim_09": "77467389535049",
+    "pm0110_00_31_SmokeGeomDSkin_Mesh_BodyAnim_10": "77467389535049",
+    "pm0110_00_31_SmokeMaskASkin_Mesh_BodyAnim_07": "77467389535049",
+    "pm0110_00_31_SmokeMaskBSkin_Mesh_BodyAnim_08": "77467389535049",
+    "pm0110_00_31_SmokeMaskCSkin_Mesh_BodyAnim_09": "77467389535049",
+    "pm0110_00_31_SmokeMaskDSkin_Mesh_BodyAnim_10": "77467389535049",
+    "pm0110_00_31_SmokeMaskESkin_Mesh_BodyAnim_11": "84166692850767",
+    "pm0110_00_31_SmokeMaskFSkin_Mesh_BodyAnim_12": "84166692850767"
+  }
+}
