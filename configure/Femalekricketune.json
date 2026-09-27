@@ -1,0 +1,35 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "BodyASpc00_OptMesh_4_0": "112665195147039",
+    "BodyASpc01_OptMesh_8_0": "112665195147039",
+    "BodyASpcVco_OptMesh_7_0": "112665195147039",
+    "BodyBSpcVco_OptMesh_5_0": "105233153638386",
+    "Eye_OptMesh_6_0": "103278333222196"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "BodyASpc00_OptMesh_4_0": "139957665949480",
+    "BodyASpc01_OptMesh_8_0": "139957665949480",
+    "BodyASpcVco_OptMesh_7_0": "139957665949480",
+    "BodyBSpcVco_OptMesh_5_0": "75528842128286",
+    "Eye_OptMesh_6_0": "136008274928349",
+    "pm0402_00_WingBSkin_0_0": "75528842128286",
+    "pm0402_00_WingBSkin_1_0": "75528842128286",
+    "pm0402_00_WingCSkin_2_0": "75528842128286",
+    "pm0402_00_WingCSkin_3_0": "75528842128286"
+  }
+}
