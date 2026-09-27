@@ -1,0 +1,56 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "BodyA_OptMesh_8_0": "108787782329466",
+    "BodyBBaivanila_IceVco_OptMesh_13_0": "77718643850293",
+    "BodyBVco_OptMesh_16_0": "77718643850293",
+    "BodyB_OptMesh_9_0": "77718643850293",
+    "BodyCBaivanila_IceVco00_OptMesh_15_0": "135179160488074",
+    "BodyCBaivanila_IceVco01_OptMesh_17_0": "135179160488074",
+    "BodyCBaivanila_Ice_OptMesh_14_0": "135179160488074",
+    "BodyC_OptMesh_10_0": "135179160488074",
+    "Eye_OptMesh_7_0": "100841304152152",
+    "Generator_OptMesh_11_0": "108787782329466",
+    "LightningAInc_OptMesh_12_0": "89353308917323",
+    "pm0646_13_LightningB0Skin_2_0": "85408713037051",
+    "pm0646_13_LightningB1Skin_3_0": "85408713037051",
+    "pm0646_13_LightningB2Skin_4_0": "85408713037051",
+    "pm0646_13_LightningB3Skin_5_0": "85408713037051",
+    "pm0646_13_LightningB4Skin_6_0": "85408713037051",
+    "pm0646_13_TubeBSkin_1_0": "98252355661984"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "BodyA_OptMesh_8_0": "92991994998996",
+    "BodyBBaivanila_IceVco_OptMesh_13_0": "74230502446225",
+    "BodyBVco_OptMesh_16_0": "74230502446225",
+    "BodyB_OptMesh_9_0": "74230502446225",
+    "BodyCBaivanila_IceVco00_OptMesh_15_0": "105825216523425",
+    "BodyCBaivanila_IceVco01_OptMesh_17_0": "105825216523425",
+    "BodyCBaivanila_Ice_OptMesh_14_0": "105825216523425",
+    "BodyC_OptMesh_10_0": "105825216523425",
+    "Eye_OptMesh_7_0": "102354583681141",
+    "Generator_OptMesh_11_0": "92991994998996",
+    "LightningAInc_OptMesh_12_0": "94466532299498",
+    "pm0646_13_LightningB0Skin_2_0": "119428224098389",
+    "pm0646_13_LightningB1Skin_3_0": "119428224098389",
+    "pm0646_13_LightningB2Skin_4_0": "119428224098389",
+    "pm0646_13_LightningB3Skin_5_0": "119428224098389",
+    "pm0646_13_LightningB4Skin_6_0": "119428224098389",
+    "pm0646_13_TubeASkin_0_0": "92991994998996",
+    "pm0646_13_TubeBSkin_1_0": "124553988006049"
+  }
+}
