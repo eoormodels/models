@@ -1,0 +1,42 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0076_00_HeadSkinShape_0_0": "94552885804644",
+    "pm0076_00_HeadSkinShape_1_0": "128744934993970",
+    "pm0076_00_LFootSkinShape_11_0": "94552885804644",
+    "pm0076_00_LHandSkinShape_9_0": "94552885804644",
+    "pm0076_00_RFootSkinShape_12_0": "94552885804644",
+    "pm0076_00_RHandSkinShape_10_0": "94552885804644",
+    "pm0076_00_RockSkinShape_2_0": "119517334581599",
+    "pm0076_00_RockSkinShape_3_0": "119517334581599"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0076_00_HeadSkinShape_0_0": "126547185327839",
+    "pm0076_00_HeadSkinShape_1_0": "132266699752953",
+    "pm0076_00_LFootSkinShape_11_0": "126547185327839",
+    "pm0076_00_LHandSkinShape_9_0": "126547185327839",
+    "pm0076_00_RFootSkinShape_12_0": "126547185327839",
+    "pm0076_00_RHandSkinShape_10_0": "126547185327839",
+    "pm0076_00_RockHoleHeadSkinShape_4_0": "104534148019747",
+    "pm0076_00_RockHoleLFSkinShape_6_0": "104534148019747",
+    "pm0076_00_RockHoleLHSkinShape_5_0": "104534148019747",
+    "pm0076_00_RockHoleRFSkinShape_8_0": "104534148019747",
+    "pm0076_00_RockHoleRHSkinShape_7_0": "104534148019747",
+    "pm0076_00_RockSkinShape_2_0": "104534148019747",
+    "pm0076_00_RockSkinShape_3_0": "104534148019747"
+  }
+}
