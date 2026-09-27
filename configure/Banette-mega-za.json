@@ -1,0 +1,49 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0354_51_00_body_mesh_Mesh_Emissives_01": "91068844614982",
+    "pm0354_51_00_eye_a_mesh_Mesh_Emissives_02": "88198991741342",
+    "pm0354_51_00_eye_a_mesh_Mesh_Emissives_03": "115939934001340",
+    "pm0354_51_00_eye_b_mesh_Mesh_Emissives_04": "77436858139316",
+    "pm0354_51_00_eyelid_mesh_Mesh_Body_01": "89140653743728",
+    "pm0354_51_00_left_zipper_mesh_Mesh_Body_02": "133459183919472",
+    "pm0354_51_00_right_zipper_mesh_Mesh_Body_02": "133459183919472",
+    "pm0354_51_00_slider_mesh_Mesh_Body_02": "133459183919472",
+    "pm0354_51_00_suit_a_mesh_Mesh_Body_01": "89140653743728",
+    "pm0354_51_00_suit_a_mesh_Mesh_Body_03": "89474278813618",
+    "pm0354_51_00_suit_mesh_Mesh_Emissives_05": "77978786499201",
+    "pm0354_51_00_tooth_mesh_Mesh_Body_02": "133459183919472",
+    "pm0354_51_00_underzipper_mesh_Mesh_Body_02": "133459183919472",
+    "pm0354_51_00_upperzipper_mesh_Mesh_Body_02": "133459183919472"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0354_51_00_body_mesh_Mesh_Emissives_01": "133767588841030",
+    "pm0354_51_00_eye_a_mesh_Mesh_Emissives_02": "107783483275464",
+    "pm0354_51_00_eye_a_mesh_Mesh_Emissives_03": "107541130698361",
+    "pm0354_51_00_eye_b_mesh_Mesh_Emissives_04": "110716071444310",
+    "pm0354_51_00_eyelid_mesh_Mesh_Body_01": "138567006124612",
+    "pm0354_51_00_left_zipper_mesh_Mesh_Body_02": "114826036543026",
+    "pm0354_51_00_right_zipper_mesh_Mesh_Body_02": "114826036543026",
+    "pm0354_51_00_slider_mesh_Mesh_Body_02": "114826036543026",
+    "pm0354_51_00_suit_a_mesh_Mesh_Body_01": "138567006124612",
+    "pm0354_51_00_suit_a_mesh_Mesh_Body_03": "122118303680147",
+    "pm0354_51_00_suit_mesh_Mesh_Emissives_05": "119470900584383",
+    "pm0354_51_00_tooth_mesh_Mesh_Body_02": "114826036543026",
+    "pm0354_51_00_underzipper_mesh_Mesh_Body_02": "114826036543026",
+    "pm0354_51_00_upperzipper_mesh_Mesh_Body_02": "114826036543026"
+  }
+}
