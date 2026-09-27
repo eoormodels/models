@@ -1,0 +1,33 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0907_00_00_BodySkin_Mesh": "105159169157832",
+    "pm0907_00_00_HeadSkin_Mesh": "105159169157832",
+    "pm0907_00_00_HeadSkin_Mesh_Eyes": "104002741896525",
+    "pm0907_00_00_MufflerFlatSkin_Mesh": "105159169157832",
+    "pm0907_00_00_MufflerSkin_Mesh": "105159169157832",
+    "pm0907_00_00_TongueSkin_Mesh": "105159169157832"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0907_00_00_BodySkin_Mesh": "117394582049530",
+    "pm0907_00_00_HeadSkin_Mesh": "117394582049530",
+    "pm0907_00_00_HeadSkin_Mesh_Eyes": "101905312542293",
+    "pm0907_00_00_MufflerFlatSkin_Mesh": "117394582049530",
+    "pm0907_00_00_MufflerSkin_Mesh": "117394582049530",
+    "pm0907_00_00_TongueSkin_Mesh": "117394582049530"
+  }
+}
