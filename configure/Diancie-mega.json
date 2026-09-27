@@ -1,0 +1,61 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "BodyADesukarnVco_OptMesh_14_0": "116208717877799",
+    "BodyAIncVco_OptMesh_19_0": "116208717877799",
+    "BodyAInc_OptMesh_17_0": "116208717877799",
+    "BodyAInc_OptMesh_18_0": "116208717877799",
+    "BodyBIncVco_omo_OptMesh_21_0": "111400905057879",
+    "BodyBIncVco_omo_OptMesh_22_0": "111400905057879",
+    "BodyBIncVco_ura_OptMesh_15_0": "111400905057879",
+    "BodyBIncVco_ura_OptMesh_16_0": "111400905057879",
+    "BodyDiaPink00_OptMesh_10_0": "82755749743089",
+    "BodyDiaPink_Trans_OptMesh_13_0": "73641290597498",
+    "BodyDiaRed00_OptMesh_12_0": "99589676332240",
+    "Eye_OptMesh_20_0": "100238871288461",
+    "Mouth_OptMesh_11_0": "111066483622528",
+    "pm0772_51_VeilLSkin_8_0": "111400905057879",
+    "pm0772_51_VeilLSkin_9_0": "111400905057879",
+    "pm0772_51_VeilRSkin_6_0": "111400905057879",
+    "pm0772_51_VeilRSkin_7_0": "111400905057879"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "BodyADesukarnVco_OptMesh_14_0": "76116020953187",
+    "BodyAIncVco_OptMesh_19_0": "76116020953187",
+    "BodyAInc_OptMesh_17_0": "76116020953187",
+    "BodyAInc_OptMesh_18_0": "76116020953187",
+    "BodyBIncVco_omo_OptMesh_21_0": "102501783463266",
+    "BodyBIncVco_omo_OptMesh_22_0": "102501783463266",
+    "BodyBIncVco_ura_OptMesh_15_0": "102501783463266",
+    "BodyBIncVco_ura_OptMesh_16_0": "102501783463266",
+    "BodyDiaPink00_OptMesh_10_0": "82755749743089",
+    "BodyDiaPink_Trans_OptMesh_13_0": "137172699069251",
+    "BodyDiaRed00_OptMesh_12_0": "77549353331835",
+    "Eye_OptMesh_20_0": "112867193371086",
+    "Mouth_OptMesh_11_0": "97524515793803",
+    "pm0772_51_AttackStoneASkin_0_0": "82755749743089",
+    "pm0772_51_AttackStoneBSkin_1_0": "82755749743089",
+    "pm0772_51_AttackStoneCSkin_2_0": "82755749743089",
+    "pm0772_51_AttackStoneDSkin_3_0": "82755749743089",
+    "pm0772_51_AttackStoneESkin_4_0": "82755749743089",
+    "pm0772_51_AttackStoneFSkin_5_0": "82755749743089",
+    "pm0772_51_VeilLSkin_8_0": "102501783463266",
+    "pm0772_51_VeilLSkin_9_0": "102501783463266",
+    "pm0772_51_VeilRSkin_6_0": "102501783463266",
+    "pm0772_51_VeilRSkin_7_0": "102501783463266"
+  }
+}
