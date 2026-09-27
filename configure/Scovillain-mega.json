@@ -1,0 +1,51 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm1043_51_00_body_a_mesh_Mesh_Body_01": "124525382039076",
+    "pm1043_51_00_body_b_mesh_Mesh_Body_01": "124525382039076",
+    "pm1043_51_00_body_c_mesh_Mesh_Body_02": "125577655904830",
+    "pm1043_51_00_body_c_mesh_Mesh_Emissives_01": "82200373172148",
+    "pm1043_51_00_eye_a_mesh_Mesh_Eyes_01": "116019050819868",
+    "pm1043_51_00_eye_a_mesh_Mesh_Eyes_02": "121915912075333",
+    "pm1043_51_00_eye_b_mesh_Mesh_Eyes_03": "92909595582462",
+    "pm1043_51_00_eye_b_mesh_Mesh_Eyes_04": "110661718334255",
+    "pm1043_51_00_head_a_mesh_Mesh_Body_02": "125577655904830",
+    "pm1043_51_00_head_b_mesh_Mesh_Body_02": "125577655904830",
+    "pm1043_51_00_neck_mesh_Mesh_Body_01": "124525382039076",
+    "pm1043_51_00_seed_a_mesh_Mesh_Emissives_01": "82200373172148",
+    "pm1043_51_00_seed_b_mesh_Mesh_Emissives_01": "82200373172148",
+    "pm1043_51_00_teeth_a_mesh_Mesh_Emissives_01": "82200373172148",
+    "pm1043_51_00_teeth_b_mesh_Mesh_Emissives_01": "82200373172148"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm1043_51_00_body_a_mesh_Mesh_Body_01": "126401406016009",
+    "pm1043_51_00_body_b_mesh_Mesh_Body_01": "126401406016009",
+    "pm1043_51_00_body_c_mesh_Mesh_Body_02": "73700613829746",
+    "pm1043_51_00_body_c_mesh_Mesh_Emissives_01": "116294457351838",
+    "pm1043_51_00_eye_a_mesh_Mesh_Eyes_01": "82483715181797",
+    "pm1043_51_00_eye_a_mesh_Mesh_Eyes_02": "71399198928876",
+    "pm1043_51_00_eye_b_mesh_Mesh_Eyes_03": "139288848777242",
+    "pm1043_51_00_eye_b_mesh_Mesh_Eyes_04": "114407421565552",
+    "pm1043_51_00_head_a_mesh_Mesh_Body_02": "73700613829746",
+    "pm1043_51_00_head_b_mesh_Mesh_Body_02": "73700613829746",
+    "pm1043_51_00_neck_mesh_Mesh_Body_01": "126401406016009",
+    "pm1043_51_00_seed_a_mesh_Mesh_Emissives_01": "116294457351838",
+    "pm1043_51_00_seed_b_mesh_Mesh_Emissives_01": "116294457351838",
+    "pm1043_51_00_teeth_a_mesh_Mesh_Emissives_01": "116294457351838",
+    "pm1043_51_00_teeth_b_mesh_Mesh_Emissives_01": "116294457351838"
+  }
+}
