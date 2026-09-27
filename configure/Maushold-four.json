@@ -1,0 +1,73 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm1050_11_00_body_a_01_mesh_Mesh_Body_01": "82279708839281",
+    "pm1050_11_00_body_a_01_mesh_Mesh_Body_02": "76426801839297",
+    "pm1050_11_00_body_a_01_mesh_Mesh_Body_03": "134583469201625",
+    "pm1050_11_00_body_a_02_mesh_Mesh_Body_01": "82279708839281",
+    "pm1050_11_00_body_a_02_mesh_Mesh_Body_02": "76426801839297",
+    "pm1050_11_00_body_a_02_mesh_Mesh_Body_03": "134583469201625",
+    "pm1050_11_00_body_b_01_mesh_Mesh_Body_01": "82279708839281",
+    "pm1050_11_00_body_b_01_mesh_Mesh_Body_02": "76426801839297",
+    "pm1050_11_00_body_b_01_mesh_Mesh_Body_03": "134583469201625",
+    "pm1050_11_00_body_b_01_mesh_Mesh_Body_04": "78945770995735",
+    "pm1050_11_00_body_b_01_mesh_Mesh_Body_05": "134583469201625",
+    "pm1050_11_00_body_b_02_mesh_Mesh_Body_01": "82279708839281",
+    "pm1050_11_00_body_b_02_mesh_Mesh_Body_02": "76426801839297",
+    "pm1050_11_00_body_b_02_mesh_Mesh_Body_03": "134583469201625",
+    "pm1050_11_00_body_b_02_mesh_Mesh_Body_04": "78945770995735",
+    "pm1050_11_00_body_b_02_mesh_Mesh_Body_05": "134583469201625",
+    "pm1050_11_00_body_c_01_mesh_Mesh_Body_06": "122558934849826",
+    "pm1050_11_00_body_c_01_mesh_Mesh_Body_07": "89880666089510",
+    "pm1050_11_00_body_c_01_mesh_Mesh_Emissives_01": "104851874827975",
+    "pm1050_11_00_body_c_02_mesh_Mesh_Body_06": "122558934849826",
+    "pm1050_11_00_body_c_02_mesh_Mesh_Body_07": "89880666089510",
+    "pm1050_11_00_body_c_02_mesh_Mesh_Emissives_01": "104851874827975",
+    "pm1050_11_00_tail_a_01_mesh_Mesh_Body_02": "76426801839297",
+    "pm1050_11_00_tail_a_02_mesh_Mesh_Body_02": "76426801839297",
+    "pm1050_11_00_tail_b_01_mesh_Mesh_Body_04": "78945770995735",
+    "pm1050_11_00_tail_b_02_mesh_Mesh_Body_04": "78945770995735"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm1050_11_00_body_a_01_mesh_Mesh_Body_01": "117117284828660",
+    "pm1050_11_00_body_a_01_mesh_Mesh_Body_02": "114756474915907",
+    "pm1050_11_00_body_a_01_mesh_Mesh_Body_03": "134583469201625",
+    "pm1050_11_00_body_a_02_mesh_Mesh_Body_01": "117117284828660",
+    "pm1050_11_00_body_a_02_mesh_Mesh_Body_02": "114756474915907",
+    "pm1050_11_00_body_a_02_mesh_Mesh_Body_03": "134583469201625",
+    "pm1050_11_00_body_b_01_mesh_Mesh_Body_01": "117117284828660",
+    "pm1050_11_00_body_b_01_mesh_Mesh_Body_02": "114756474915907",
+    "pm1050_11_00_body_b_01_mesh_Mesh_Body_03": "134583469201625",
+    "pm1050_11_00_body_b_01_mesh_Mesh_Body_04": "83869043986891",
+    "pm1050_11_00_body_b_01_mesh_Mesh_Body_05": "134583469201625",
+    "pm1050_11_00_body_b_02_mesh_Mesh_Body_01": "117117284828660",
+    "pm1050_11_00_body_b_02_mesh_Mesh_Body_02": "114756474915907",
+    "pm1050_11_00_body_b_02_mesh_Mesh_Body_03": "134583469201625",
+    "pm1050_11_00_body_b_02_mesh_Mesh_Body_04": "83869043986891",
+    "pm1050_11_00_body_b_02_mesh_Mesh_Body_05": "134583469201625",
+    "pm1050_11_00_body_c_01_mesh_Mesh_Body_06": "122558934849826",
+    "pm1050_11_00_body_c_01_mesh_Mesh_Body_07": "89880666089510",
+    "pm1050_11_00_body_c_01_mesh_Mesh_Emissives_01": "104851874827975",
+    "pm1050_11_00_body_c_02_mesh_Mesh_Body_06": "122558934849826",
+    "pm1050_11_00_body_c_02_mesh_Mesh_Body_07": "89880666089510",
+    "pm1050_11_00_body_c_02_mesh_Mesh_Emissives_01": "104851874827975",
+    "pm1050_11_00_tail_a_01_mesh_Mesh_Body_02": "114756474915907",
+    "pm1050_11_00_tail_a_02_mesh_Mesh_Body_02": "114756474915907",
+    "pm1050_11_00_tail_b_01_mesh_Mesh_Body_04": "83869043986891",
+    "pm1050_11_00_tail_b_02_mesh_Mesh_Body_04": "83869043986891"
+  }
+}
