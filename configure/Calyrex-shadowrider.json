@@ -1,0 +1,65 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0986_13_00_BodyASkin_Mesh": "103566397343303",
+    "pm0986_13_00_BodyASkin_Mesh_BodyAnim_01": "71158235134994",
+    "pm0986_13_00_BodyASkin_Mesh_Eyes": "121577360969079",
+    "pm0986_13_00_BodyBInSkin_Mesh": "103566397343303",
+    "pm0986_13_00_BodyBOutSkin_Mesh": "103566397343303",
+    "pm0986_13_00_CollarSkin_Mesh": "103566397343303",
+    "pm0986_13_00_KokubaBodyBackLASkin_Mesh": "103566397343303",
+    "pm0986_13_00_KokubaBodyBackLBSkin_Mesh": "103566397343303",
+    "pm0986_13_00_KokubaBodyBackLCSkin_Mesh": "103566397343303",
+    "pm0986_13_00_KokubaBodyBackRASkin_Mesh": "103566397343303",
+    "pm0986_13_00_KokubaBodyBackRBSkin_Mesh": "103566397343303",
+    "pm0986_13_00_KokubaBodyBackRCSkin_Mesh": "103566397343303",
+    "pm0986_13_00_KokubaBodyBackSkin_Mesh": "103566397343303",
+    "pm0986_13_00_KokubaBodySkin_Mesh": "103566397343303",
+    "pm0986_13_00_KokubaHairLASkin_Mesh": "103566397343303",
+    "pm0986_13_00_KokubaHairLBSkin_Mesh": "103566397343303",
+    "pm0986_13_00_KokubaHairLCSkin_Mesh": "103566397343303",
+    "pm0986_13_00_KokubaHairRASkin_Mesh": "103566397343303",
+    "pm0986_13_00_KokubaHairRBSkin_Mesh": "103566397343303",
+    "pm0986_13_00_KokubaHairRCSkin_Mesh": "103566397343303",
+    "pm0986_13_00_KokubaTeethSkin_Mesh": "103566397343303",
+    "pm0986_13_00_ReinsSkin_Mesh": "103566397343303"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0986_13_00_BodyASkin_Mesh": "110556758693471",
+    "pm0986_13_00_BodyASkin_Mesh_BodyAnim_01": "99861833565524",
+    "pm0986_13_00_BodyASkin_Mesh_Eyes": "134003776786663",
+    "pm0986_13_00_BodyBInSkin_Mesh": "110556758693471",
+    "pm0986_13_00_BodyBOutSkin_Mesh": "110556758693471",
+    "pm0986_13_00_CollarSkin_Mesh": "110556758693471",
+    "pm0986_13_00_KokubaBodyBackLASkin_Mesh": "110556758693471",
+    "pm0986_13_00_KokubaBodyBackLBSkin_Mesh": "110556758693471",
+    "pm0986_13_00_KokubaBodyBackLCSkin_Mesh": "110556758693471",
+    "pm0986_13_00_KokubaBodyBackRASkin_Mesh": "110556758693471",
+    "pm0986_13_00_KokubaBodyBackRBSkin_Mesh": "110556758693471",
+    "pm0986_13_00_KokubaBodyBackRCSkin_Mesh": "110556758693471",
+    "pm0986_13_00_KokubaBodyBackSkin_Mesh": "110556758693471",
+    "pm0986_13_00_KokubaBodySkin_Mesh": "110556758693471",
+    "pm0986_13_00_KokubaHairLASkin_Mesh": "110556758693471",
+    "pm0986_13_00_KokubaHairLBSkin_Mesh": "110556758693471",
+    "pm0986_13_00_KokubaHairLCSkin_Mesh": "110556758693471",
+    "pm0986_13_00_KokubaHairRASkin_Mesh": "110556758693471",
+    "pm0986_13_00_KokubaHairRBSkin_Mesh": "110556758693471",
+    "pm0986_13_00_KokubaHairRCSkin_Mesh": "110556758693471",
+    "pm0986_13_00_KokubaTeethSkin_Mesh": "110556758693471",
+    "pm0986_13_00_ReinsSkin_Mesh": "110556758693471"
+  }
+}
