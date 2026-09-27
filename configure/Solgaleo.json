@@ -1,0 +1,58 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "BodyA00_white_OptMesh_3_0": "98871307755649",
+    "BodyA00_white_OptMesh_4_0": "98871307755649",
+    "BodyA00_white_OptMesh_5_0": "98871307755649",
+    "BodyA00_white_OptMesh_6_0": "98871307755649",
+    "BodyA00_white_OptMesh_7_0": "98871307755649",
+    "BodyA01_Black_OptMesh_16_0": "98871307755649",
+    "BodyA01_Black_OptMesh_17_0": "98871307755649",
+    "BodyA03_kuchi_OptMesh_11_0": "98871307755649",
+    "BodyA05_ring_OptMesh_12_0": "98871307755649",
+    "BodyA06Env_OptMesh_15_0": "98871307755649",
+    "BodyAVco00_unhair_OptMesh_10_0": "98871307755649",
+    "BodyBVco_OptMesh_8_0": "77209406532193",
+    "BodyB_OptMesh_18_0": "77209406532193",
+    "Eye_OptMesh_9_0": "75417559021306",
+    "FaceBase_OptMesh_13_0": "120387180261313",
+    "FaceHilight_OptMesh_14_0": "120387180261313",
+    "pm0873_00_OffsetA_EffSkin_1_0": "102894297341928",
+    "pm0873_00_OffsetBSkin_2_0": "135245424297611"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "BodyA00_white_OptMesh_3_0": "73791363748447",
+    "BodyA00_white_OptMesh_4_0": "73791363748447",
+    "BodyA00_white_OptMesh_5_0": "73791363748447",
+    "BodyA00_white_OptMesh_6_0": "73791363748447",
+    "BodyA00_white_OptMesh_7_0": "73791363748447",
+    "BodyA01_Black_OptMesh_16_0": "73791363748447",
+    "BodyA01_Black_OptMesh_17_0": "73791363748447",
+    "BodyA03_kuchi_OptMesh_11_0": "73791363748447",
+    "BodyA05_ring_OptMesh_12_0": "73791363748447",
+    "BodyA06Env_OptMesh_15_0": "73791363748447",
+    "BodyAVco00_unhair_OptMesh_10_0": "73791363748447",
+    "BodyBVco_OptMesh_8_0": "126504768650845",
+    "BodyB_OptMesh_18_0": "126504768650845",
+    "Eye_OptMesh_9_0": "89808706550754",
+    "FaceBase_OptMesh_13_0": "101302690326309",
+    "FaceHilight_OptMesh_14_0": "101302690326309",
+    "pm0873_00_ClawSkin_0_0": "73791363748447",
+    "pm0873_00_OffsetA_EffSkin_1_0": "134712034752579",
+    "pm0873_00_OffsetBSkin_2_0": "127678087974426"
+  }
+}
