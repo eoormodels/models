@@ -1,0 +1,53 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm1099_00_00_body_mesh_Mesh_Body_01": "106392255623433",
+    "pm1099_00_00_body_mesh_Mesh_Body_02": "127477948758420",
+    "pm1099_00_00_eye_mesh_Mesh_Emissives_01": "93889054464121",
+    "pm1099_00_00_eye_mesh_Mesh_Emissives_02": "133863227951626",
+    "pm1099_00_00_feeler_a_ice_mesh_Mesh_Emissives_03": "74995240143162",
+    "pm1099_00_00_feeler_a_mesh_Mesh_Body_03": "129326655268270",
+    "pm1099_00_00_feeler_b_ice_mesh_Mesh_Emissives_03": "74995240143162",
+    "pm1099_00_00_feeler_b_mesh_Mesh_Body_03": "129326655268270",
+    "pm1099_00_00_feeler_c_mesh_Mesh_Body_04": "79759417640687",
+    "pm1099_00_00_feeler_d_mesh_Mesh_Body_04": "79759417640687",
+    "pm1099_00_00_feeler_e_mesh_Mesh_Body_04": "79759417640687",
+    "pm1099_00_00_ice_a_mesh_Mesh_Body_03": "129326655268270",
+    "pm1099_00_00_ice_b_mesh_Mesh_Body_03": "129326655268270",
+    "pm1099_00_00_nose_mesh_Mesh_Body_03": "129326655268270",
+    "pm1099_00_00_teeth_mesh_Mesh_Body_03": "129326655268270",
+    "pm1099_00_00_whiskers_mesh_Mesh_Body_03": "129326655268270"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm1099_00_00_body_mesh_Mesh_Body_01": "75723092713592",
+    "pm1099_00_00_body_mesh_Mesh_Body_02": "109515947797744",
+    "pm1099_00_00_eye_mesh_Mesh_Emissives_01": "138076182675128",
+    "pm1099_00_00_eye_mesh_Mesh_Emissives_02": "106572798947540",
+    "pm1099_00_00_feeler_a_ice_mesh_Mesh_Emissives_03": "122557432354049",
+    "pm1099_00_00_feeler_a_mesh_Mesh_Body_03": "90893883263960",
+    "pm1099_00_00_feeler_b_ice_mesh_Mesh_Emissives_03": "122557432354049",
+    "pm1099_00_00_feeler_b_mesh_Mesh_Body_03": "90893883263960",
+    "pm1099_00_00_feeler_c_mesh_Mesh_Body_04": "121059024065546",
+    "pm1099_00_00_feeler_d_mesh_Mesh_Body_04": "121059024065546",
+    "pm1099_00_00_feeler_e_mesh_Mesh_Body_04": "121059024065546",
+    "pm1099_00_00_ice_a_mesh_Mesh_Body_03": "90893883263960",
+    "pm1099_00_00_ice_b_mesh_Mesh_Body_03": "90893883263960",
+    "pm1099_00_00_nose_mesh_Mesh_Body_03": "90893883263960",
+    "pm1099_00_00_teeth_mesh_Mesh_Body_03": "90893883263960",
+    "pm1099_00_00_whiskers_mesh_Mesh_Body_03": "90893883263960"
+  }
+}
