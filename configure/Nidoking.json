@@ -1,0 +1,39 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "BodyAVco_OptMesh_6_0": "91798470090949",
+    "BodyA_OptMesh_0_0": "91798470090949",
+    "BodyA_OptMesh_1_0": "91798470090949",
+    "BodyA_OptMesh_2_0": "91798470090949",
+    "BodyB00_OptMesh_3_0": "119282590979498",
+    "BodyB00_OptMesh_4_0": "119282590979498",
+    "BodyB01_OptMesh_7_0": "119282590979498",
+    "BodyBVco_OptMesh_8_0": "119282590979498",
+    "Eye_OptMesh_5_0": "110386805451291"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "BodyAVco_OptMesh_6_0": "134545441089168",
+    "BodyA_OptMesh_0_0": "134545441089168",
+    "BodyA_OptMesh_1_0": "134545441089168",
+    "BodyA_OptMesh_2_0": "134545441089168",
+    "BodyB00_OptMesh_3_0": "94651712380929",
+    "BodyB00_OptMesh_4_0": "94651712380929",
+    "BodyB01_OptMesh_7_0": "94651712380929",
+    "BodyBVco_OptMesh_8_0": "94651712380929",
+    "Eye_OptMesh_5_0": "134594144340351"
+  }
+}
