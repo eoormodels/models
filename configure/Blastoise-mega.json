@@ -1,0 +1,60 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "BodyASpcVco_OptMesh_20_0": "128798809661815",
+    "BodyASpc_OptMesh_18_0": "128798809661815",
+    "BodyA_OptMesh_15_0": "128798809661815",
+    "BodyA_OptMesh_16_0": "128798809661815",
+    "BodyBSpc00_OptMesh_17_0": "126443404932459",
+    "BodyBSpcVco_OptMesh_19_0": "126443404932459",
+    "Eye_OptMesh_14_0": "123540121235307",
+    "pm0009_51_CanonSkin_1_0": "126443404932459",
+    "pm0009_51_CanonSkin_2_0": "126443404932459",
+    "pm0009_51_CanonSkin_3_0": "126443404932459",
+    "pm0009_51_LArmCanonSkin_6_0": "126443404932459",
+    "pm0009_51_LArmCanonSkin_7_0": "128798809661815",
+    "pm0009_51_LArmCanonSkin_8_0": "126443404932459",
+    "pm0009_51_LArmCanonSkin_9_0": "126443404932459",
+    "pm0009_51_RArmCanonSkin_10_0": "126443404932459",
+    "pm0009_51_RArmCanonSkin_11_0": "128798809661815",
+    "pm0009_51_RArmCanonSkin_12_0": "126443404932459",
+    "pm0009_51_RArmCanonSkin_13_0": "126443404932459"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "BodyASpcVco_OptMesh_20_0": "126142599574544",
+    "BodyASpc_OptMesh_18_0": "126142599574544",
+    "BodyA_OptMesh_15_0": "126142599574544",
+    "BodyA_OptMesh_16_0": "126142599574544",
+    "BodyBSpc00_OptMesh_17_0": "121278850064967",
+    "BodyBSpcVco_OptMesh_19_0": "121278850064967",
+    "Eye_OptMesh_14_0": "139262336560943",
+    "pm0009_51_CanonSkin_1_0": "121278850064967",
+    "pm0009_51_CanonSkin_2_0": "121278850064967",
+    "pm0009_51_CanonSkin_3_0": "121278850064967",
+    "pm0009_51_ClosedSkin_0_0": "121278850064967",
+    "pm0009_51_LArmCanonSkin_6_0": "121278850064967",
+    "pm0009_51_LArmCanonSkin_7_0": "126142599574544",
+    "pm0009_51_LArmCanonSkin_8_0": "121278850064967",
+    "pm0009_51_LArmCanonSkin_9_0": "121278850064967",
+    "pm0009_51_LArmClosedSkin_4_0": "121278850064967",
+    "pm0009_51_RArmCanonSkin_10_0": "121278850064967",
+    "pm0009_51_RArmCanonSkin_11_0": "126142599574544",
+    "pm0009_51_RArmCanonSkin_12_0": "121278850064967",
+    "pm0009_51_RArmCanonSkin_13_0": "121278850064967",
+    "pm0009_51_RArmClosedSkin_5_0": "121278850064967"
+  }
+}
