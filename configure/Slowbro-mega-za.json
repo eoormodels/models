@@ -1,0 +1,51 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0080_51_00_arm_mesh_Mesh_Body_01": "131158343959435",
+    "pm0080_51_00_arm_mesh_Mesh_Body_02": "125115703753903",
+    "pm0080_51_00_body_mesh_Mesh_Body_02": "125115703753903",
+    "pm0080_51_00_body_mesh_Mesh_Body_03": "123683040959999",
+    "pm0080_51_00_eye_a_mesh_Mesh_Eyes_01": "101551258095004",
+    "pm0080_51_00_eye_a_mesh_Mesh_Eyes_02": "118741112885771",
+    "pm0080_51_00_eye_b_mesh_Mesh_Eyes_03": "120683156229735",
+    "pm0080_51_00_eye_c_mesh_Mesh_Eyes_04": "107662290416562",
+    "pm0080_51_00_eye_c_mesh_Mesh_Eyes_05": "90331843836538",
+    "pm0080_51_00_eyelid_mesh_Mesh_Body_03": "123683040959999",
+    "pm0080_51_00_futa_mesh_Mesh_Body_02": "125115703753903",
+    "pm0080_51_00_head_mesh_Mesh_Body_01": "131158343959435",
+    "pm0080_51_00_head_mesh_Mesh_Body_03": "123683040959999",
+    "pm0080_51_00_kiba_mesh_Mesh_Body_01": "131158343959435",
+    "pm0080_51_00_teeth_mesh_Mesh_Body_01": "131158343959435"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0080_51_00_arm_mesh_Mesh_Body_01": "76612424506932",
+    "pm0080_51_00_arm_mesh_Mesh_Body_02": "102882894136737",
+    "pm0080_51_00_body_mesh_Mesh_Body_02": "102882894136737",
+    "pm0080_51_00_body_mesh_Mesh_Body_03": "130032653577244",
+    "pm0080_51_00_eye_a_mesh_Mesh_Eyes_01": "94984888876699",
+    "pm0080_51_00_eye_a_mesh_Mesh_Eyes_02": "132300119296087",
+    "pm0080_51_00_eye_b_mesh_Mesh_Eyes_03": "120822627180361",
+    "pm0080_51_00_eye_c_mesh_Mesh_Eyes_04": "136502629642241",
+    "pm0080_51_00_eye_c_mesh_Mesh_Eyes_05": "118108219185118",
+    "pm0080_51_00_eyelid_mesh_Mesh_Body_03": "130032653577244",
+    "pm0080_51_00_futa_mesh_Mesh_Body_02": "102882894136737",
+    "pm0080_51_00_head_mesh_Mesh_Body_01": "76612424506932",
+    "pm0080_51_00_head_mesh_Mesh_Body_03": "130032653577244",
+    "pm0080_51_00_kiba_mesh_Mesh_Body_01": "76612424506932",
+    "pm0080_51_00_teeth_mesh_Mesh_Body_01": "76612424506932"
+  }
+}
