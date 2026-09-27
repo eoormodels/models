@@ -1,0 +1,37 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0943_00_31_BodySkin_Mesh": "80688403766260",
+    "pm0943_00_31_BodySkin_Mesh_Eyes": "79373282511682",
+    "pm0943_00_31_LClawASkin_Mesh": "80688403766260",
+    "pm0943_00_31_LClawBSkin_Mesh": "80688403766260",
+    "pm0943_00_31_RClawASkin_Mesh": "80688403766260",
+    "pm0943_00_31_RClawBSkin_Mesh": "80688403766260",
+    "pm0943_00_31_ToothASkin_Mesh": "80688403766260",
+    "pm0943_00_31_ToothBSkin_Mesh": "80688403766260"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0943_00_31_BodySkin_Mesh": "107685491034341",
+    "pm0943_00_31_BodySkin_Mesh_Eyes": "111143978224930",
+    "pm0943_00_31_LClawASkin_Mesh": "107685491034341",
+    "pm0943_00_31_LClawBSkin_Mesh": "107685491034341",
+    "pm0943_00_31_RClawASkin_Mesh": "107685491034341",
+    "pm0943_00_31_RClawBSkin_Mesh": "107685491034341",
+    "pm0943_00_31_ToothASkin_Mesh": "107685491034341",
+    "pm0943_00_31_ToothBSkin_Mesh": "107685491034341"
+  }
+}
