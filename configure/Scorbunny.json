@@ -1,0 +1,27 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0954_00_00_BodyASkin_Mesh": "95436199311151",
+    "pm0954_00_00_BodyASkin_Mesh_Eyes": "139219242025717",
+    "pm0954_00_00_BodyBSkin_Mesh": "95436199311151"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0954_00_00_BodyASkin_Mesh": "110877651047526",
+    "pm0954_00_00_BodyASkin_Mesh_Eyes": "86324515370900",
+    "pm0954_00_00_BodyBSkin_Mesh": "110877651047526"
+  }
+}
