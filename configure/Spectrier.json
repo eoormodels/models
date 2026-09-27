@@ -1,0 +1,55 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0985_00_00_BangSkin_Mesh": "114409157792906",
+    "pm0985_00_00_BodyBackLASkin_Mesh": "114409157792906",
+    "pm0985_00_00_BodyBackLBSkin_Mesh": "114409157792906",
+    "pm0985_00_00_BodyBackLCSkin_Mesh": "114409157792906",
+    "pm0985_00_00_BodyBackRASkin_Mesh": "114409157792906",
+    "pm0985_00_00_BodyBackRBSkin_Mesh": "114409157792906",
+    "pm0985_00_00_BodyBackRCSkin_Mesh": "114409157792906",
+    "pm0985_00_00_BodyBackSkin_Mesh": "114409157792906",
+    "pm0985_00_00_BodySkin_Mesh": "114409157792906",
+    "pm0985_00_00_EyelashSkin_Mesh": "114409157792906",
+    "pm0985_00_00_HairLASkin_Mesh": "114409157792906",
+    "pm0985_00_00_HairLBSkin_Mesh": "114409157792906",
+    "pm0985_00_00_HairLCSkin_Mesh": "114409157792906",
+    "pm0985_00_00_HairRASkin_Mesh": "114409157792906",
+    "pm0985_00_00_HairRBSkin_Mesh": "114409157792906",
+    "pm0985_00_00_HairRCSkin_Mesh": "114409157792906",
+    "pm0985_00_00_TeethSkin_Mesh": "114409157792906"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0985_00_00_BangSkin_Mesh": "83029127351828",
+    "pm0985_00_00_BodyBackLASkin_Mesh": "83029127351828",
+    "pm0985_00_00_BodyBackLBSkin_Mesh": "83029127351828",
+    "pm0985_00_00_BodyBackLCSkin_Mesh": "83029127351828",
+    "pm0985_00_00_BodyBackRASkin_Mesh": "83029127351828",
+    "pm0985_00_00_BodyBackRBSkin_Mesh": "83029127351828",
+    "pm0985_00_00_BodyBackRCSkin_Mesh": "83029127351828",
+    "pm0985_00_00_BodyBackSkin_Mesh": "83029127351828",
+    "pm0985_00_00_BodySkin_Mesh": "83029127351828",
+    "pm0985_00_00_EyelashSkin_Mesh": "83029127351828",
+    "pm0985_00_00_HairLASkin_Mesh": "83029127351828",
+    "pm0985_00_00_HairLBSkin_Mesh": "83029127351828",
+    "pm0985_00_00_HairLCSkin_Mesh": "83029127351828",
+    "pm0985_00_00_HairRASkin_Mesh": "83029127351828",
+    "pm0985_00_00_HairRBSkin_Mesh": "83029127351828",
+    "pm0985_00_00_HairRCSkin_Mesh": "83029127351828",
+    "pm0985_00_00_TeethSkin_Mesh": "83029127351828"
+  }
+}
