@@ -1,0 +1,47 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm1085_00_00_left_sandfoot_a_mesh_Mesh_Body_01": "93243465898146",
+    "pm1085_00_00_left_sandfoot_b_mesh_Mesh_Body_01": "93243465898146",
+    "pm1085_00_00_magnet_mesh_Mesh_Body_01": "93243465898146",
+    "pm1085_00_00_magnet_mesh_Mesh_Body_02": "131826606230779",
+    "pm1085_00_00_magnet_mesh_Mesh_Body_03": "96094149167923",
+    "pm1085_00_00_magnet_mesh_Mesh_Emissives_01": "70530709451105",
+    "pm1085_00_00_magnet_mesh_Mesh_Emissives_02": "83804592269068",
+    "pm1085_00_00_magnet_mesh_Mesh_Emissives_03": "93408653598040",
+    "pm1085_00_00_right_sandfoot_a_mesh_Mesh_Body_01": "93243465898146",
+    "pm1085_00_00_right_sandfoot_b_mesh_Mesh_Body_01": "93243465898146",
+    "pm1085_00_00_sand_mesh_Mesh_Body_01": "93243465898146",
+    "pm1085_00_00_sandarm_a_mesh_Mesh_Body_01": "93243465898146",
+    "pm1085_00_00_sandarm_b_mesh_Mesh_Body_01": "93243465898146"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm1085_00_00_left_sandfoot_a_mesh_Mesh_Body_01": "97057588397669",
+    "pm1085_00_00_left_sandfoot_b_mesh_Mesh_Body_01": "97057588397669",
+    "pm1085_00_00_magnet_mesh_Mesh_Body_01": "97057588397669",
+    "pm1085_00_00_magnet_mesh_Mesh_Body_02": "97040451980627",
+    "pm1085_00_00_magnet_mesh_Mesh_Body_03": "73589671822147",
+    "pm1085_00_00_magnet_mesh_Mesh_Emissives_01": "87001031995047",
+    "pm1085_00_00_magnet_mesh_Mesh_Emissives_02": "128344665965524",
+    "pm1085_00_00_magnet_mesh_Mesh_Emissives_03": "95012462923797",
+    "pm1085_00_00_right_sandfoot_a_mesh_Mesh_Body_01": "97057588397669",
+    "pm1085_00_00_right_sandfoot_b_mesh_Mesh_Body_01": "97057588397669",
+    "pm1085_00_00_sand_mesh_Mesh_Body_01": "97057588397669",
+    "pm1085_00_00_sandarm_a_mesh_Mesh_Body_01": "97057588397669",
+    "pm1085_00_00_sandarm_b_mesh_Mesh_Body_01": "97057588397669"
+  }
+}
