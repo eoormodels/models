@@ -1,0 +1,49 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm1056_51_00_body_a_mesh_Mesh_Body_01": "99352876760498",
+    "pm1056_51_00_body_a_mesh_Mesh_Eyes_01": "131784190621523",
+    "pm1056_51_00_body_a_mesh_Mesh_Eyes_02": "113857089107336",
+    "pm1056_51_00_body_b_mesh_Mesh_Body_02": "113082527976385",
+    "pm1056_51_00_body_b_mesh_Mesh_Eyes_01": "131784190621523",
+    "pm1056_51_00_body_b_mesh_Mesh_Eyes_02": "113857089107336",
+    "pm1056_51_00_body_c_mesh_Mesh_Body_03": "111796219756219",
+    "pm1056_51_00_body_c_mesh_Mesh_Body_04": "76903970205237",
+    "pm1056_51_00_body_c_mesh_Mesh_Eyes_01": "131784190621523",
+    "pm1056_51_00_body_c_mesh_Mesh_Eyes_02": "113857089107336",
+    "pm1056_51_00_efe_mesh_Mesh_Body_05": "94653857159284",
+    "pm1056_51_00_ikura_a_mesh_Mesh_Body_06": "108272961320405",
+    "pm1056_51_00_ikura_b_mesh_Mesh_Body_06": "108272961320405",
+    "pm1056_51_00_ikura_c_mesh_Mesh_Body_06": "108272961320405"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm1056_51_00_body_a_mesh_Mesh_Body_01": "132508142939171",
+    "pm1056_51_00_body_a_mesh_Mesh_Eyes_01": "109505212704619",
+    "pm1056_51_00_body_a_mesh_Mesh_Eyes_02": "83607195318751",
+    "pm1056_51_00_body_b_mesh_Mesh_Body_02": "112126031497625",
+    "pm1056_51_00_body_b_mesh_Mesh_Eyes_01": "109505212704619",
+    "pm1056_51_00_body_b_mesh_Mesh_Eyes_02": "83607195318751",
+    "pm1056_51_00_body_c_mesh_Mesh_Body_03": "101603105611685",
+    "pm1056_51_00_body_c_mesh_Mesh_Body_04": "72003332760820",
+    "pm1056_51_00_body_c_mesh_Mesh_Eyes_01": "109505212704619",
+    "pm1056_51_00_body_c_mesh_Mesh_Eyes_02": "83607195318751",
+    "pm1056_51_00_efe_mesh_Mesh_Body_05": "119121781299659",
+    "pm1056_51_00_ikura_a_mesh_Mesh_Body_06": "97606036404724",
+    "pm1056_51_00_ikura_b_mesh_Mesh_Body_06": "97606036404724",
+    "pm1056_51_00_ikura_c_mesh_Mesh_Body_06": "97606036404724"
+  }
+}
