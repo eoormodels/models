@@ -1,0 +1,33 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "BodyAVco_OptMesh_0_0": "94095857218298",
+    "BodyA_OptMesh_5_0": "94095857218298",
+    "BodyBVco_OptMesh_4_0": "108355817523189",
+    "BodyB_OptMesh_1_0": "108355817523189",
+    "BodyCVco_OptMesh_3_0": "90670340054120",
+    "BodyDInc_OptMesh_2_0": "130854136791352"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "BodyAVco_OptMesh_0_0": "81998354863481",
+    "BodyA_OptMesh_5_0": "81998354863481",
+    "BodyBVco_OptMesh_4_0": "115120644853065",
+    "BodyB_OptMesh_1_0": "115120644853065",
+    "BodyCVco_OptMesh_3_0": "121196034722749",
+    "BodyDInc_OptMesh_2_0": "131220552423693"
+  }
+}
