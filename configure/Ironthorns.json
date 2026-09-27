@@ -1,0 +1,51 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm1095_00_00_arm_mesh_Mesh_Body_01": "84969970359516",
+    "pm1095_00_00_arm_mesh_Mesh_Body_02": "74580388972784",
+    "pm1095_00_00_body_a_mesh_Mesh_Body_02": "74580388972784",
+    "pm1095_00_00_body_a_mesh_Mesh_Emissives_01": "127802734779571",
+    "pm1095_00_00_body_b_mesh_Mesh_Body_01": "84969970359516",
+    "pm1095_00_00_body_b_mesh_Mesh_Body_02": "74580388972784",
+    "pm1095_00_00_body_b_mesh_Mesh_Emissives_01": "127802734779571",
+    "pm1095_00_00_body_c_mesh_Mesh_Emissives_01": "127802734779571",
+    "pm1095_00_00_eye_mesh_Mesh_Emissives_02": "131657762061673",
+    "pm1095_00_00_eye_mesh_Mesh_Emissives_03": "90632025784631",
+    "pm1095_00_00_head_mesh_Mesh_Body_01": "84969970359516",
+    "pm1095_00_00_head_mesh_Mesh_Body_02": "74580388972784",
+    "pm1095_00_00_leg_mesh_Mesh_Body_01": "84969970359516",
+    "pm1095_00_00_leg_mesh_Mesh_Body_02": "74580388972784",
+    "pm1095_00_00_leg_mesh_Mesh_Emissives_01": "127802734779571"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm1095_00_00_arm_mesh_Mesh_Body_01": "99403359415574",
+    "pm1095_00_00_arm_mesh_Mesh_Body_02": "114332889011284",
+    "pm1095_00_00_body_a_mesh_Mesh_Body_02": "114332889011284",
+    "pm1095_00_00_body_a_mesh_Mesh_Emissives_01": "77467389535049",
+    "pm1095_00_00_body_b_mesh_Mesh_Body_01": "99403359415574",
+    "pm1095_00_00_body_b_mesh_Mesh_Body_02": "114332889011284",
+    "pm1095_00_00_body_b_mesh_Mesh_Emissives_01": "77467389535049",
+    "pm1095_00_00_body_c_mesh_Mesh_Emissives_01": "77467389535049",
+    "pm1095_00_00_eye_mesh_Mesh_Emissives_02": "87509180989697",
+    "pm1095_00_00_eye_mesh_Mesh_Emissives_03": "76225053792159",
+    "pm1095_00_00_head_mesh_Mesh_Body_01": "99403359415574",
+    "pm1095_00_00_head_mesh_Mesh_Body_02": "114332889011284",
+    "pm1095_00_00_leg_mesh_Mesh_Body_01": "99403359415574",
+    "pm1095_00_00_leg_mesh_Mesh_Body_02": "114332889011284",
+    "pm1095_00_00_leg_mesh_Mesh_Emissives_01": "77467389535049"
+  }
+}
