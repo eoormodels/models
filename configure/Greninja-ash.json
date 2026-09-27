@@ -1,0 +1,57 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "BodyATattu00_OptMesh_6_0": "73677446509317",
+    "BodyATattu00_OptMesh_7_0": "73677446509317",
+    "BodyATattu00_OptMesh_8_0": "73677446509317",
+    "BodyATattu00_OptMesh_9_0": "73677446509317",
+    "BodyATattu01_OptMesh_11_0": "73677446509317",
+    "BodyATattu02_OptMesh_12_0": "73677446509317",
+    "BodyATattu03_OptMesh_13_0": "73677446509317",
+    "BodyATattu04_OptMesh_14_0": "73677446509317",
+    "BodyATattuVco00_OptMesh_15_0": "73677446509317",
+    "BodyATattuVco00_OptMesh_16_0": "73677446509317",
+    "BodyATattuVco01_OptMesh_17_0": "73677446509317",
+    "BodyBTattuVco00_OptMesh_18_0": "107032704767472",
+    "BodyBTattuVco01_OptMesh_19_0": "107032704767472",
+    "BodyBUniranNon_OptMesh_5_0": "108963611612148",
+    "Eye_OptMesh_10_0": "98539109809569",
+    "pm0725_13_BodyCSkin_0_0": "111376330394977"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "BodyATattu00_OptMesh_6_0": "94662697931268",
+    "BodyATattu00_OptMesh_7_0": "94662697931268",
+    "BodyATattu00_OptMesh_8_0": "94662697931268",
+    "BodyATattu00_OptMesh_9_0": "94662697931268",
+    "BodyATattu01_OptMesh_11_0": "94662697931268",
+    "BodyATattu02_OptMesh_12_0": "94662697931268",
+    "BodyATattu03_OptMesh_13_0": "94662697931268",
+    "BodyATattu04_OptMesh_14_0": "94662697931268",
+    "BodyATattuVco00_OptMesh_15_0": "94662697931268",
+    "BodyATattuVco00_OptMesh_16_0": "94662697931268",
+    "BodyATattuVco01_OptMesh_17_0": "94662697931268",
+    "BodyBTattuVco00_OptMesh_18_0": "81977683306981",
+    "BodyBTattuVco01_OptMesh_19_0": "81977683306981",
+    "BodyBUniranNon_OptMesh_5_0": "126415666227811",
+    "Eye_OptMesh_10_0": "120722884037482",
+    "pm0725_13_BodyCSkin_0_0": "138129838466309",
+    "pm0725_13_ShurikenASkin_1_0": "138129838466309",
+    "pm0725_13_ShurikenBSkin_2_0": "138129838466309",
+    "pm0725_13_SwordASkin_3_0": "138129838466309",
+    "pm0725_13_SwordBSkin_4_0": "138129838466309"
+  }
+}
