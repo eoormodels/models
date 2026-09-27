@@ -1,0 +1,29 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0099_81_00_BodySkin_Mesh": "78388643340653",
+    "pm0099_81_00_BodySkin_Mesh_Eyes": "130784741497980",
+    "pm0099_81_00_BubbleSkin_Mesh": "78388643340653",
+    "pm0099_81_00_HandSkin_Mesh": "78388643340653"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0099_81_00_BodySkin_Mesh": "76228036148354",
+    "pm0099_81_00_BodySkin_Mesh_Eyes": "78007489264292",
+    "pm0099_81_00_BubbleSkin_Mesh": "76228036148354",
+    "pm0099_81_00_HandSkin_Mesh": "76228036148354"
+  }
+}
