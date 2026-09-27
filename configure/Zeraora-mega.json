@@ -1,0 +1,49 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0888_51_00_blade_mesh_Mesh_Emissives_01": "117866223368091",
+    "pm0888_51_00_body_mesh_Mesh_Body_01": "86459379230122",
+    "pm0888_51_00_body_mesh_Mesh_Body_02": "89441012155293",
+    "pm0888_51_00_body_mesh_Mesh_Body_03": "100775837825151",
+    "pm0888_51_00_body_mesh_Mesh_Emissives_02": "113677904623985",
+    "pm0888_51_00_body_mesh_Mesh_Emissives_03": "85972003997646",
+    "pm0888_51_00_eye_mesh_Mesh_Emissives_04": "89023849284357",
+    "pm0888_51_00_eye_mesh_Mesh_Emissives_05": "76222528768355",
+    "pm0888_51_00_feeler_mesh_Mesh_Emissives_01": "117866223368091",
+    "pm0888_51_00_hair_a_mesh_Mesh_Body_03": "100775837825151",
+    "pm0888_51_00_hair_b_mesh_Mesh_Emissives_01": "117866223368091",
+    "pm0888_51_00_hair_c_mesh_Mesh_Emissives_01": "117866223368091",
+    "pm0888_51_00_horn_mesh_Mesh_Emissives_01": "117866223368091",
+    "pm0888_51_00_tail_mesh_Mesh_Body_01": "86459379230122"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0888_51_00_blade_mesh_Mesh_Emissives_01": "102450227118339",
+    "pm0888_51_00_body_mesh_Mesh_Body_01": "109947738729045",
+    "pm0888_51_00_body_mesh_Mesh_Body_02": "134431741372978",
+    "pm0888_51_00_body_mesh_Mesh_Body_03": "132641462906026",
+    "pm0888_51_00_body_mesh_Mesh_Emissives_02": "96903168299859",
+    "pm0888_51_00_body_mesh_Mesh_Emissives_03": "125215112429933",
+    "pm0888_51_00_eye_mesh_Mesh_Emissives_04": "75275207099725",
+    "pm0888_51_00_eye_mesh_Mesh_Emissives_05": "124874308724870",
+    "pm0888_51_00_feeler_mesh_Mesh_Emissives_01": "102450227118339",
+    "pm0888_51_00_hair_a_mesh_Mesh_Body_03": "132641462906026",
+    "pm0888_51_00_hair_b_mesh_Mesh_Emissives_01": "102450227118339",
+    "pm0888_51_00_hair_c_mesh_Mesh_Emissives_01": "102450227118339",
+    "pm0888_51_00_horn_mesh_Mesh_Emissives_01": "102450227118339",
+    "pm0888_51_00_tail_mesh_Mesh_Body_01": "109947738729045"
+  }
+}
