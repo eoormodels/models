@@ -1,0 +1,49 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0115_51_00_bodya_mesh_Mesh_Body_01": "112661049894190",
+    "pm0115_51_00_bodya_mesh_Mesh_Body_02": "138275520738398",
+    "pm0115_51_00_bodyb_mesh_Mesh_Body_03": "128431847746053",
+    "pm0115_51_00_bodyb_mesh_Mesh_Body_04": "105304047683292",
+    "pm0115_51_00_earb_mesh_Mesh_Body_03": "128431847746053",
+    "pm0115_51_00_eyea_mesh_Mesh_Eyes_01": "85571808637871",
+    "pm0115_51_00_eyea_mesh_Mesh_Eyes_02": "76440781452018",
+    "pm0115_51_00_eyeb_mesh_Mesh_Eyes_03": "118845453178559",
+    "pm0115_51_00_eyeb_mesh_Mesh_Eyes_04": "123704766711776",
+    "pm0115_51_00_eyelidb_mesh_Mesh_Body_03": "128431847746053",
+    "pm0115_51_00_partsa_mesh_Mesh_Body_01": "112661049894190",
+    "pm0115_51_00_partsa_mesh_Mesh_Body_02": "138275520738398",
+    "pm0115_51_00_teethb_mesh_Mesh_Body_04": "105304047683292",
+    "pm0115_51_00_tongueb_mesh_Mesh_Body_04": "105304047683292"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0115_51_00_bodya_mesh_Mesh_Body_01": "88947182516389",
+    "pm0115_51_00_bodya_mesh_Mesh_Body_02": "107217867589416",
+    "pm0115_51_00_bodyb_mesh_Mesh_Body_03": "96502929904488",
+    "pm0115_51_00_bodyb_mesh_Mesh_Body_04": "102538716697055",
+    "pm0115_51_00_earb_mesh_Mesh_Body_03": "96502929904488",
+    "pm0115_51_00_eyea_mesh_Mesh_Eyes_01": "121108750806953",
+    "pm0115_51_00_eyea_mesh_Mesh_Eyes_02": "128119025808788",
+    "pm0115_51_00_eyeb_mesh_Mesh_Eyes_03": "118367342285095",
+    "pm0115_51_00_eyeb_mesh_Mesh_Eyes_04": "119513260812187",
+    "pm0115_51_00_eyelidb_mesh_Mesh_Body_03": "96502929904488",
+    "pm0115_51_00_partsa_mesh_Mesh_Body_01": "88947182516389",
+    "pm0115_51_00_partsa_mesh_Mesh_Body_02": "107217867589416",
+    "pm0115_51_00_teethb_mesh_Mesh_Body_04": "102538716697055",
+    "pm0115_51_00_tongueb_mesh_Mesh_Body_04": "102538716697055"
+  }
+}
