@@ -1,0 +1,61 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0892_81_00_ArmALSkin_Mesh": "71167603557283",
+    "pm0892_81_00_ArmARSkin_Mesh": "71167603557283",
+    "pm0892_81_00_ArmBSkin_Mesh": "71167603557283",
+    "pm0892_81_00_BellySkin_Mesh": "71167603557283",
+    "pm0892_81_00_BodyDownSkin_Mesh": "71167603557283",
+    "pm0892_81_00_BodySkin_Mesh": "71167603557283",
+    "pm0892_81_00_ChestSkin_Mesh": "71167603557283",
+    "pm0892_81_00_EyeSkin_Mesh_Eyes": "86189935689743",
+    "pm0892_81_00_FaceASkin_Mesh": "71167603557283",
+    "pm0892_81_00_FaceBSkin_Mesh": "71167603557283",
+    "pm0892_81_00_FingerALSkin_Mesh": "71167603557283",
+    "pm0892_81_00_FingerARSkin_Mesh": "71167603557283",
+    "pm0892_81_00_FingerBSkin_Mesh": "71167603557283",
+    "pm0892_81_00_ForeArmALSkin_Mesh": "71167603557283",
+    "pm0892_81_00_ForeArmARSkin_Mesh": "71167603557283",
+    "pm0892_81_00_ForeArmBSkin_Mesh": "71167603557283",
+    "pm0892_81_00_LegSkin_Mesh": "71167603557283",
+    "pm0892_81_00_SholderSkin_Mesh": "71167603557283",
+    "pm0892_81_00_TailSkin_Mesh": "71167603557283",
+    "pm0892_81_00_ToeSkin_Mesh": "71167603557283"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0892_81_00_ArmALSkin_Mesh": "73447428617657",
+    "pm0892_81_00_ArmARSkin_Mesh": "73447428617657",
+    "pm0892_81_00_ArmBSkin_Mesh": "73447428617657",
+    "pm0892_81_00_BellySkin_Mesh": "73447428617657",
+    "pm0892_81_00_BodyDownSkin_Mesh": "73447428617657",
+    "pm0892_81_00_BodySkin_Mesh": "73447428617657",
+    "pm0892_81_00_ChestSkin_Mesh": "73447428617657",
+    "pm0892_81_00_EyeSkin_Mesh_Eyes": "135714516713829",
+    "pm0892_81_00_FaceASkin_Mesh": "73447428617657",
+    "pm0892_81_00_FaceBSkin_Mesh": "73447428617657",
+    "pm0892_81_00_FingerALSkin_Mesh": "73447428617657",
+    "pm0892_81_00_FingerARSkin_Mesh": "73447428617657",
+    "pm0892_81_00_FingerBSkin_Mesh": "73447428617657",
+    "pm0892_81_00_ForeArmALSkin_Mesh": "73447428617657",
+    "pm0892_81_00_ForeArmARSkin_Mesh": "73447428617657",
+    "pm0892_81_00_ForeArmBSkin_Mesh": "73447428617657",
+    "pm0892_81_00_LegSkin_Mesh": "73447428617657",
+    "pm0892_81_00_SholderSkin_Mesh": "73447428617657",
+    "pm0892_81_00_TailSkin_Mesh": "73447428617657",
+    "pm0892_81_00_ToeSkin_Mesh": "73447428617657"
+  }
+}
