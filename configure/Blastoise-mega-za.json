@@ -1,0 +1,49 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0009_51_00_body_mesh_Mesh_Body_01": "129473142214677",
+    "pm0009_51_00_body_mesh_Mesh_Body_02": "85721114138264",
+    "pm0009_51_00_body_mesh_Mesh_Body_03": "74261626791201",
+    "pm0009_51_00_canon_mesh_Mesh_Body_03": "74261626791201",
+    "pm0009_51_00_canon_mesh_Mesh_Body_04": "108527969967302",
+    "pm0009_51_00_closed_mesh_Mesh_Body_03": "74261626791201",
+    "pm0009_51_00_eye_mesh_Mesh_Eyes_01": "123728899622644",
+    "pm0009_51_00_eye_mesh_Mesh_Eyes_02": "114850552760129",
+    "pm0009_51_00_left_armcanon_mesh_Mesh_Body_02": "85721114138264",
+    "pm0009_51_00_left_armcanon_mesh_Mesh_Body_04": "108527969967302",
+    "pm0009_51_00_left_armclosed_mesh_Mesh_Body_02": "85721114138264",
+    "pm0009_51_00_right_armcanon_mesh_Mesh_Body_02": "85721114138264",
+    "pm0009_51_00_right_armcanon_mesh_Mesh_Body_04": "108527969967302",
+    "pm0009_51_00_right_armclosed_mesh_Mesh_Body_02": "85721114138264"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0009_51_00_body_mesh_Mesh_Body_01": "132342538425746",
+    "pm0009_51_00_body_mesh_Mesh_Body_02": "88790894108629",
+    "pm0009_51_00_body_mesh_Mesh_Body_03": "79301715088702",
+    "pm0009_51_00_canon_mesh_Mesh_Body_03": "79301715088702",
+    "pm0009_51_00_canon_mesh_Mesh_Body_04": "126831815153021",
+    "pm0009_51_00_closed_mesh_Mesh_Body_03": "79301715088702",
+    "pm0009_51_00_eye_mesh_Mesh_Eyes_01": "134367220761246",
+    "pm0009_51_00_eye_mesh_Mesh_Eyes_02": "83450679744185",
+    "pm0009_51_00_left_armcanon_mesh_Mesh_Body_02": "88790894108629",
+    "pm0009_51_00_left_armcanon_mesh_Mesh_Body_04": "126831815153021",
+    "pm0009_51_00_left_armclosed_mesh_Mesh_Body_02": "88790894108629",
+    "pm0009_51_00_right_armcanon_mesh_Mesh_Body_02": "88790894108629",
+    "pm0009_51_00_right_armcanon_mesh_Mesh_Body_04": "126831815153021",
+    "pm0009_51_00_right_armclosed_mesh_Mesh_Body_02": "88790894108629"
+  }
+}
