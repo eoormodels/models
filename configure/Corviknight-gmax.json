@@ -1,0 +1,59 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0920_81_00_ArmorSkin_Mesh": "120797457968089",
+    "pm0920_81_00_BladeASkin_Mesh_Emissives": "79524287719867",
+    "pm0920_81_00_BladeBSkin_Mesh_Emissives": "79524287719867",
+    "pm0920_81_00_BladeCSkin_Mesh_Emissives": "79524287719867",
+    "pm0920_81_00_BladeDSkin_Mesh_Emissives": "79524287719867",
+    "pm0920_81_00_BladeESkin_Mesh_Emissives": "79524287719867",
+    "pm0920_81_00_BladeFSkin_Mesh_Emissives": "79524287719867",
+    "pm0920_81_00_BladeGSkin_Mesh_Emissives": "79524287719867",
+    "pm0920_81_00_BladeHSkin_Mesh_Emissives": "79524287719867",
+    "pm0920_81_00_BodySkin_Mesh": "120797457968089",
+    "pm0920_81_00_BodySkin_Mesh_Emissives": "79524287719867",
+    "pm0920_81_00_LBladeASkin_Mesh_Emissives": "79524287719867",
+    "pm0920_81_00_LBladeBSkin_Mesh_Emissives": "79524287719867",
+    "pm0920_81_00_LBladeCSkin_Mesh_Emissives": "79524287719867",
+    "pm0920_81_00_LBladeDSkin_Mesh_Emissives": "79524287719867",
+    "pm0920_81_00_RBladeASkin_Mesh_Emissives": "79524287719867",
+    "pm0920_81_00_RBladeBSkin_Mesh_Emissives": "79524287719867",
+    "pm0920_81_00_RBladeCSkin_Mesh_Emissives": "79524287719867",
+    "pm0920_81_00_RBladeDSkin_Mesh_Emissives": "79524287719867"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0920_81_00_ArmorSkin_Mesh": "95257700902375",
+    "pm0920_81_00_BladeASkin_Mesh_Emissives": "74013492837628",
+    "pm0920_81_00_BladeBSkin_Mesh_Emissives": "74013492837628",
+    "pm0920_81_00_BladeCSkin_Mesh_Emissives": "74013492837628",
+    "pm0920_81_00_BladeDSkin_Mesh_Emissives": "74013492837628",
+    "pm0920_81_00_BladeESkin_Mesh_Emissives": "74013492837628",
+    "pm0920_81_00_BladeFSkin_Mesh_Emissives": "74013492837628",
+    "pm0920_81_00_BladeGSkin_Mesh_Emissives": "74013492837628",
+    "pm0920_81_00_BladeHSkin_Mesh_Emissives": "74013492837628",
+    "pm0920_81_00_BodySkin_Mesh": "95257700902375",
+    "pm0920_81_00_BodySkin_Mesh_Emissives": "74013492837628",
+    "pm0920_81_00_LBladeASkin_Mesh_Emissives": "74013492837628",
+    "pm0920_81_00_LBladeBSkin_Mesh_Emissives": "74013492837628",
+    "pm0920_81_00_LBladeCSkin_Mesh_Emissives": "74013492837628",
+    "pm0920_81_00_LBladeDSkin_Mesh_Emissives": "74013492837628",
+    "pm0920_81_00_RBladeASkin_Mesh_Emissives": "74013492837628",
+    "pm0920_81_00_RBladeBSkin_Mesh_Emissives": "74013492837628",
+    "pm0920_81_00_RBladeCSkin_Mesh_Emissives": "74013492837628",
+    "pm0920_81_00_RBladeDSkin_Mesh_Emissives": "74013492837628"
+  }
+}
