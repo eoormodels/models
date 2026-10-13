@@ -1,17 +1,15 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "Body00_OptMesh_3_0": "126558117839687",
-    "Body00_OptMesh_4_0": "126558117839687",
-    "Body01_OptMesh_9_0": "126558117839687",
-    "Body02_OptMesh_7_0": "85827214680872",
-    "Body03_OptMesh_10_0": "85827214680872",
-    "Body04_OptMesh_11_0": "126558117839687",
-    "BodyVco00_OptMesh_8_0": "126558117839687",
-    "Eye_OptMesh_5_0": "74142220099424",
-    "Mouth_OptMesh_6_0": "77473856283766",
-    "pm0531_51_LFeelerCurlSkin_1_0": "85827214680872",
-    "pm0531_51_RFeelerCurlSkin_2_0": "85827214680872"
+    "pm0531_51_00_body_mesh_Mesh_Body_01": "120826788107845",
+    "pm0531_51_00_body_mesh_Mesh_Body_02": "92770494856093",
+    "pm0531_51_00_eye_mesh_Mesh_Eyes_01": "85902894521353",
+    "pm0531_51_00_eye_mesh_Mesh_Eyes_02": "121158173231386",
+    "pm0531_51_00_feeler_mesh_Mesh_Body_01": "120826788107845",
+    "pm0531_51_00_fur_mesh_Mesh_Body_01": "120826788107845",
+    "pm0531_51_00_left_feelercurl_mesh_Mesh_Body_01": "120826788107845",
+    "pm0531_51_00_right_feelercurl_mesh_Mesh_Body_01": "120826788107845",
+    "pm0531_51_00_tail_mesh_Mesh_Body_01": "120826788107845"
   },
   "Offset": {
     "ReleaseDown": {
@@ -28,17 +26,14 @@
     }
   },
   "Shiny": {
-    "Body00_OptMesh_3_0": "136732947031980",
-    "Body00_OptMesh_4_0": "136732947031980",
-    "Body01_OptMesh_9_0": "136732947031980",
-    "Body02_OptMesh_7_0": "116005892233028",
-    "Body03_OptMesh_10_0": "116005892233028",
-    "Body04_OptMesh_11_0": "136732947031980",
-    "BodyVco00_OptMesh_8_0": "136732947031980",
-    "Eye_OptMesh_5_0": "109022024904922",
-    "Mouth_OptMesh_6_0": "111385180757268",
-    "pm0531_51_FeelerSkin_0_0": "116005892233028",
-    "pm0531_51_LFeelerCurlSkin_1_0": "116005892233028",
-    "pm0531_51_RFeelerCurlSkin_2_0": "116005892233028"
+    "pm0531_51_00_body_mesh_Mesh_Body_01": "74688350245544",
+    "pm0531_51_00_body_mesh_Mesh_Body_02": "70549888238407",
+    "pm0531_51_00_eye_mesh_Mesh_Eyes_01": "138163449735789",
+    "pm0531_51_00_eye_mesh_Mesh_Eyes_02": "110279524870888",
+    "pm0531_51_00_feeler_mesh_Mesh_Body_01": "74688350245544",
+    "pm0531_51_00_fur_mesh_Mesh_Body_01": "74688350245544",
+    "pm0531_51_00_left_feelercurl_mesh_Mesh_Body_01": "74688350245544",
+    "pm0531_51_00_right_feelercurl_mesh_Mesh_Body_01": "74688350245544",
+    "pm0531_51_00_tail_mesh_Mesh_Body_01": "74688350245544"
   }
 }
