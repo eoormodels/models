@@ -1,16 +1,14 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyASpc_OptMesh_9_0": "104766919779981",
-    "BodyATattu00_OptMesh_0_0": "104766919779981",
-    "BodyATattu00_OptMesh_1_0": "104766919779981",
-    "BodyATattu00_OptMesh_2_0": "104766919779981",
-    "BodyATattu01_OptMesh_6_0": "104766919779981",
-    "BodyBTattuVco00_OptMesh_5_0": "90182010625269",
-    "BodyBTattuVco01_OptMesh_7_0": "90182010625269",
-    "BodyBTattuVco01_OptMesh_8_0": "90182010625269",
-    "BodyBTattu_OptMesh_3_0": "90182010625269",
-    "Eye_OptMesh_4_0": "86782670840495"
+    "pm0604_00_00_body_mesh_Mesh_Body_01": "116979981360560",
+    "pm0604_00_00_body_mesh_Mesh_Body_02": "115093280408182",
+    "pm0604_00_00_body_mesh_Mesh_Body_03": "134218032834918",
+    "pm0604_00_00_body_mesh_Mesh_Body_04": "74457350775239",
+    "pm0604_00_00_eye_mesh_Mesh_Eyes_01": "104093136115860",
+    "pm0604_00_00_eye_mesh_Mesh_Eyes_02": "106702878456045",
+    "pm0604_00_00_feeler_a_mesh_Mesh_Body_03": "134218032834918",
+    "pm0604_00_00_feeler_b_mesh_Mesh_Body_03": "134218032834918"
   },
   "Offset": {
     "ReleaseDown": {
@@ -27,15 +25,13 @@
     }
   },
   "Shiny": {
-    "BodyASpc_OptMesh_9_0": "83915675088292",
-    "BodyATattu00_OptMesh_0_0": "83915675088292",
-    "BodyATattu00_OptMesh_1_0": "83915675088292",
-    "BodyATattu00_OptMesh_2_0": "83915675088292",
-    "BodyATattu01_OptMesh_6_0": "83915675088292",
-    "BodyBTattuVco00_OptMesh_5_0": "100375479946054",
-    "BodyBTattuVco01_OptMesh_7_0": "100375479946054",
-    "BodyBTattuVco01_OptMesh_8_0": "100375479946054",
-    "BodyBTattu_OptMesh_3_0": "100375479946054",
-    "Eye_OptMesh_4_0": "88316086446043"
+    "pm0604_00_00_body_mesh_Mesh_Body_01": "126418524626746",
+    "pm0604_00_00_body_mesh_Mesh_Body_02": "70908253965599",
+    "pm0604_00_00_body_mesh_Mesh_Body_03": "110046967291099",
+    "pm0604_00_00_body_mesh_Mesh_Body_04": "87184547439641",
+    "pm0604_00_00_eye_mesh_Mesh_Eyes_01": "100836335678309",
+    "pm0604_00_00_eye_mesh_Mesh_Eyes_02": "72751332985435",
+    "pm0604_00_00_feeler_a_mesh_Mesh_Body_03": "110046967291099",
+    "pm0604_00_00_feeler_b_mesh_Mesh_Body_03": "110046967291099"
   }
 }
