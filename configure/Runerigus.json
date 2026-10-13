@@ -1,15 +1,15 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0979_00_31_ArmSkin_Mesh": "121697093308679",
-    "pm0979_00_31_FingerSkin_Mesh": "121697093308679",
-    "pm0979_00_31_HeadSkin_Mesh": "121697093308679",
-    "pm0979_00_31_SekibanASkin_Mesh": "121697093308679",
-    "pm0979_00_31_SekibanASkin_Mesh_Eyes": "92140946845553",
-    "pm0979_00_31_SekibanBSkin_Mesh": "121697093308679",
-    "pm0979_00_31_ShellASkin_Mesh": "121697093308679",
-    "pm0979_00_31_ShellBSkin_Mesh": "121697093308679",
-    "pm0979_00_31_TailSkin_Mesh": "121697093308679"
+    "pm0979_00_31_arm_mesh_Mesh_Body_01": "139271921698825",
+    "pm0979_00_31_finger_mesh_Mesh_Body_02": "117254549067608",
+    "pm0979_00_31_head_mesh_Mesh_Body_01": "139271921698825",
+    "pm0979_00_31_sekiban_mesh_Mesh_Body_01": "139271921698825",
+    "pm0979_00_31_sekiban_mesh_Mesh_Body_03": "92922771792891",
+    "pm0979_00_31_sekiban_mesh_Mesh_Eyes_01": "108940114982406",
+    "pm0979_00_31_shell_a_mesh_Mesh_Body_02": "117254549067608",
+    "pm0979_00_31_shell_b_mesh_Mesh_Body_02": "117254549067608",
+    "pm0979_00_31_tail_mesh_Mesh_Body_02": "117254549067608"
   },
   "Offset": {
     "ReleaseDown": {
@@ -26,14 +26,14 @@
     }
   },
   "Shiny": {
-    "pm0979_00_31_ArmSkin_Mesh": "134824718174432",
-    "pm0979_00_31_FingerSkin_Mesh": "134824718174432",
-    "pm0979_00_31_HeadSkin_Mesh": "134824718174432",
-    "pm0979_00_31_SekibanASkin_Mesh": "134824718174432",
-    "pm0979_00_31_SekibanASkin_Mesh_Eyes": "126583838939579",
-    "pm0979_00_31_SekibanBSkin_Mesh": "134824718174432",
-    "pm0979_00_31_ShellASkin_Mesh": "134824718174432",
-    "pm0979_00_31_ShellBSkin_Mesh": "134824718174432",
-    "pm0979_00_31_TailSkin_Mesh": "134824718174432"
+    "pm0979_00_31_arm_mesh_Mesh_Body_01": "105225909894273",
+    "pm0979_00_31_finger_mesh_Mesh_Body_02": "110586892304782",
+    "pm0979_00_31_head_mesh_Mesh_Body_01": "105225909894273",
+    "pm0979_00_31_sekiban_mesh_Mesh_Body_01": "105225909894273",
+    "pm0979_00_31_sekiban_mesh_Mesh_Body_03": "99302002331911",
+    "pm0979_00_31_sekiban_mesh_Mesh_Eyes_01": "118005406340331",
+    "pm0979_00_31_shell_a_mesh_Mesh_Body_02": "110586892304782",
+    "pm0979_00_31_shell_b_mesh_Mesh_Body_02": "110586892304782",
+    "pm0979_00_31_tail_mesh_Mesh_Body_02": "110586892304782"
   }
 }
