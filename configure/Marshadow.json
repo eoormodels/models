@@ -1,13 +1,19 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyBVco00_OptMesh_10_0": "83574508594832",
-    "BodyB_OptMesh_6_0": "83574508594832",
-    "BodyB_OptMesh_7_0": "83574508594832",
-    "Eye_OptMesh_8_0": "115181233260013",
-    "Mouth_OptMesh_9_0": "83574508594832",
-    "pm0883_00_HeadASkin_5_0": "89726144015969",
-    "pm0883_00_MufflerSkin_0_0": "89726144015969"
+    "pm0883_00_00_body_mesh_Mesh_Body_01": "105568084141693",
+    "pm0883_00_00_body_mesh_Mesh_Body_02": "121888413257770",
+    "pm0883_00_00_eye_a_mesh_Mesh_Emissives_01": "139950678740197",
+    "pm0883_00_00_eye_a_mesh_Mesh_Emissives_02": "121835220400071",
+    "pm0883_00_00_eye_b_mesh_Mesh_Emissives_03": "111338224586967",
+    "pm0883_00_00_eye_b_mesh_Mesh_Emissives_04": "134905305923203",
+    "pm0883_00_00_head_a_mesh_Mesh_Body_03": "136025040905930",
+    "pm0883_00_00_head_b_mesh_Mesh_Body_03": "136025040905930",
+    "pm0883_00_00_kage_mesh_Mesh_Body_01": "105568084141693",
+    "pm0883_00_00_matsuge_a_mesh_Mesh_Body_01": "105568084141693",
+    "pm0883_00_00_matsuge_b_mesh_Mesh_Body_01": "105568084141693",
+    "pm0883_00_00_muffler_mesh_Mesh_Body_03": "136025040905930",
+    "pm0883_00_00_parts_mesh_Mesh_Body_03": "136025040905930"
   },
   "Offset": {
     "ReleaseDown": {
@@ -24,16 +30,18 @@
     }
   },
   "Shiny": {
-    "BodyBVco00_OptMesh_10_0": "83574508594832",
-    "BodyB_OptMesh_6_0": "83574508594832",
-    "BodyB_OptMesh_7_0": "83574508594832",
-    "Eye_OptMesh_8_0": "111538287106814",
-    "Mouth_OptMesh_9_0": "83574508594832",
-    "pm0883_00_HeadASkin_5_0": "105471531909934",
-    "pm0883_00_HeadBSkin_4_0": "105471531909934",
-    "pm0883_00_MatsugeASkin_3_0": "120098686259586",
-    "pm0883_00_MatsugeBSkin_1_0": "120098686259586",
-    "pm0883_00_MufflerSkin_0_0": "105471531909934",
-    "pm0883_00_PartsSkin_2_0": "105471531909934"
+    "pm0883_00_00_body_mesh_Mesh_Body_01": "121504497056551",
+    "pm0883_00_00_body_mesh_Mesh_Body_02": "105044339151585",
+    "pm0883_00_00_eye_a_mesh_Mesh_Emissives_01": "123277614114394",
+    "pm0883_00_00_eye_a_mesh_Mesh_Emissives_02": "93325380536030",
+    "pm0883_00_00_eye_b_mesh_Mesh_Emissives_03": "79747794045053",
+    "pm0883_00_00_eye_b_mesh_Mesh_Emissives_04": "108941609992640",
+    "pm0883_00_00_head_a_mesh_Mesh_Body_03": "75828315776740",
+    "pm0883_00_00_head_b_mesh_Mesh_Body_03": "75828315776740",
+    "pm0883_00_00_kage_mesh_Mesh_Body_01": "121504497056551",
+    "pm0883_00_00_matsuge_a_mesh_Mesh_Body_01": "121504497056551",
+    "pm0883_00_00_matsuge_b_mesh_Mesh_Body_01": "121504497056551",
+    "pm0883_00_00_muffler_mesh_Mesh_Body_03": "75828315776740",
+    "pm0883_00_00_parts_mesh_Mesh_Body_03": "75828315776740"
   }
 }
