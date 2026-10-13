@@ -1,15 +1,17 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyA00_OptMesh_6_0": "89641672273795",
-    "BodyA00_OptMesh_7_0": "89641672273795",
-    "BodyA00_OptMesh_8_0": "89641672273795",
-    "BodyA01_OptMesh_5_0": "89641672273795",
-    "BodyInc_OptMesh_2_0": "92987316745713",
-    "Eye_OptMesh_0_0": "109436972533497",
-    "LIris_OptMesh_3_0": "102024891606229",
-    "Mouth_OptMesh_1_0": "91358326665793",
-    "RIris_OptMesh_4_0": "102024891606229"
+    "pm0704_00_00_body_mesh_Mesh_Body_01": "122896527623102",
+    "pm0704_00_00_body_mesh_Mesh_Body_02": "80397347167274",
+    "pm0704_00_00_body_mesh_Mesh_Body_03": "122741727248142",
+    "pm0704_00_00_body_mesh_Mesh_Emissives_01": "130207082551892",
+    "pm0704_00_00_body_mesh_Mesh_Emissives_02": "73166931675565",
+    "pm0704_00_00_eye_mesh_Mesh_Eyes_01": "111634080494307",
+    "pm0704_00_00_eye_mesh_Mesh_Eyes_02": "97989638758059",
+    "pm0704_00_00_nail_a_mesh_Mesh_Body_04": "133296075185852",
+    "pm0704_00_00_nail_b_mesh_Mesh_Body_04": "133296075185852",
+    "pm0704_00_00_nail_c_mesh_Mesh_Body_04": "133296075185852",
+    "pm0704_00_00_nail_d_mesh_Mesh_Body_04": "133296075185852"
   },
   "Offset": {
     "ReleaseDown": {
@@ -26,14 +28,16 @@
     }
   },
   "Shiny": {
-    "BodyA00_OptMesh_6_0": "99396511095581",
-    "BodyA00_OptMesh_7_0": "99396511095581",
-    "BodyA00_OptMesh_8_0": "99396511095581",
-    "BodyA01_OptMesh_5_0": "99396511095581",
-    "BodyInc_OptMesh_2_0": "108510247461284",
-    "Eye_OptMesh_0_0": "93061435693305",
-    "LIris_OptMesh_3_0": "83851257302595",
-    "Mouth_OptMesh_1_0": "76576100948387",
-    "RIris_OptMesh_4_0": "83851257302595"
+    "pm0704_00_00_body_mesh_Mesh_Body_01": "71622424600970",
+    "pm0704_00_00_body_mesh_Mesh_Body_02": "79455652619568",
+    "pm0704_00_00_body_mesh_Mesh_Body_03": "111460739945281",
+    "pm0704_00_00_body_mesh_Mesh_Emissives_01": "78211795016293",
+    "pm0704_00_00_body_mesh_Mesh_Emissives_02": "100940518903748",
+    "pm0704_00_00_eye_mesh_Mesh_Eyes_01": "108748055474824",
+    "pm0704_00_00_eye_mesh_Mesh_Eyes_02": "96046601247764",
+    "pm0704_00_00_nail_a_mesh_Mesh_Body_04": "125452717005182",
+    "pm0704_00_00_nail_b_mesh_Mesh_Body_04": "125452717005182",
+    "pm0704_00_00_nail_c_mesh_Mesh_Body_04": "125452717005182",
+    "pm0704_00_00_nail_d_mesh_Mesh_Body_04": "125452717005182"
   }
 }
