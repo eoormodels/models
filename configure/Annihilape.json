@@ -1,15 +1,16 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm1114_00_00_body_mesh_Mesh_Body_01": "127027761667572",
-    "pm1114_00_00_body_mesh_Mesh_Body_02": "77150504756923",
-    "pm1114_00_00_eye_mesh_Mesh_Emissives_01": "108754118915728",
-    "pm1114_00_00_eye_mesh_Mesh_Emissives_02": "137086861087102",
-    "pm1114_00_00_foot_mesh_Mesh_Body_02": "77150504756923",
-    "pm1114_00_00_foot_mesh_Mesh_Body_03": "79907460662590",
-    "pm1114_00_00_hair_mesh_Mesh_Body_02": "77150504756923",
-    "pm1114_00_00_hand_mesh_Mesh_Body_02": "77150504756923",
-    "pm1114_00_00_ring_mesh_Mesh_Body_03": "79907460662590"
+    "pm1114_00_00_body_mesh_Mesh_Body_01": "138009214918951",
+    "pm1114_00_00_body_mesh_Mesh_Body_02": "78343555477265",
+    "pm1114_00_00_body_mesh_Mesh_Body_03": "96139310762370",
+    "pm1114_00_00_eye_mesh_Mesh_Eyes_01": "93747867124986",
+    "pm1114_00_00_eye_mesh_Mesh_Eyes_02": "120044074134447",
+    "pm1114_00_00_foot_mesh_Mesh_Body_03": "96139310762370",
+    "pm1114_00_00_foot_mesh_Mesh_Body_04": "139099853149482",
+    "pm1114_00_00_hair_mesh_Mesh_Body_05": "121063217340957",
+    "pm1114_00_00_hand_mesh_Mesh_Body_03": "96139310762370",
+    "pm1114_00_00_ring_mesh_Mesh_Body_04": "139099853149482"
   },
   "Offset": {
     "ReleaseDown": {
@@ -26,14 +27,15 @@
     }
   },
   "Shiny": {
-    "pm1114_00_00_body_mesh_Mesh_Body_01": "139214287299238",
-    "pm1114_00_00_body_mesh_Mesh_Body_02": "111286892881894",
-    "pm1114_00_00_eye_mesh_Mesh_Emissives_01": "91213304738866",
-    "pm1114_00_00_eye_mesh_Mesh_Emissives_02": "91755004192791",
-    "pm1114_00_00_foot_mesh_Mesh_Body_02": "111286892881894",
-    "pm1114_00_00_foot_mesh_Mesh_Body_03": "134611724799172",
-    "pm1114_00_00_hair_mesh_Mesh_Body_02": "111286892881894",
-    "pm1114_00_00_hand_mesh_Mesh_Body_02": "111286892881894",
-    "pm1114_00_00_ring_mesh_Mesh_Body_03": "134611724799172"
+    "pm1114_00_00_body_mesh_Mesh_Body_01": "110421774328400",
+    "pm1114_00_00_body_mesh_Mesh_Body_02": "81666829080973",
+    "pm1114_00_00_body_mesh_Mesh_Body_03": "85272448197824",
+    "pm1114_00_00_eye_mesh_Mesh_Eyes_01": "97020276585148",
+    "pm1114_00_00_eye_mesh_Mesh_Eyes_02": "99313620652671",
+    "pm1114_00_00_foot_mesh_Mesh_Body_03": "85272448197824",
+    "pm1114_00_00_foot_mesh_Mesh_Body_04": "135775810305496",
+    "pm1114_00_00_hair_mesh_Mesh_Body_05": "93420173226043",
+    "pm1114_00_00_hand_mesh_Mesh_Body_03": "85272448197824",
+    "pm1114_00_00_ring_mesh_Mesh_Body_04": "135775810305496"
   }
 }
