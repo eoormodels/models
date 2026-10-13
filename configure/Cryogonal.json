@@ -1,11 +1,17 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyABaivanilla_Ice00_OptMesh_0_0": "87226324416106",
-    "BodyABaivanilla_Ice01_OptMesh_2_0": "87226324416106",
-    "BodyABaivanilla_IceVco_OptMesh_4_0": "87226324416106",
-    "BodyASpcVco_OptMesh_1_0": "87226324416106",
-    "BodyBPokabuNon_OptMesh_3_0": "110495403519272"
+    "pm0615_00_00_body_mesh_Mesh_Body_01": "91674823341046",
+    "pm0615_00_00_body_mesh_Mesh_Body_02": "102844081496814",
+    "pm0615_00_00_body_mesh_Mesh_Body_03": "88142450765245",
+    "pm0615_00_00_body_mesh_Mesh_Body_04": "119202592812906",
+    "pm0615_00_00_body_mesh_Mesh_Body_05": "72927237719735",
+    "pm0615_00_00_body_mesh_Mesh_Body_06": "77402405503125",
+    "pm0615_00_00_feeler_a_mesh_Mesh_Body_01": "91674823341046",
+    "pm0615_00_00_feeler_a_mesh_Mesh_Body_03": "88142450765245",
+    "pm0615_00_00_feeler_b_mesh_Mesh_Body_07": "88081445388717",
+    "pm0615_00_00_left_eye_mesh_Mesh_Emissives_01": "81921878146857",
+    "pm0615_00_00_right_eye_mesh_Mesh_Emissives_01": "81921878146857"
   },
   "Offset": {
     "ReleaseDown": {
@@ -22,10 +28,16 @@
     }
   },
   "Shiny": {
-    "BodyABaivanilla_Ice00_OptMesh_0_0": "122791833817796",
-    "BodyABaivanilla_Ice01_OptMesh_2_0": "122791833817796",
-    "BodyABaivanilla_IceVco_OptMesh_4_0": "122791833817796",
-    "BodyASpcVco_OptMesh_1_0": "122791833817796",
-    "BodyBPokabuNon_OptMesh_3_0": "132398156409700"
+    "pm0615_00_00_body_mesh_Mesh_Body_01": "89803459467000",
+    "pm0615_00_00_body_mesh_Mesh_Body_02": "76423120567538",
+    "pm0615_00_00_body_mesh_Mesh_Body_03": "121792662463375",
+    "pm0615_00_00_body_mesh_Mesh_Body_04": "99382697017221",
+    "pm0615_00_00_body_mesh_Mesh_Body_05": "74565151848466",
+    "pm0615_00_00_body_mesh_Mesh_Body_06": "122284837414599",
+    "pm0615_00_00_feeler_a_mesh_Mesh_Body_01": "89803459467000",
+    "pm0615_00_00_feeler_a_mesh_Mesh_Body_03": "121792662463375",
+    "pm0615_00_00_feeler_b_mesh_Mesh_Body_07": "70943794401059",
+    "pm0615_00_00_left_eye_mesh_Mesh_Emissives_01": "123157453222286",
+    "pm0615_00_00_right_eye_mesh_Mesh_Emissives_01": "123157453222286"
   }
 }
