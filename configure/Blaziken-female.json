@@ -6,7 +6,7 @@
     "pm0257_00_00_body_mesh_Mesh_Body_03": "91354144111287",
     "pm0257_00_00_eye_mesh_Mesh_Eyes_01": "112991471892002",
     "pm0257_00_00_eye_mesh_Mesh_Eyes_02": "112991471892002",
-    "pm0257_00_00_fire_mesh_Mesh_Body_04": "78763057709521",
+    "pm0257_00_00_fire_mesh_Mesh_Body_04": "106847752683501",
     "pm0257_01_00_head_mesh_Mesh_Body_02": "128844482062060",
     "pm0257_01_00_head_mesh_Mesh_Body_05": "91354144111287"
   },
@@ -27,10 +27,10 @@
   "Shiny": {
     "pm0257_00_00_body_mesh_Mesh_Body_01": "98791676203154",
     "pm0257_00_00_body_mesh_Mesh_Body_02": "110594136324929",
-    "pm0257_00_00_body_mesh_Mesh_Body_03": "122836207167053",
-    "pm0257_00_00_eye_mesh_Mesh_Eyes_01": "124885846515257",
+    "pm0257_00_00_body_mesh_Mesh_Body_03": "126549526087895",
+    "pm0257_00_00_eye_mesh_Mesh_Eyes_01": "115525732248885",
     "pm0257_00_00_eye_mesh_Mesh_Eyes_02": "115525732248885",
-    "pm0257_00_00_fire_mesh_Mesh_Body_04": "78763057709521",
+    "pm0257_00_00_fire_mesh_Mesh_Body_04": "106847752683501",
     "pm0257_01_00_head_mesh_Mesh_Body_02": "110594136324929",
     "pm0257_01_00_head_mesh_Mesh_Body_05": "126549526087895"
   }
