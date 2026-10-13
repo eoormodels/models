@@ -1,16 +1,16 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0334_51_00_bigfeather_mesh_Mesh_Body_01": "87046136098934",
+    "pm0334_51_00_bigfeather_mesh_Mesh_Body_01": "75017750452763",
     "pm0334_51_00_bigfeather_mesh_Mesh_Body_02": "140009995863924",
-    "pm0334_51_00_body_mesh_Mesh_Body_01": "87046136098934",
+    "pm0334_51_00_body_mesh_Mesh_Body_01": "75017750452763",
     "pm0334_51_00_body_mesh_Mesh_Body_02": "140009995863924",
     "pm0334_51_00_body_mesh_Mesh_Body_03": "75017750452763",
     "pm0334_51_00_eye_mesh_Mesh_Emissives_01": "117134196155662",
     "pm0334_51_00_eye_mesh_Mesh_Emissives_02": "117134196155662",
-    "pm0334_51_00_hat_mesh_Mesh_Body_01": "87046136098934",
-    "pm0334_51_00_neckfeather_mesh_Mesh_Body_01": "87046136098934",
-    "pm0334_51_00_wing_mesh_Mesh_Body_01": "87046136098934"
+    "pm0334_51_00_hat_mesh_Mesh_Body_01": "75017750452763",
+    "pm0334_51_00_neckfeather_mesh_Mesh_Body_01": "75017750452763",
+    "pm0334_51_00_wing_mesh_Mesh_Body_01": "75017750452763"
   },
   "Offset": {
     "ReleaseDown": {
@@ -27,15 +27,15 @@
     }
   },
   "Shiny": {
-    "pm0334_51_00_bigfeather_mesh_Mesh_Body_01": "100489964476648",
+    "pm0334_51_00_bigfeather_mesh_Mesh_Body_01": "85261985425626",
     "pm0334_51_00_bigfeather_mesh_Mesh_Body_02": "110643929070539",
-    "pm0334_51_00_body_mesh_Mesh_Body_01": "100489964476648",
+    "pm0334_51_00_body_mesh_Mesh_Body_01": "85261985425626",
     "pm0334_51_00_body_mesh_Mesh_Body_02": "110643929070539",
     "pm0334_51_00_body_mesh_Mesh_Body_03": "85261985425626",
-    "pm0334_51_00_eye_mesh_Mesh_Emissives_01": "100994333560642",
+    "pm0334_51_00_eye_mesh_Mesh_Emissives_01": "117468249516244",
     "pm0334_51_00_eye_mesh_Mesh_Emissives_02": "117468249516244",
-    "pm0334_51_00_hat_mesh_Mesh_Body_01": "100489964476648",
-    "pm0334_51_00_neckfeather_mesh_Mesh_Body_01": "100489964476648",
-    "pm0334_51_00_wing_mesh_Mesh_Body_01": "100489964476648"
+    "pm0334_51_00_hat_mesh_Mesh_Body_01": "85261985425626",
+    "pm0334_51_00_neckfeather_mesh_Mesh_Body_01": "85261985425626",
+    "pm0334_51_00_wing_mesh_Mesh_Body_01": "85261985425626"
   }
 }
