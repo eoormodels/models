@@ -1,16 +1,17 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyRotom00_OptMesh_5_0": "109962180455572",
-    "BodyRotom01_OptMesh_8_0": "109962180455572",
-    "BodyRotomVco00_OptMesh_7_0": "109962180455572",
-    "BodyRotomVco01_OptMesh_9_0": "109962180455572",
-    "Mouth_OptMesh_6_0": "79850848350043",
-    "pm0479_13_ArmSkin_0_0": "109962180455572",
-    "pm0479_13_AuraASkin_1_0": "109962180455572",
-    "pm0479_13_AuraBSkin_2_0": "109962180455572",
-    "pm0479_13_AuraCSkin_3_0": "109962180455572",
-    "pm0479_13_AuraDSkin_4_0": "109962180455572"
+    "pm0479_13_00_arm_mesh_Mesh_Body_01": "111480537599809",
+    "pm0479_13_00_aura_a_mesh_Mesh_Body_02": "98963627602017",
+    "pm0479_13_00_aura_b_mesh_Mesh_Body_02": "98963627602017",
+    "pm0479_13_00_aura_c_mesh_Mesh_Body_02": "98963627602017",
+    "pm0479_13_00_aura_d_mesh_Mesh_Body_02": "98963627602017",
+    "pm0479_13_00_body_mesh_Mesh_Body_03": "85467129193575",
+    "pm0479_13_00_body_mesh_Mesh_Body_04": "126570034162409",
+    "pm0479_13_00_body_mesh_Mesh_Body_05": "136220825233220",
+    "pm0479_13_00_body_mesh_Mesh_Eyes_01": "140620829902093",
+    "pm0479_13_00_body_mesh_Mesh_Eyes_02": "104617855428184",
+    "pm0479_13_00_teeth_mesh_Mesh_Body_04": "126570034162409"
   },
   "Offset": {
     "ReleaseDown": {
@@ -27,15 +28,16 @@
     }
   },
   "Shiny": {
-    "BodyRotom00_OptMesh_5_0": "91592796343390",
-    "BodyRotom01_OptMesh_8_0": "91592796343390",
-    "BodyRotomVco00_OptMesh_7_0": "91592796343390",
-    "BodyRotomVco01_OptMesh_9_0": "91592796343390",
-    "Mouth_OptMesh_6_0": "112704440484751",
-    "pm0479_13_ArmSkin_0_0": "91592796343390",
-    "pm0479_13_AuraASkin_1_0": "91592796343390",
-    "pm0479_13_AuraBSkin_2_0": "91592796343390",
-    "pm0479_13_AuraCSkin_3_0": "91592796343390",
-    "pm0479_13_AuraDSkin_4_0": "91592796343390"
+    "pm0479_13_00_arm_mesh_Mesh_Body_01": "135589686303298",
+    "pm0479_13_00_aura_a_mesh_Mesh_Body_02": "94283878500326",
+    "pm0479_13_00_aura_b_mesh_Mesh_Body_02": "94283878500326",
+    "pm0479_13_00_aura_c_mesh_Mesh_Body_02": "94283878500326",
+    "pm0479_13_00_aura_d_mesh_Mesh_Body_02": "94283878500326",
+    "pm0479_13_00_body_mesh_Mesh_Body_03": "84198719910101",
+    "pm0479_13_00_body_mesh_Mesh_Body_04": "124849935785793",
+    "pm0479_13_00_body_mesh_Mesh_Body_05": "112527870002789",
+    "pm0479_13_00_body_mesh_Mesh_Eyes_01": "99391457281031",
+    "pm0479_13_00_body_mesh_Mesh_Eyes_02": "99518350513212",
+    "pm0479_13_00_teeth_mesh_Mesh_Body_04": "124849935785793"
   }
 }
