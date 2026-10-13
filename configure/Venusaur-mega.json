@@ -1,16 +1,16 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyAVco_OptMesh_9_0": "80428630268459",
-    "BodyA_OptMesh_0_0": "80428630268459",
-    "BodyA_OptMesh_1_0": "80428630268459",
-    "BodyBKurumiruVco00_OptMesh_8_0": "94959266145088",
-    "BodyBKurumiruVco01_OptMesh_7_0": "94959266145088",
-    "BodyBKurumiru_OptMesh_5_0": "94959266145088",
-    "BodyB_OptMesh_2_0": "94959266145088",
-    "BodyB_OptMesh_3_0": "94959266145088",
-    "BodyB_OptMesh_4_0": "94959266145088",
-    "Eye_OptMesh_6_0": "89523312252410"
+    "pm0003_51_00_body_mesh_Mesh_Body_01": "123176933393825",
+    "pm0003_51_00_eye_mesh_Mesh_Eyes_01": "73895729281429",
+    "pm0003_51_00_eye_mesh_Mesh_Eyes_02": "104772437254495",
+    "pm0003_51_00_flower_mesh_Mesh_Body_02": "75430300187489",
+    "pm0003_51_00_flower_mesh_Mesh_Body_03": "116549030426270",
+    "pm0003_51_00_ivy_mesh_Mesh_Body_02": "75430300187489",
+    "pm0003_51_00_leaf_mesh_Mesh_Body_02": "75430300187489",
+    "pm0003_51_00_leaf_mesh_Mesh_Body_03": "116549030426270",
+    "pm0003_51_00_palm_mesh_Mesh_Body_03": "116549030426270",
+    "pm0003_51_00_smallflower_mesh_Mesh_Body_02": "75430300187489"
   },
   "Offset": {
     "ReleaseDown": {
@@ -27,15 +27,15 @@
     }
   },
   "Shiny": {
-    "BodyAVco_OptMesh_9_0": "117051872914268",
-    "BodyA_OptMesh_0_0": "117051872914268",
-    "BodyA_OptMesh_1_0": "117051872914268",
-    "BodyBKurumiruVco00_OptMesh_8_0": "92920529468446",
-    "BodyBKurumiruVco01_OptMesh_7_0": "92920529468446",
-    "BodyBKurumiru_OptMesh_5_0": "92920529468446",
-    "BodyB_OptMesh_2_0": "92920529468446",
-    "BodyB_OptMesh_3_0": "92920529468446",
-    "BodyB_OptMesh_4_0": "92920529468446",
-    "Eye_OptMesh_6_0": "90646247366458"
+    "pm0003_51_00_body_mesh_Mesh_Body_01": "79222212492590",
+    "pm0003_51_00_eye_mesh_Mesh_Eyes_01": "124523693980810",
+    "pm0003_51_00_eye_mesh_Mesh_Eyes_02": "129397866818906",
+    "pm0003_51_00_flower_mesh_Mesh_Body_02": "112983281785301",
+    "pm0003_51_00_flower_mesh_Mesh_Body_03": "75670345361558",
+    "pm0003_51_00_ivy_mesh_Mesh_Body_02": "112983281785301",
+    "pm0003_51_00_leaf_mesh_Mesh_Body_02": "112983281785301",
+    "pm0003_51_00_leaf_mesh_Mesh_Body_03": "75670345361558",
+    "pm0003_51_00_palm_mesh_Mesh_Body_03": "75670345361558",
+    "pm0003_51_00_smallflower_mesh_Mesh_Body_02": "112983281785301"
   }
 }
