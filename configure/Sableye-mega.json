@@ -1,20 +1,16 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyDesukarn_OptMesh_7_0": "79428872250932",
-    "BodyDiaVco00_OptMesh_10_0": "97152938704337",
-    "BodyDiaVco01_OptMesh_9_0": "129035848529323",
-    "BodyDiaVco02_OptMesh_8_0": "110134606523233",
-    "BodyDiaVco03_OptMesh_11_0": "97152938704337",
-    "BodyDiaVco04_OptMesh_12_0": "129035848529323",
-    "BodyDiaVco05_OptMesh_13_0": "110134606523233",
-    "Body_OptMesh_3_0": "79428872250932",
-    "Body_OptMesh_4_0": "79428872250932",
-    "Body_OptMesh_5_0": "79428872250932",
-    "Mouth_OptMesh_6_0": "85286431371005",
-    "pm0302_51_ItemOffsetSkin_1_0": "97152938704337",
-    "pm0302_51_ItemOffsetSkin_2_0": "97152938704337",
-    "pm0302_51_ItemSkin_0_0": "83574508594832"
+    "pm0302_51_00_body_mesh_Mesh_Body_01": "74188896167654",
+    "pm0302_51_00_body_mesh_Mesh_Body_02": "85176921930587",
+    "pm0302_51_00_eye_mesh_Mesh_Eyes_01": "119261147336001",
+    "pm0302_51_00_item_mesh_Mesh_Body_03": "119261147336001",
+    "pm0302_51_00_lower_teeth_mesh_Mesh_Body_04": "134940353565092",
+    "pm0302_51_00_stone_mesh_Mesh_Body_03": "119261147336001",
+    "pm0302_51_00_stone_mesh_Mesh_Body_05": "116896144970914",
+    "pm0302_51_00_stone_mesh_Mesh_Body_06": "119963244230447",
+    "pm0302_51_00_stone_mesh_Mesh_Body_07": "94426108054915",
+    "pm0302_51_00_upper_teeth_mesh_Mesh_Body_04": "134940353565092"
   },
   "Offset": {
     "ReleaseDown": {
@@ -31,19 +27,15 @@
     }
   },
   "Shiny": {
-    "BodyDesukarn_OptMesh_7_0": "129705240168268",
-    "BodyDiaVco00_OptMesh_10_0": "83738969443061",
-    "BodyDiaVco01_OptMesh_9_0": "82130453597711",
-    "BodyDiaVco02_OptMesh_8_0": "116128334838697",
-    "BodyDiaVco03_OptMesh_11_0": "83738969443061",
-    "BodyDiaVco04_OptMesh_12_0": "82130453597711",
-    "BodyDiaVco05_OptMesh_13_0": "116128334838697",
-    "Body_OptMesh_3_0": "129705240168268",
-    "Body_OptMesh_4_0": "129705240168268",
-    "Body_OptMesh_5_0": "129705240168268",
-    "Mouth_OptMesh_6_0": "101755035209024",
-    "pm0302_51_ItemOffsetSkin_1_0": "83738969443061",
-    "pm0302_51_ItemOffsetSkin_2_0": "83738969443061",
-    "pm0302_51_ItemSkin_0_0": "83574508594832"
+    "pm0302_51_00_body_mesh_Mesh_Body_01": "89532777535628",
+    "pm0302_51_00_body_mesh_Mesh_Body_02": "80454627800355",
+    "pm0302_51_00_eye_mesh_Mesh_Eyes_01": "128060670050993",
+    "pm0302_51_00_item_mesh_Mesh_Body_03": "113644213764016",
+    "pm0302_51_00_lower_teeth_mesh_Mesh_Body_04": "91178248127497",
+    "pm0302_51_00_stone_mesh_Mesh_Body_03": "113644213764016",
+    "pm0302_51_00_stone_mesh_Mesh_Body_05": "135884925489732",
+    "pm0302_51_00_stone_mesh_Mesh_Body_06": "125949876969413",
+    "pm0302_51_00_stone_mesh_Mesh_Body_07": "116372631092413",
+    "pm0302_51_00_upper_teeth_mesh_Mesh_Body_04": "91178248127497"
   }
 }
