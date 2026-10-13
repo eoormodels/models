@@ -1,0 +1,47 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0382_51_00_body_mesh_Mesh_Body_01": "126976276588072",
+    "pm0382_51_00_body_mesh_Mesh_Body_02": "78139891096139",
+    "pm0382_51_00_bodytra_mesh_Mesh_Emissives_01": "132979936599924",
+    "pm0382_51_00_bodyura_mesh_Mesh_Emissives_02": "110887247561395",
+    "pm0382_51_00_core_mesh_Mesh_Emissives_02": "110887247561395",
+    "pm0382_51_00_entrails_mesh_Mesh_Emissives_02": "110887247561395",
+    "pm0382_51_00_entrailstail_mesh_Mesh_Emissives_02": "110887247561395",
+    "pm0382_51_00_eye_a_mesh_Mesh_Emissives_03": "92183914214175",
+    "pm0382_51_00_eye_a_mesh_Mesh_Emissives_04": "100302665894326",
+    "pm0382_51_00_eye_b_mesh_Mesh_Emissives_05": "100525648914245",
+    "pm0382_51_00_mouth_mesh_Mesh_Body_02": "78139891096139",
+    "pm0382_51_00_mouth_mesh_Mesh_Emissives_06": "130387124967113",
+    "pm0382_51_00_mouthura_mesh_Mesh_Emissives_02": "110887247561395"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0382_51_00_body_mesh_Mesh_Body_01": "76800019448506",
+    "pm0382_51_00_body_mesh_Mesh_Body_02": "100162097694181",
+    "pm0382_51_00_bodytra_mesh_Mesh_Emissives_01": "83578399348861",
+    "pm0382_51_00_bodyura_mesh_Mesh_Emissives_02": "103997175110129",
+    "pm0382_51_00_core_mesh_Mesh_Emissives_02": "103997175110129",
+    "pm0382_51_00_entrails_mesh_Mesh_Emissives_02": "103997175110129",
+    "pm0382_51_00_entrailstail_mesh_Mesh_Emissives_02": "103997175110129",
+    "pm0382_51_00_eye_a_mesh_Mesh_Emissives_03": "109974314195733",
+    "pm0382_51_00_eye_a_mesh_Mesh_Emissives_04": "139932281170690",
+    "pm0382_51_00_eye_b_mesh_Mesh_Emissives_05": "102021652664540",
+    "pm0382_51_00_mouth_mesh_Mesh_Body_02": "100162097694181",
+    "pm0382_51_00_mouth_mesh_Mesh_Emissives_06": "117149480013098",
+    "pm0382_51_00_mouthura_mesh_Mesh_Emissives_02": "103997175110129"
+  }
+}
