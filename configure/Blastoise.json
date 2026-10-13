@@ -1,18 +1,20 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyASpcVco00_OptMesh_4_0": "91502439726716",
-    "BodyASpcVco01_OptMesh_12_0": "91502439726716",
-    "BodyA_OptMesh_5_0": "91502439726716",
-    "BodyA_OptMesh_6_0": "91502439726716",
-    "BodyBSpcVco_OptMesh_7_0": "106834926080400",
-    "BodyBSpc_OptMesh_8_0": "106834926080400",
-    "Eye_OptMesh_11_0": "124818442764634",
-    "LIris_OptMesh_10_0": "88204304341969",
-    "RIris_OptMesh_9_0": "88204304341969",
-    "pm0009_00_CannonSkin_0_0": "106834926080400",
-    "pm0009_00_CannonSkin_1_0": "106834926080400",
-    "pm0009_00_CannonSkin_2_0": "106834926080400"
+    "pm0009_00_00_arm_mesh_Mesh_Body_01": "121980410839950",
+    "pm0009_00_00_body_mesh_Mesh_Body_01": "121980410839950",
+    "pm0009_00_00_body_mesh_Mesh_Body_02": "108167991092210",
+    "pm0009_00_00_canon_mesh_Mesh_Body_02": "108167991092210",
+    "pm0009_00_00_canon_mesh_Mesh_Body_03": "110095895157677",
+    "pm0009_00_00_eye_mesh_Mesh_Eyes_01": "100684134162356",
+    "pm0009_00_00_eye_mesh_Mesh_Eyes_02": "75615459704055",
+    "pm0009_00_00_face_mesh_Mesh_Body_01": "121980410839950",
+    "pm0009_00_00_fang_mesh_Mesh_Body_01": "121980410839950",
+    "pm0009_00_00_jet_mesh_Mesh_Body_04": "107768520334316",
+    "pm0009_00_00_leg_mesh_Mesh_Body_01": "121980410839950",
+    "pm0009_00_00_shell_mesh_Mesh_Body_02": "108167991092210",
+    "pm0009_00_00_tail_mesh_Mesh_Body_01": "121980410839950",
+    "pm0009_00_00_tongue_mesh_Mesh_Body_01": "121980410839950"
   },
   "Offset": {
     "ReleaseDown": {
@@ -29,18 +31,19 @@
     }
   },
   "Shiny": {
-    "BodyASpcVco00_OptMesh_4_0": "139600120456363",
-    "BodyASpcVco01_OptMesh_12_0": "139600120456363",
-    "BodyA_OptMesh_5_0": "139600120456363",
-    "BodyA_OptMesh_6_0": "139600120456363",
-    "BodyBSpcVco_OptMesh_7_0": "119035904708364",
-    "BodyBSpc_OptMesh_8_0": "119035904708364",
-    "Eye_OptMesh_11_0": "79729601769458",
-    "LIris_OptMesh_10_0": "104709145416172",
-    "RIris_OptMesh_9_0": "104709145416172",
-    "pm0009_00_CannonSkin_0_0": "119035904708364",
-    "pm0009_00_CannonSkin_1_0": "119035904708364",
-    "pm0009_00_CannonSkin_2_0": "119035904708364",
-    "pm0009_00_CoverSkin_3_0": "119035904708364"
+    "pm0009_00_00_arm_mesh_Mesh_Body_01": "112162718659473",
+    "pm0009_00_00_body_mesh_Mesh_Body_01": "112162718659473",
+    "pm0009_00_00_body_mesh_Mesh_Body_02": "121284445092050",
+    "pm0009_00_00_canon_mesh_Mesh_Body_02": "121284445092050",
+    "pm0009_00_00_canon_mesh_Mesh_Body_03": "79627720458699",
+    "pm0009_00_00_eye_mesh_Mesh_Eyes_01": "118356592257415",
+    "pm0009_00_00_eye_mesh_Mesh_Eyes_02": "131427326490263",
+    "pm0009_00_00_face_mesh_Mesh_Body_01": "112162718659473",
+    "pm0009_00_00_fang_mesh_Mesh_Body_01": "112162718659473",
+    "pm0009_00_00_jet_mesh_Mesh_Body_04": "106952658631746",
+    "pm0009_00_00_leg_mesh_Mesh_Body_01": "112162718659473",
+    "pm0009_00_00_shell_mesh_Mesh_Body_02": "121284445092050",
+    "pm0009_00_00_tail_mesh_Mesh_Body_01": "112162718659473",
+    "pm0009_00_00_tongue_mesh_Mesh_Body_01": "112162718659473"
   }
 }
