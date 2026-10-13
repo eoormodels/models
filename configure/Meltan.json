@@ -1,0 +1,51 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0891_00_00_body_mesh_Mesh_Body_01": "90604534265919",
+    "pm0891_00_00_eye_a_mesh_Mesh_Eyes_01": "80856655270944",
+    "pm0891_00_00_eye_b_mesh_Mesh_Eyes_01": "80856655270944",
+    "pm0891_00_00_eye_c_mesh_Mesh_Eyes_01": "80856655270944",
+    "pm0891_00_00_eye_d_mesh_Mesh_Eyes_01": "80856655270944",
+    "pm0891_00_00_eye_e_mesh_Mesh_Eyes_01": "80856655270944",
+    "pm0891_00_00_eye_f_mesh_Mesh_Eyes_01": "80856655270944",
+    "pm0891_00_00_eye_g_mesh_Mesh_Eyes_01": "80856655270944",
+    "pm0891_00_00_head_mesh_Mesh_Body_01": "90604534265919",
+    "pm0891_00_00_tail_mesh_Mesh_Body_01": "90604534265919",
+    "pm0891_00_00_tail_mesh_Mesh_Body_02": "95785785792243",
+    "pm0891_00_00_tail_mesh_Mesh_Body_03": "83969918946489",
+    "pm0891_00_00_tubu_a_mesh_Mesh_Body_02": "95785785792243",
+    "pm0891_00_00_tubu_b_mesh_Mesh_Body_02": "95785785792243",
+    "pm0891_00_00_tubu_c_mesh_Mesh_Body_02": "95785785792243"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0891_00_00_body_mesh_Mesh_Body_01": "71372613258059",
+    "pm0891_00_00_eye_a_mesh_Mesh_Eyes_01": "80856655270944",
+    "pm0891_00_00_eye_b_mesh_Mesh_Eyes_01": "80856655270944",
+    "pm0891_00_00_eye_c_mesh_Mesh_Eyes_01": "80856655270944",
+    "pm0891_00_00_eye_d_mesh_Mesh_Eyes_01": "80856655270944",
+    "pm0891_00_00_eye_e_mesh_Mesh_Eyes_01": "80856655270944",
+    "pm0891_00_00_eye_f_mesh_Mesh_Eyes_01": "80856655270944",
+    "pm0891_00_00_eye_g_mesh_Mesh_Eyes_01": "80856655270944",
+    "pm0891_00_00_head_mesh_Mesh_Body_01": "71372613258059",
+    "pm0891_00_00_tail_mesh_Mesh_Body_01": "71372613258059",
+    "pm0891_00_00_tail_mesh_Mesh_Body_02": "72738793829253",
+    "pm0891_00_00_tail_mesh_Mesh_Body_03": "101668647544465",
+    "pm0891_00_00_tubu_a_mesh_Mesh_Body_02": "72738793829253",
+    "pm0891_00_00_tubu_b_mesh_Mesh_Body_02": "72738793829253",
+    "pm0891_00_00_tubu_c_mesh_Mesh_Body_02": "72738793829253"
+  }
+}
