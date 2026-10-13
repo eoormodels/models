@@ -1,21 +1,14 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodySpcVco_OptMesh_14_0": "127302513235745",
-    "BodySpc_OptMesh_0_0": "127302513235745",
-    "BodySpc_OptMesh_10_0": "127302513235745",
-    "BodySpc_OptMesh_11_0": "127302513235745",
-    "BodySpc_OptMesh_12_0": "127302513235745",
-    "BodySpc_OptMesh_1_0": "127302513235745",
-    "BodySpc_OptMesh_2_0": "127302513235745",
-    "BodySpc_OptMesh_3_0": "127302513235745",
-    "BodySpc_OptMesh_4_0": "127302513235745",
-    "BodySpc_OptMesh_5_0": "127302513235745",
-    "BodySpc_OptMesh_6_0": "127302513235745",
-    "BodySpc_OptMesh_7_0": "127302513235745",
-    "BodySpc_OptMesh_8_0": "127302513235745",
-    "BodySpc_OptMesh_9_0": "127302513235745",
-    "Eye_OptMesh_13_0": "122353238078595"
+    "pm0317_00_00_body_mesh_Mesh_Body_01": "78205715284061",
+    "pm0317_00_00_eye_mesh_Mesh_Eyes_01": "99420082672878",
+    "pm0317_00_00_eye_mesh_Mesh_Eyes_02": "128569571420869",
+    "pm0317_00_00_eyelid_a_mesh_Mesh_Body_01": "78205715284061",
+    "pm0317_00_00_eyelid_b_mesh_Mesh_Body_01": "78205715284061",
+    "pm0317_00_00_face_mesh_Mesh_Body_02": "106483738099267",
+    "pm0317_00_00_lower_eyelid_mesh_Mesh_Body_01": "78205715284061",
+    "pm0317_00_00_upper_eyelid_mesh_Mesh_Body_01": "78205715284061"
   },
   "Offset": {
     "ReleaseDown": {
@@ -32,20 +25,13 @@
     }
   },
   "Shiny": {
-    "BodySpcVco_OptMesh_14_0": "114592355391510",
-    "BodySpc_OptMesh_0_0": "114592355391510",
-    "BodySpc_OptMesh_10_0": "114592355391510",
-    "BodySpc_OptMesh_11_0": "114592355391510",
-    "BodySpc_OptMesh_12_0": "114592355391510",
-    "BodySpc_OptMesh_1_0": "114592355391510",
-    "BodySpc_OptMesh_2_0": "114592355391510",
-    "BodySpc_OptMesh_3_0": "114592355391510",
-    "BodySpc_OptMesh_4_0": "114592355391510",
-    "BodySpc_OptMesh_5_0": "114592355391510",
-    "BodySpc_OptMesh_6_0": "114592355391510",
-    "BodySpc_OptMesh_7_0": "114592355391510",
-    "BodySpc_OptMesh_8_0": "114592355391510",
-    "BodySpc_OptMesh_9_0": "114592355391510",
-    "Eye_OptMesh_13_0": "74235910969093"
+    "pm0317_00_00_body_mesh_Mesh_Body_01": "134922613148067",
+    "pm0317_00_00_eye_mesh_Mesh_Eyes_01": "104171708437325",
+    "pm0317_00_00_eye_mesh_Mesh_Eyes_02": "98068695743321",
+    "pm0317_00_00_eyelid_a_mesh_Mesh_Body_01": "134922613148067",
+    "pm0317_00_00_eyelid_b_mesh_Mesh_Body_01": "134922613148067",
+    "pm0317_00_00_face_mesh_Mesh_Body_02": "70611401664437",
+    "pm0317_00_00_lower_eyelid_mesh_Mesh_Body_01": "134922613148067",
+    "pm0317_00_00_upper_eyelid_mesh_Mesh_Body_01": "134922613148067"
   }
 }
