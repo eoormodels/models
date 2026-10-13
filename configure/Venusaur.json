@@ -1,13 +1,22 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyAVco_OptMesh_6_0": "98082211975262",
-    "BodyA_OptMesh_3_0": "98082211975262",
-    "BodyA_OptMesh_4_0": "98082211975262",
-    "BodyBKurumiruVco_OptMesh_2_0": "117671975696632",
-    "BodyB_OptMesh_0_0": "117671975696632",
-    "BodyCKurumiru_OptMesh_1_0": "112377210641862",
-    "Eye_OptMesh_5_0": "108620121337123"
+    "pm0003_00_00_body_mesh_Mesh_Body_01": "114531909369785",
+    "pm0003_00_00_crown_mesh_Mesh_Body_02": "138999345941547",
+    "pm0003_00_00_eye_mesh_Mesh_Eyes_01": "80572731623665",
+    "pm0003_00_00_eye_mesh_Mesh_Eyes_02": "106559925042655",
+    "pm0003_00_00_flower02_mesh_Mesh_Body_03": "139832809543331",
+    "pm0003_00_00_flower03_mesh_Mesh_Body_03": "139832809543331",
+    "pm0003_00_00_flower04_mesh_Mesh_Body_03": "139832809543331",
+    "pm0003_00_00_flower05_mesh_Mesh_Body_03": "139832809543331",
+    "pm0003_00_00_flower06_mesh_Mesh_Body_03": "139832809543331",
+    "pm0003_00_00_flower07_mesh_Mesh_Body_03": "139832809543331",
+    "pm0003_00_00_flower08_mesh_Mesh_Body_03": "139832809543331",
+    "pm0003_00_00_leaves_mesh_Mesh_Body_02": "138999345941547",
+    "pm0003_00_00_shaft_mesh_Mesh_Body_03": "139832809543331",
+    "pm0003_00_00_tongue_mesh_Mesh_Body_02": "138999345941547",
+    "pm0003_00_00_vine_mesh_Mesh_Body_02": "138999345941547",
+    "pm0003_00_00_warts_mesh_Mesh_Body_01": "114531909369785"
   },
   "Offset": {
     "ReleaseDown": {
@@ -24,12 +33,21 @@
     }
   },
   "Shiny": {
-    "BodyAVco_OptMesh_6_0": "117706466777697",
-    "BodyA_OptMesh_3_0": "117706466777697",
-    "BodyA_OptMesh_4_0": "117706466777697",
-    "BodyBKurumiruVco_OptMesh_2_0": "88641306051729",
-    "BodyB_OptMesh_0_0": "88641306051729",
-    "BodyCKurumiru_OptMesh_1_0": "78559328227587",
-    "Eye_OptMesh_5_0": "90994339155844"
+    "pm0003_00_00_body_mesh_Mesh_Body_01": "109895992133782",
+    "pm0003_00_00_crown_mesh_Mesh_Body_02": "97368068484390",
+    "pm0003_00_00_eye_mesh_Mesh_Eyes_01": "104738595613242",
+    "pm0003_00_00_eye_mesh_Mesh_Eyes_02": "98678173301448",
+    "pm0003_00_00_flower02_mesh_Mesh_Body_03": "139917532359080",
+    "pm0003_00_00_flower03_mesh_Mesh_Body_03": "139917532359080",
+    "pm0003_00_00_flower04_mesh_Mesh_Body_03": "139917532359080",
+    "pm0003_00_00_flower05_mesh_Mesh_Body_03": "139917532359080",
+    "pm0003_00_00_flower06_mesh_Mesh_Body_03": "139917532359080",
+    "pm0003_00_00_flower07_mesh_Mesh_Body_03": "139917532359080",
+    "pm0003_00_00_flower08_mesh_Mesh_Body_03": "139917532359080",
+    "pm0003_00_00_leaves_mesh_Mesh_Body_02": "97368068484390",
+    "pm0003_00_00_shaft_mesh_Mesh_Body_03": "139917532359080",
+    "pm0003_00_00_tongue_mesh_Mesh_Body_02": "97368068484390",
+    "pm0003_00_00_vine_mesh_Mesh_Body_02": "97368068484390",
+    "pm0003_00_00_warts_mesh_Mesh_Body_01": "109895992133782"
   }
 }
