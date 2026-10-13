@@ -1,11 +1,11 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodySpcVco_OptMesh_4_0": "120943521614718",
-    "BodySpc_OptMesh_2_0": "120943521614718",
-    "Body_OptMesh_0_0": "120943521614718",
-    "Body_OptMesh_1_0": "120943521614718",
-    "Eye_OptMesh_3_0": "105372295293854"
+    "pm0104_00_00_body_mesh_Mesh_Body_01": "104345666923019",
+    "pm0104_00_00_eye_mesh_Mesh_Eyes_01": "133641471071972",
+    "pm0104_00_00_eye_mesh_Mesh_Eyes_02": "117695251195448",
+    "pm0104_00_00_head_mesh_Mesh_Body_02": "120386975020016",
+    "pm0104_00_00_weapon_mesh_Mesh_Body_02": "120386975020016"
   },
   "Offset": {
     "ReleaseDown": {
@@ -22,10 +22,10 @@
     }
   },
   "Shiny": {
-    "BodySpcVco_OptMesh_4_0": "90257103209791",
-    "BodySpc_OptMesh_2_0": "90257103209791",
-    "Body_OptMesh_0_0": "90257103209791",
-    "Body_OptMesh_1_0": "90257103209791",
-    "Eye_OptMesh_3_0": "129171969921957"
+    "pm0104_00_00_body_mesh_Mesh_Body_01": "120140228427135",
+    "pm0104_00_00_eye_mesh_Mesh_Eyes_01": "98741440130670",
+    "pm0104_00_00_eye_mesh_Mesh_Eyes_02": "120042769123754",
+    "pm0104_00_00_head_mesh_Mesh_Body_02": "127442826304005",
+    "pm0104_00_00_weapon_mesh_Mesh_Body_02": "127442826304005"
   }
 }
