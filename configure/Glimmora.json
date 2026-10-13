@@ -1,14 +1,14 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm1071_00_00_body_a_mesh_Mesh_Body_01": "132375223466963",
-    "pm1071_00_00_body_b_mesh_Mesh_Body_02": "94238935821848",
-    "pm1071_00_00_body_c_mesh_Mesh_Body_03": "106636951588754",
-    "pm1071_00_00_body_e_mesh_Mesh_Body_01": "132375223466963",
-    "pm1071_00_00_eye_mesh_Mesh_Emissives_01": "72675192338723",
-    "pm1071_00_00_eye_mesh_Mesh_Emissives_02": "72675192338723",
-    "pm1071_00_00_left_body_d_mesh_Mesh_Body_01": "132375223466963",
-    "pm1071_00_00_right_body_d_mesh_Mesh_Body_01": "132375223466963"
+    "pm1071_00_00_body_a_mesh_Mesh_Body_01": "92661396899129",
+    "pm1071_00_00_body_b_mesh_Mesh_Body_02": "86322905457814",
+    "pm1071_00_00_body_c_mesh_Mesh_Body_03": "88966942363981",
+    "pm1071_00_00_body_e_mesh_Mesh_Body_01": "92661396899129",
+    "pm1071_00_00_eye_mesh_Mesh_Emissives_01": "121037596625918",
+    "pm1071_00_00_eye_mesh_Mesh_Emissives_02": "131753420846019",
+    "pm1071_00_00_left_body_d_mesh_Mesh_Body_01": "92661396899129",
+    "pm1071_00_00_right_body_d_mesh_Mesh_Body_01": "92661396899129"
   },
   "Offset": {
     "ReleaseDown": {
@@ -25,13 +25,13 @@
     }
   },
   "Shiny": {
-    "pm1071_00_00_body_a_mesh_Mesh_Body_01": "82833679526986",
-    "pm1071_00_00_body_b_mesh_Mesh_Body_02": "82109892914935",
-    "pm1071_00_00_body_c_mesh_Mesh_Body_03": "102211514590817",
-    "pm1071_00_00_body_e_mesh_Mesh_Body_01": "82833679526986",
-    "pm1071_00_00_eye_mesh_Mesh_Emissives_01": "72675192338723",
-    "pm1071_00_00_eye_mesh_Mesh_Emissives_02": "72675192338723",
-    "pm1071_00_00_left_body_d_mesh_Mesh_Body_01": "82833679526986",
-    "pm1071_00_00_right_body_d_mesh_Mesh_Body_01": "82833679526986"
+    "pm1071_00_00_body_a_mesh_Mesh_Body_01": "140652331743126",
+    "pm1071_00_00_body_b_mesh_Mesh_Body_02": "83043731707361",
+    "pm1071_00_00_body_c_mesh_Mesh_Body_03": "135900558259032",
+    "pm1071_00_00_body_e_mesh_Mesh_Body_01": "140652331743126",
+    "pm1071_00_00_eye_mesh_Mesh_Emissives_01": "131686780156747",
+    "pm1071_00_00_eye_mesh_Mesh_Emissives_02": "89701186663481",
+    "pm1071_00_00_left_body_d_mesh_Mesh_Body_01": "140652331743126",
+    "pm1071_00_00_right_body_d_mesh_Mesh_Body_01": "140652331743126"
   }
 }
