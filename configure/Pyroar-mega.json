@@ -1,16 +1,16 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0705_51_00_body_a_mesh_Mesh_Body_01": "136933660356550",
-    "pm0705_51_00_body_a_mesh_Mesh_Body_02": "119667874276486",
-    "pm0705_51_00_body_b_mesh_Mesh_Body_01": "136933660356550",
-    "pm0705_51_00_body_c_mesh_Mesh_Emissives_01": "115087424240314",
-    "pm0705_51_00_eye_mesh_Mesh_Eyes_01": "92994965543138",
-    "pm0705_51_00_eye_mesh_Mesh_Eyes_02": "101771915331015",
-    "pm0705_51_00_left_nail_a_mesh_Mesh_Body_03": "77568000881834",
-    "pm0705_51_00_left_nail_b_mesh_Mesh_Body_03": "77568000881834",
-    "pm0705_51_00_right_nail_a_mesh_Mesh_Body_03": "77568000881834",
-    "pm0705_51_00_right_nail_b_mesh_Mesh_Body_03": "77568000881834"
+    "pm0705_51_00_body_a_mesh_Mesh_Body_01": "112147154624177",
+    "pm0705_51_00_body_a_mesh_Mesh_Body_02": "140181714670832",
+    "pm0705_51_00_body_b_mesh_Mesh_Body_01": "112147154624177",
+    "pm0705_51_00_body_c_mesh_Mesh_Emissives_01": "130492221811302",
+    "pm0705_51_00_eye_mesh_Mesh_Eyes_01": "79255482786367",
+    "pm0705_51_00_eye_mesh_Mesh_Eyes_02": "73219915243977",
+    "pm0705_51_00_left_nail_a_mesh_Mesh_Body_03": "72496114995246",
+    "pm0705_51_00_left_nail_b_mesh_Mesh_Body_03": "72496114995246",
+    "pm0705_51_00_right_nail_a_mesh_Mesh_Body_03": "72496114995246",
+    "pm0705_51_00_right_nail_b_mesh_Mesh_Body_03": "72496114995246"
   },
   "Offset": {
     "ReleaseDown": {
@@ -27,15 +27,15 @@
     }
   },
   "Shiny": {
-    "pm0705_51_00_body_a_mesh_Mesh_Body_01": "105900113640200",
-    "pm0705_51_00_body_a_mesh_Mesh_Body_02": "124741308087275",
-    "pm0705_51_00_body_b_mesh_Mesh_Body_01": "105900113640200",
-    "pm0705_51_00_body_c_mesh_Mesh_Emissives_01": "79411674852760",
-    "pm0705_51_00_eye_mesh_Mesh_Eyes_01": "82934629753495",
-    "pm0705_51_00_eye_mesh_Mesh_Eyes_02": "139687869232768",
-    "pm0705_51_00_left_nail_a_mesh_Mesh_Body_03": "97827033121545",
-    "pm0705_51_00_left_nail_b_mesh_Mesh_Body_03": "97827033121545",
-    "pm0705_51_00_right_nail_a_mesh_Mesh_Body_03": "97827033121545",
-    "pm0705_51_00_right_nail_b_mesh_Mesh_Body_03": "97827033121545"
+    "pm0705_51_00_body_a_mesh_Mesh_Body_01": "95319105313273",
+    "pm0705_51_00_body_a_mesh_Mesh_Body_02": "124785181812871",
+    "pm0705_51_00_body_b_mesh_Mesh_Body_01": "95319105313273",
+    "pm0705_51_00_body_c_mesh_Mesh_Emissives_01": "110397439834580",
+    "pm0705_51_00_eye_mesh_Mesh_Eyes_01": "81975630466854",
+    "pm0705_51_00_eye_mesh_Mesh_Eyes_02": "88406170263790",
+    "pm0705_51_00_left_nail_a_mesh_Mesh_Body_03": "134117572969119",
+    "pm0705_51_00_left_nail_b_mesh_Mesh_Body_03": "134117572969119",
+    "pm0705_51_00_right_nail_a_mesh_Mesh_Body_03": "134117572969119",
+    "pm0705_51_00_right_nail_b_mesh_Mesh_Body_03": "134117572969119"
   }
 }
