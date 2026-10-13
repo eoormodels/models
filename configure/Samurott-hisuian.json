@@ -1,17 +1,17 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0503_00_41_body_a_mesh_Mesh_Body_01": "132195659344844",
-    "pm0503_00_41_body_a_mesh_Mesh_Body_02": "136342864730743",
-    "pm0503_00_41_body_a_mesh_Mesh_Body_03": "89423714659345",
-    "pm0503_00_41_body_b_mesh_Mesh_Body_03": "89423714659345",
-    "pm0503_00_41_body_c_mesh_Mesh_Body_03": "89423714659345",
-    "pm0503_00_41_eye_mesh_Mesh_Eyes_01": "122541968028089",
-    "pm0503_00_41_eye_mesh_Mesh_Eyes_02": "94602761109566",
-    "pm0503_00_41_left_sword_mesh_Mesh_Body_03": "89423714659345",
-    "pm0503_00_41_right_sword_mesh_Mesh_Body_03": "89423714659345",
-    "pm0503_00_41_sword_a_mesh_Mesh_Body_03": "89423714659345",
-    "pm0503_00_41_sword_b_mesh_Mesh_Body_03": "89423714659345"
+    "pm0503_00_41_body_a_mesh_Mesh_Body_01": "92926764170182",
+    "pm0503_00_41_body_a_mesh_Mesh_Body_02": "125856209195662",
+    "pm0503_00_41_body_a_mesh_Mesh_Body_03": "110846774652189",
+    "pm0503_00_41_body_b_mesh_Mesh_Body_03": "110846774652189",
+    "pm0503_00_41_body_c_mesh_Mesh_Body_03": "110846774652189",
+    "pm0503_00_41_eye_mesh_Mesh_Eyes_01": "74896178941640",
+    "pm0503_00_41_eye_mesh_Mesh_Eyes_02": "90411939085468",
+    "pm0503_00_41_left_sword_mesh_Mesh_Body_03": "110846774652189",
+    "pm0503_00_41_right_sword_mesh_Mesh_Body_03": "110846774652189",
+    "pm0503_00_41_sword_a_mesh_Mesh_Body_03": "110846774652189",
+    "pm0503_00_41_sword_b_mesh_Mesh_Body_03": "110846774652189"
   },
   "Offset": {
     "ReleaseDown": {
@@ -28,16 +28,16 @@
     }
   },
   "Shiny": {
-    "pm0503_00_41_body_a_mesh_Mesh_Body_01": "80912602494744",
-    "pm0503_00_41_body_a_mesh_Mesh_Body_02": "70939259622639",
-    "pm0503_00_41_body_a_mesh_Mesh_Body_03": "71762020079273",
-    "pm0503_00_41_body_b_mesh_Mesh_Body_03": "71762020079273",
-    "pm0503_00_41_body_c_mesh_Mesh_Body_03": "71762020079273",
-    "pm0503_00_41_eye_mesh_Mesh_Eyes_01": "98608519049247",
-    "pm0503_00_41_eye_mesh_Mesh_Eyes_02": "96585661990534",
-    "pm0503_00_41_left_sword_mesh_Mesh_Body_03": "71762020079273",
-    "pm0503_00_41_right_sword_mesh_Mesh_Body_03": "71762020079273",
-    "pm0503_00_41_sword_a_mesh_Mesh_Body_03": "71762020079273",
-    "pm0503_00_41_sword_b_mesh_Mesh_Body_03": "71762020079273"
+    "pm0503_00_41_body_a_mesh_Mesh_Body_01": "89395270428893",
+    "pm0503_00_41_body_a_mesh_Mesh_Body_02": "70995069395044",
+    "pm0503_00_41_body_a_mesh_Mesh_Body_03": "100223674805748",
+    "pm0503_00_41_body_b_mesh_Mesh_Body_03": "100223674805748",
+    "pm0503_00_41_body_c_mesh_Mesh_Body_03": "100223674805748",
+    "pm0503_00_41_eye_mesh_Mesh_Eyes_01": "81025393179545",
+    "pm0503_00_41_eye_mesh_Mesh_Eyes_02": "133891187103716",
+    "pm0503_00_41_left_sword_mesh_Mesh_Body_03": "100223674805748",
+    "pm0503_00_41_right_sword_mesh_Mesh_Body_03": "100223674805748",
+    "pm0503_00_41_sword_a_mesh_Mesh_Body_03": "100223674805748",
+    "pm0503_00_41_sword_b_mesh_Mesh_Body_03": "100223674805748"
   }
 }
