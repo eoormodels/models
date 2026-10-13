@@ -1,16 +1,16 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0500_51_00_body_mesh_Mesh_Body_01": "117936697506127",
-    "pm0500_51_00_body_mesh_Mesh_Body_02": "101773479462128",
-    "pm0500_51_00_eye_mesh_Mesh_Eyes_01": "92013755921342",
-    "pm0500_51_00_eye_mesh_Mesh_Eyes_02": "126995064047065",
-    "pm0500_51_00_fire_mesh_Mesh_Emissives_01": "88817063584236",
-    "pm0500_51_00_fire_mesh_Mesh_Emissives_02": "131017756312337",
-    "pm0500_51_00_head_mesh_Mesh_Body_02": "101773479462128",
-    "pm0500_51_00_hips_mesh_Mesh_Body_03": "90939056431718",
-    "pm0500_51_00_leg_mesh_Mesh_Body_02": "101773479462128",
-    "pm0500_51_00_weapon_mesh_Mesh_Body_04": "110789535513838"
+    "pm0500_51_00_body_mesh_Mesh_Body_01": "120524605042901",
+    "pm0500_51_00_body_mesh_Mesh_Body_02": "104524916320971",
+    "pm0500_51_00_eye_mesh_Mesh_Eyes_01": "93225444946545",
+    "pm0500_51_00_eye_mesh_Mesh_Eyes_02": "95638082971094",
+    "pm0500_51_00_fire_mesh_Mesh_Emissives_01": "98383565650081",
+    "pm0500_51_00_fire_mesh_Mesh_Emissives_02": "82374055475075",
+    "pm0500_51_00_head_mesh_Mesh_Body_02": "104524916320971",
+    "pm0500_51_00_hips_mesh_Mesh_Body_03": "86270737092474",
+    "pm0500_51_00_leg_mesh_Mesh_Body_02": "104524916320971",
+    "pm0500_51_00_weapon_mesh_Mesh_Body_04": "78620012913370"
   },
   "Offset": {
     "ReleaseDown": {
@@ -27,15 +27,15 @@
     }
   },
   "Shiny": {
-    "pm0500_51_00_body_mesh_Mesh_Body_01": "138613142386635",
-    "pm0500_51_00_body_mesh_Mesh_Body_02": "76509403954173",
-    "pm0500_51_00_eye_mesh_Mesh_Eyes_01": "70629257138192",
-    "pm0500_51_00_eye_mesh_Mesh_Eyes_02": "119636168014072",
-    "pm0500_51_00_fire_mesh_Mesh_Emissives_01": "130452327081944",
-    "pm0500_51_00_fire_mesh_Mesh_Emissives_02": "99414720725192",
-    "pm0500_51_00_head_mesh_Mesh_Body_02": "76509403954173",
-    "pm0500_51_00_hips_mesh_Mesh_Body_03": "91566878400092",
-    "pm0500_51_00_leg_mesh_Mesh_Body_02": "76509403954173",
-    "pm0500_51_00_weapon_mesh_Mesh_Body_04": "92179668902220"
+    "pm0500_51_00_body_mesh_Mesh_Body_01": "138863850050688",
+    "pm0500_51_00_body_mesh_Mesh_Body_02": "118147003581248",
+    "pm0500_51_00_eye_mesh_Mesh_Eyes_01": "115610985461443",
+    "pm0500_51_00_eye_mesh_Mesh_Eyes_02": "136065196528532",
+    "pm0500_51_00_fire_mesh_Mesh_Emissives_01": "127976034212427",
+    "pm0500_51_00_fire_mesh_Mesh_Emissives_02": "123551042993665",
+    "pm0500_51_00_head_mesh_Mesh_Body_02": "118147003581248",
+    "pm0500_51_00_hips_mesh_Mesh_Body_03": "113308919167167",
+    "pm0500_51_00_leg_mesh_Mesh_Body_02": "118147003581248",
+    "pm0500_51_00_weapon_mesh_Mesh_Body_04": "135344188785606"
   }
 }
