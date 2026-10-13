@@ -1,17 +1,16 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyASpc00_OptMesh_0_0": "111408267826289",
-    "BodyASpc01_OptMesh_5_0": "111408267826289",
-    "BodyASpc02_OptMesh_7_0": "111408267826289",
-    "BodyBRedibaVco00_OptMesh_4_0": "89722291473321",
-    "BodyBRedibaVco01_OptMesh_6_0": "77748526017965",
-    "BodyBRedibaVco02_OptMesh_9_0": "115758268948193",
-    "BodyBRedibaVco03_OptMesh_10_0": "135340832600064",
-    "BodyBSpcVco_OptMesh_8_0": "101119365106242",
-    "BodyBSpc_OptMesh_1_0": "101119365106242",
-    "Eye_OptMesh_2_0": "136276074778933",
-    "Mouth_OptMesh_3_0": "124736691383161"
+    "pm0212_51_00_body_mesh_Mesh_Body_01": "74591645928902",
+    "pm0212_51_00_body_mesh_Mesh_Body_02": "131483704751322",
+    "pm0212_51_00_body_mesh_Mesh_Body_03": "74371753044454",
+    "pm0212_51_00_body_mesh_Mesh_Body_04": "137289127167269",
+    "pm0212_51_00_eye_mesh_Mesh_Eyes_01": "79549872038888",
+    "pm0212_51_00_eye_mesh_Mesh_Eyes_02": "116046046754146",
+    "pm0212_51_00_wing_a_mesh_Mesh_Body_05": "87905568795934",
+    "pm0212_51_00_wing_b_mesh_Mesh_Body_05": "87905568795934",
+    "pm0212_51_00_wing_c_mesh_Mesh_Body_05": "87905568795934",
+    "pm0212_51_00_wing_d_mesh_Mesh_Body_05": "87905568795934"
   },
   "Offset": {
     "ReleaseDown": {
@@ -28,16 +27,15 @@
     }
   },
   "Shiny": {
-    "BodyASpc00_OptMesh_0_0": "94600969630823",
-    "BodyASpc01_OptMesh_5_0": "94600969630823",
-    "BodyASpc02_OptMesh_7_0": "94600969630823",
-    "BodyBRedibaVco00_OptMesh_4_0": "83241926108328",
-    "BodyBRedibaVco01_OptMesh_6_0": "105304479504660",
-    "BodyBRedibaVco02_OptMesh_9_0": "117269531399338",
-    "BodyBRedibaVco03_OptMesh_10_0": "85705715575963",
-    "BodyBSpcVco_OptMesh_8_0": "130843154884003",
-    "BodyBSpc_OptMesh_1_0": "130843154884003",
-    "Eye_OptMesh_2_0": "98135481132995",
-    "Mouth_OptMesh_3_0": "112174994090421"
+    "pm0212_51_00_body_mesh_Mesh_Body_01": "113579329679491",
+    "pm0212_51_00_body_mesh_Mesh_Body_02": "78757898700858",
+    "pm0212_51_00_body_mesh_Mesh_Body_03": "135178943851668",
+    "pm0212_51_00_body_mesh_Mesh_Body_04": "105789776069177",
+    "pm0212_51_00_eye_mesh_Mesh_Eyes_01": "94311849091681",
+    "pm0212_51_00_eye_mesh_Mesh_Eyes_02": "107803546759014",
+    "pm0212_51_00_wing_a_mesh_Mesh_Body_05": "93924544749555",
+    "pm0212_51_00_wing_b_mesh_Mesh_Body_05": "93924544749555",
+    "pm0212_51_00_wing_c_mesh_Mesh_Body_05": "93924544749555",
+    "pm0212_51_00_wing_d_mesh_Mesh_Body_05": "93924544749555"
   }
 }
