@@ -1,12 +1,16 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyA00_OptMesh_5_0": "127488176537315",
-    "BodyB_OptMesh_6_0": "117927364417152",
-    "BodyB_OptMesh_7_0": "117927364417152",
-    "Eye_OptMesh_4_0": "127648578114942",
-    "Mouth_OptMesh_8_0": "87355533264760",
-    "pm0731_00_DroopEarSkin_1_0": "127488176537315"
+    "pm0731_00_00_body_mesh_Mesh_Body_01": "123585951834861",
+    "pm0731_00_00_body_mesh_Mesh_Body_02": "123585951834861",
+    "pm0731_00_00_body_mesh_Mesh_Body_03": "75814489449082",
+    "pm0731_00_00_closeear_mesh_Mesh_Body_04": "128821998261977",
+    "pm0731_00_00_droopear_mesh_Mesh_Body_04": "128821998261977",
+    "pm0731_00_00_eye_a_mesh_Mesh_Eyes_01": "104615155516837",
+    "pm0731_00_00_eye_a_mesh_Mesh_Eyes_02": "87213543862713",
+    "pm0731_00_00_eye_b_mesh_Mesh_Eyes_03": "132685742246403",
+    "pm0731_00_00_eye_b_mesh_Mesh_Eyes_04": "114832679709222",
+    "pm0731_00_00_openear_mesh_Mesh_Body_04": "128821998261977"
   },
   "Offset": {
     "ReleaseDown": {
@@ -23,14 +27,15 @@
     }
   },
   "Shiny": {
-    "BodyA00_OptMesh_5_0": "82358102096921",
-    "BodyB_OptMesh_6_0": "110767555793050",
-    "BodyB_OptMesh_7_0": "110767555793050",
-    "Eye_OptMesh_4_0": "85126576677477",
-    "Mouth_OptMesh_8_0": "135494164922551",
-    "pm0731_00_CloseEarSkin_0_0": "82358102096921",
-    "pm0731_00_DroopEarSkin_1_0": "82358102096921",
-    "pm0731_00_OpenEarSkin_2_0": "82358102096921",
-    "pm0731_00_OpenEarSkin_3_0": "82358102096921"
+    "pm0731_00_00_body_mesh_Mesh_Body_01": "121809816079754",
+    "pm0731_00_00_body_mesh_Mesh_Body_02": "121809816079754",
+    "pm0731_00_00_body_mesh_Mesh_Body_03": "79825282412265",
+    "pm0731_00_00_closeear_mesh_Mesh_Body_04": "124036724156412",
+    "pm0731_00_00_droopear_mesh_Mesh_Body_04": "124036724156412",
+    "pm0731_00_00_eye_a_mesh_Mesh_Eyes_01": "136822992058452",
+    "pm0731_00_00_eye_a_mesh_Mesh_Eyes_02": "100827914464904",
+    "pm0731_00_00_eye_b_mesh_Mesh_Eyes_03": "128572971146307",
+    "pm0731_00_00_eye_b_mesh_Mesh_Eyes_04": "94030542121174",
+    "pm0731_00_00_openear_mesh_Mesh_Body_04": "124036724156412"
   }
 }
