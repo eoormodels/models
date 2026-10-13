@@ -1,21 +1,21 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm1043_51_00_body_a_mesh_Mesh_Body_01": "124525382039076",
-    "pm1043_51_00_body_b_mesh_Mesh_Body_01": "124525382039076",
-    "pm1043_51_00_body_c_mesh_Mesh_Body_02": "125577655904830",
-    "pm1043_51_00_body_c_mesh_Mesh_Emissives_01": "82200373172148",
-    "pm1043_51_00_eye_a_mesh_Mesh_Eyes_01": "116019050819868",
-    "pm1043_51_00_eye_a_mesh_Mesh_Eyes_02": "121915912075333",
-    "pm1043_51_00_eye_b_mesh_Mesh_Eyes_03": "92909595582462",
-    "pm1043_51_00_eye_b_mesh_Mesh_Eyes_04": "110661718334255",
-    "pm1043_51_00_head_a_mesh_Mesh_Body_02": "125577655904830",
-    "pm1043_51_00_head_b_mesh_Mesh_Body_02": "125577655904830",
-    "pm1043_51_00_neck_mesh_Mesh_Body_01": "124525382039076",
-    "pm1043_51_00_seed_a_mesh_Mesh_Emissives_01": "82200373172148",
-    "pm1043_51_00_seed_b_mesh_Mesh_Emissives_01": "82200373172148",
-    "pm1043_51_00_teeth_a_mesh_Mesh_Emissives_01": "82200373172148",
-    "pm1043_51_00_teeth_b_mesh_Mesh_Emissives_01": "82200373172148"
+    "pm1043_51_00_body_a_mesh_Mesh_Body_01": "90582105653665",
+    "pm1043_51_00_body_b_mesh_Mesh_Body_01": "90582105653665",
+    "pm1043_51_00_body_c_mesh_Mesh_Body_02": "132798653067642",
+    "pm1043_51_00_body_c_mesh_Mesh_Emissives_01": "78720687130912",
+    "pm1043_51_00_eye_a_mesh_Mesh_Eyes_01": "99567529011710",
+    "pm1043_51_00_eye_a_mesh_Mesh_Eyes_02": "82492402770029",
+    "pm1043_51_00_eye_b_mesh_Mesh_Eyes_03": "74957433917183",
+    "pm1043_51_00_eye_b_mesh_Mesh_Eyes_04": "74141229116525",
+    "pm1043_51_00_head_a_mesh_Mesh_Body_02": "132798653067642",
+    "pm1043_51_00_head_b_mesh_Mesh_Body_02": "132798653067642",
+    "pm1043_51_00_neck_mesh_Mesh_Body_01": "90582105653665",
+    "pm1043_51_00_seed_a_mesh_Mesh_Emissives_01": "78720687130912",
+    "pm1043_51_00_seed_b_mesh_Mesh_Emissives_01": "78720687130912",
+    "pm1043_51_00_teeth_a_mesh_Mesh_Emissives_01": "78720687130912",
+    "pm1043_51_00_teeth_b_mesh_Mesh_Emissives_01": "78720687130912"
   },
   "Offset": {
     "ReleaseDown": {
@@ -32,20 +32,20 @@
     }
   },
   "Shiny": {
-    "pm1043_51_00_body_a_mesh_Mesh_Body_01": "126401406016009",
-    "pm1043_51_00_body_b_mesh_Mesh_Body_01": "126401406016009",
-    "pm1043_51_00_body_c_mesh_Mesh_Body_02": "73700613829746",
-    "pm1043_51_00_body_c_mesh_Mesh_Emissives_01": "116294457351838",
-    "pm1043_51_00_eye_a_mesh_Mesh_Eyes_01": "82483715181797",
-    "pm1043_51_00_eye_a_mesh_Mesh_Eyes_02": "71399198928876",
-    "pm1043_51_00_eye_b_mesh_Mesh_Eyes_03": "139288848777242",
-    "pm1043_51_00_eye_b_mesh_Mesh_Eyes_04": "114407421565552",
-    "pm1043_51_00_head_a_mesh_Mesh_Body_02": "73700613829746",
-    "pm1043_51_00_head_b_mesh_Mesh_Body_02": "73700613829746",
-    "pm1043_51_00_neck_mesh_Mesh_Body_01": "126401406016009",
-    "pm1043_51_00_seed_a_mesh_Mesh_Emissives_01": "116294457351838",
-    "pm1043_51_00_seed_b_mesh_Mesh_Emissives_01": "116294457351838",
-    "pm1043_51_00_teeth_a_mesh_Mesh_Emissives_01": "116294457351838",
-    "pm1043_51_00_teeth_b_mesh_Mesh_Emissives_01": "116294457351838"
+    "pm1043_51_00_body_a_mesh_Mesh_Body_01": "84730080237465",
+    "pm1043_51_00_body_b_mesh_Mesh_Body_01": "84730080237465",
+    "pm1043_51_00_body_c_mesh_Mesh_Body_02": "105017449787880",
+    "pm1043_51_00_body_c_mesh_Mesh_Emissives_01": "81559572519613",
+    "pm1043_51_00_eye_a_mesh_Mesh_Eyes_01": "98712922118904",
+    "pm1043_51_00_eye_a_mesh_Mesh_Eyes_02": "128318285191389",
+    "pm1043_51_00_eye_b_mesh_Mesh_Eyes_03": "125270236192036",
+    "pm1043_51_00_eye_b_mesh_Mesh_Eyes_04": "136978359480540",
+    "pm1043_51_00_head_a_mesh_Mesh_Body_02": "105017449787880",
+    "pm1043_51_00_head_b_mesh_Mesh_Body_02": "105017449787880",
+    "pm1043_51_00_neck_mesh_Mesh_Body_01": "84730080237465",
+    "pm1043_51_00_seed_a_mesh_Mesh_Emissives_01": "81559572519613",
+    "pm1043_51_00_seed_b_mesh_Mesh_Emissives_01": "81559572519613",
+    "pm1043_51_00_teeth_a_mesh_Mesh_Emissives_01": "81559572519613",
+    "pm1043_51_00_teeth_b_mesh_Mesh_Emissives_01": "81559572519613"
   }
 }
