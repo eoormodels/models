@@ -1,11 +1,17 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0618_00_31_BodySkin_Mesh": "130896375937057",
-    "pm0618_00_31_BodySkin_Mesh_Eyes": "129775631728037",
-    "pm0618_00_31_LipsSkin_Mesh": "130896375937057",
-    "pm0618_00_31_LowerTeethSkin_Mesh": "130896375937057",
-    "pm0618_00_31_UpperTeethSkin_Mesh": "130896375937057"
+    "pm0618_00_31_body_mesh_Mesh_Body_01": "76749249957497",
+    "pm0618_00_31_body_mesh_Mesh_Body_02": "109276574339758",
+    "pm0618_00_31_body_mesh_Mesh_Body_03": "99944431306365",
+    "pm0618_00_31_eye_mesh_Mesh_Eyes_01": "85596773656177",
+    "pm0618_00_31_eye_mesh_Mesh_Eyes_02": "95172751281200",
+    "pm0618_00_31_lips_mesh_Mesh_Body_01": "76749249957497",
+    "pm0618_00_31_lips_mesh_Mesh_Body_04": "76400077737866",
+    "pm0618_00_31_lowereyelid_mesh_Mesh_Body_01": "76749249957497",
+    "pm0618_00_31_lowerteeth_mesh_Mesh_Body_04": "76400077737866",
+    "pm0618_00_31_uppereyelid_mesh_Mesh_Body_01": "76749249957497",
+    "pm0618_00_31_upperteeth_mesh_Mesh_Body_04": "76400077737866"
   },
   "Offset": {
     "ReleaseDown": {
@@ -22,10 +28,16 @@
     }
   },
   "Shiny": {
-    "pm0618_00_31_BodySkin_Mesh": "91120678708124",
-    "pm0618_00_31_BodySkin_Mesh_Eyes": "82093396989365",
-    "pm0618_00_31_LipsSkin_Mesh": "91120678708124",
-    "pm0618_00_31_LowerTeethSkin_Mesh": "91120678708124",
-    "pm0618_00_31_UpperTeethSkin_Mesh": "91120678708124"
+    "pm0618_00_31_body_mesh_Mesh_Body_01": "95175021533594",
+    "pm0618_00_31_body_mesh_Mesh_Body_02": "82564206594657",
+    "pm0618_00_31_body_mesh_Mesh_Body_03": "139964401133965",
+    "pm0618_00_31_eye_mesh_Mesh_Eyes_01": "101715080754703",
+    "pm0618_00_31_eye_mesh_Mesh_Eyes_02": "83691599999588",
+    "pm0618_00_31_lips_mesh_Mesh_Body_01": "95175021533594",
+    "pm0618_00_31_lips_mesh_Mesh_Body_04": "125449686017169",
+    "pm0618_00_31_lowereyelid_mesh_Mesh_Body_01": "95175021533594",
+    "pm0618_00_31_lowerteeth_mesh_Mesh_Body_04": "125449686017169",
+    "pm0618_00_31_uppereyelid_mesh_Mesh_Body_01": "95175021533594",
+    "pm0618_00_31_upperteeth_mesh_Mesh_Body_04": "125449686017169"
   }
 }
