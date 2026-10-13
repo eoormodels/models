@@ -1,12 +1,17 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyA00_OptMesh_5_0": "100779151146693",
-    "BodyA00_OptMesh_6_0": "100779151146693",
-    "BodyA01_OptMesh_7_0": "100779151146693",
-    "Eye_OptMesh_4_0": "94547892903728",
-    "pm0754_00_CloseBeakSkin_1_0": "100779151146693",
-    "pm0754_00_WingSkin_2_0": "122109284246956"
+    "pm0754_00_00_beak_mesh_Mesh_Body_01": "119212403518997",
+    "pm0754_00_00_body_mesh_Mesh_Body_01": "119212403518997",
+    "pm0754_00_00_body_mesh_Mesh_Body_02": "133840344955191",
+    "pm0754_00_00_body_mesh_Mesh_Body_03": "100323462092190",
+    "pm0754_00_00_closebeak_mesh_Mesh_Body_01": "119212403518997",
+    "pm0754_00_00_closewing_mesh_Mesh_Body_04": "84327977247730",
+    "pm0754_00_00_eye_mesh_Mesh_Eyes_01": "94338101883979",
+    "pm0754_00_00_eye_mesh_Mesh_Eyes_02": "126566068726039",
+    "pm0754_00_00_lower_eyelid_mesh_Mesh_Body_02": "133840344955191",
+    "pm0754_00_00_upper_eyelid_mesh_Mesh_Body_02": "133840344955191",
+    "pm0754_00_00_wing_mesh_Mesh_Body_04": "84327977247730"
   },
   "Offset": {
     "ReleaseDown": {
@@ -23,13 +28,16 @@
     }
   },
   "Shiny": {
-    "BodyA00_OptMesh_5_0": "82480745401591",
-    "BodyA00_OptMesh_6_0": "82480745401591",
-    "BodyA01_OptMesh_7_0": "82480745401591",
-    "Eye_OptMesh_4_0": "139021480055300",
-    "pm0754_00_BeakSkin_0_0": "82480745401591",
-    "pm0754_00_CloseBeakSkin_1_0": "82480745401591",
-    "pm0754_00_CloseWingSkin_3_0": "71626804340903",
-    "pm0754_00_WingSkin_2_0": "71626804340903"
+    "pm0754_00_00_beak_mesh_Mesh_Body_01": "78518971511880",
+    "pm0754_00_00_body_mesh_Mesh_Body_01": "78518971511880",
+    "pm0754_00_00_body_mesh_Mesh_Body_02": "116276673814345",
+    "pm0754_00_00_body_mesh_Mesh_Body_03": "120851597209549",
+    "pm0754_00_00_closebeak_mesh_Mesh_Body_01": "78518971511880",
+    "pm0754_00_00_closewing_mesh_Mesh_Body_04": "73270734326321",
+    "pm0754_00_00_eye_mesh_Mesh_Eyes_01": "127088620469317",
+    "pm0754_00_00_eye_mesh_Mesh_Eyes_02": "75621078815157",
+    "pm0754_00_00_lower_eyelid_mesh_Mesh_Body_02": "116276673814345",
+    "pm0754_00_00_upper_eyelid_mesh_Mesh_Body_02": "116276673814345",
+    "pm0754_00_00_wing_mesh_Mesh_Body_04": "73270734326321"
   }
 }
