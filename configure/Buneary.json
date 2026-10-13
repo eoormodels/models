@@ -1,15 +1,14 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyA00_OptMesh_4_0": "75649048607040",
-    "BodyA01_OptMesh_7_0": "75649048607040",
-    "BodyBBuffronVCo_OptMesh_9_0": "130161838041333",
-    "BodyBBuffron_OptMesh_8_0": "130161838041333",
-    "Eye_OptMesh_5_0": "124326253370099",
-    "Mouth_OptMesh_6_0": "119095907234784",
-    "pm0427_00_LRollEarSkin_3_0": "75649048607040",
-    "pm0427_00_LStraightEarSkin_2_0": "75649048607040",
-    "pm0427_00_RStraightEarSkin_0_0": "75649048607040"
+    "pm0427_00_00_body_mesh_Mesh_Body_01": "91951139175819",
+    "pm0427_00_00_body_mesh_Mesh_Body_02": "109078288958595",
+    "pm0427_00_00_eye_mesh_Mesh_Eyes_01": "117134196155662",
+    "pm0427_00_00_eye_mesh_Mesh_Eyes_02": "117134196155662",
+    "pm0427_00_00_left_rollear_mesh_Mesh_Body_01": "91951139175819",
+    "pm0427_00_00_left_straightear_mesh_Mesh_Body_02": "109078288958595",
+    "pm0427_00_00_right_rollear_mesh_Mesh_Body_01": "91951139175819",
+    "pm0427_00_00_right_straightear_mesh_Mesh_Body_02": "109078288958595"
   },
   "Offset": {
     "ReleaseDown": {
@@ -26,15 +25,13 @@
     }
   },
   "Shiny": {
-    "BodyA00_OptMesh_4_0": "114599650027424",
-    "BodyA01_OptMesh_7_0": "114599650027424",
-    "BodyBBuffronVCo_OptMesh_9_0": "102146515593464",
-    "BodyBBuffron_OptMesh_8_0": "102146515593464",
-    "Eye_OptMesh_5_0": "92734661445342",
-    "Mouth_OptMesh_6_0": "93289025839087",
-    "pm0427_00_LRollEarSkin_3_0": "114599650027424",
-    "pm0427_00_LStraightEarSkin_2_0": "114599650027424",
-    "pm0427_00_RRollEarSkin_1_0": "114599650027424",
-    "pm0427_00_RStraightEarSkin_0_0": "114599650027424"
+    "pm0427_00_00_body_mesh_Mesh_Body_01": "118842466301233",
+    "pm0427_00_00_body_mesh_Mesh_Body_02": "118869391897878",
+    "pm0427_00_00_eye_mesh_Mesh_Eyes_01": "134823341019500",
+    "pm0427_00_00_eye_mesh_Mesh_Eyes_02": "76228927222048",
+    "pm0427_00_00_left_rollear_mesh_Mesh_Body_01": "118842466301233",
+    "pm0427_00_00_left_straightear_mesh_Mesh_Body_02": "118869391897878",
+    "pm0427_00_00_right_rollear_mesh_Mesh_Body_01": "118842466301233",
+    "pm0427_00_00_right_straightear_mesh_Mesh_Body_02": "118869391897878"
   }
 }
