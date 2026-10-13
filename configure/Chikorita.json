@@ -1,15 +1,16 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "Body00_OptMesh_7_0": "127242218957307",
-    "Body01_OptMesh_9_0": "127242218957307",
-    "BodyKurumiruVco_OptMesh_10_0": "127242218957307",
-    "Eye_OptMesh_8_0": "75107404396801",
-    "LIris_OptMesh_5_0": "76430544087890",
-    "Mouth_OptMesh_6_0": "79510661435014",
-    "RIris_OptMesh_4_0": "76430544087890",
-    "pm0152_00_LFeelerSkin_2_0": "127242218957307",
-    "pm0152_00_RFeelerSkin_3_0": "127242218957307"
+    "pm0152_00_00_body_mesh_Mesh_Body_01": "107788944343623",
+    "pm0152_00_00_eye_mesh_Mesh_Eyes_01": "106995968173269",
+    "pm0152_00_00_eye_mesh_Mesh_Eyes_02": "72286812398226",
+    "pm0152_00_00_leaf_mesh_Mesh_Body_01": "107788944343623",
+    "pm0152_00_00_left_feeler_mesh_Mesh_Body_01": "107788944343623",
+    "pm0152_00_00_left_vine_mesh_Mesh_Body_01": "107788944343623",
+    "pm0152_00_00_mouth_a_mesh_Mesh_Body_01": "107788944343623",
+    "pm0152_00_00_mouth_b_mesh_Mesh_Body_01": "107788944343623",
+    "pm0152_00_00_right_feeler_mesh_Mesh_Body_01": "107788944343623",
+    "pm0152_00_00_right_vine_mesh_Mesh_Body_01": "107788944343623"
   },
   "Offset": {
     "ReleaseDown": {
@@ -26,16 +27,15 @@
     }
   },
   "Shiny": {
-    "Body00_OptMesh_7_0": "92475394107287",
-    "Body01_OptMesh_9_0": "92475394107287",
-    "BodyKurumiruVco_OptMesh_10_0": "92475394107287",
-    "Eye_OptMesh_8_0": "108252827088760",
-    "LIris_OptMesh_5_0": "95652063662437",
-    "Mouth_OptMesh_6_0": "130621065126529",
-    "RIris_OptMesh_4_0": "95652063662437",
-    "pm0152_00_LFeelerSkin_2_0": "92475394107287",
-    "pm0152_00_LVineSkin_1_0": "92475394107287",
-    "pm0152_00_RFeelerSkin_3_0": "92475394107287",
-    "pm0152_00_RVineSkin_0_0": "92475394107287"
+    "pm0152_00_00_body_mesh_Mesh_Body_01": "113903889717006",
+    "pm0152_00_00_eye_mesh_Mesh_Eyes_01": "97537132472297",
+    "pm0152_00_00_eye_mesh_Mesh_Eyes_02": "96744703750299",
+    "pm0152_00_00_leaf_mesh_Mesh_Body_01": "113903889717006",
+    "pm0152_00_00_left_feeler_mesh_Mesh_Body_01": "113903889717006",
+    "pm0152_00_00_left_vine_mesh_Mesh_Body_01": "113903889717006",
+    "pm0152_00_00_mouth_a_mesh_Mesh_Body_01": "113903889717006",
+    "pm0152_00_00_mouth_b_mesh_Mesh_Body_01": "113903889717006",
+    "pm0152_00_00_right_feeler_mesh_Mesh_Body_01": "113903889717006",
+    "pm0152_00_00_right_vine_mesh_Mesh_Body_01": "113903889717006"
   }
 }
