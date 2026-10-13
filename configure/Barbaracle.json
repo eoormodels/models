@@ -1,14 +1,17 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "AEye_OptMesh_6_0": "96036833219834",
-    "BEye_OptMesh_5_0": "96036833219834",
-    "BodyA_OptMesh_0_0": "121934022509455",
-    "BodyA_OptMesh_1_0": "121934022509455",
-    "BodyA_OptMesh_2_0": "121934022509455",
-    "BodyB_OptMesh_3_0": "120748796054666",
-    "CEye_OptMesh_7_0": "96036833219834",
-    "Mouth_OptMesh_4_0": "91222799661947"
+    "pm0748_00_00_body_mesh_Mesh_Body_01": "102187385437998",
+    "pm0748_00_00_body_mesh_Mesh_Body_02": "95887751064217",
+    "pm0748_00_00_eye_a_mesh_Mesh_Eyes_01": "127290653563710",
+    "pm0748_00_00_eye_a_mesh_Mesh_Eyes_02": "136527543651545",
+    "pm0748_00_00_eye_b_mesh_Mesh_Eyes_03": "105313520514992",
+    "pm0748_00_00_foot_mesh_Mesh_Body_03": "118677406731938",
+    "pm0748_00_00_hand_mesh_Mesh_Body_03": "118677406731938",
+    "pm0748_00_00_hand_mesh_Mesh_Eyes_04": "83226783405796",
+    "pm0748_00_00_hand_mesh_Mesh_Eyes_05": "73855775796606",
+    "pm0748_00_00_head_mesh_Mesh_Body_02": "95887751064217",
+    "pm0748_00_00_head_mesh_Mesh_Body_03": "118677406731938"
   },
   "Offset": {
     "ReleaseDown": {
@@ -25,13 +28,16 @@
     }
   },
   "Shiny": {
-    "AEye_OptMesh_6_0": "92777637512769",
-    "BEye_OptMesh_5_0": "92777637512769",
-    "BodyA_OptMesh_0_0": "82299487102610",
-    "BodyA_OptMesh_1_0": "82299487102610",
-    "BodyA_OptMesh_2_0": "82299487102610",
-    "BodyB_OptMesh_3_0": "107060785215167",
-    "CEye_OptMesh_7_0": "92777637512769",
-    "Mouth_OptMesh_4_0": "103228188810775"
+    "pm0748_00_00_body_mesh_Mesh_Body_01": "90932634567198",
+    "pm0748_00_00_body_mesh_Mesh_Body_02": "82987310465046",
+    "pm0748_00_00_eye_a_mesh_Mesh_Eyes_01": "133457923782638",
+    "pm0748_00_00_eye_a_mesh_Mesh_Eyes_02": "91727916489219",
+    "pm0748_00_00_eye_b_mesh_Mesh_Eyes_03": "109972232601828",
+    "pm0748_00_00_foot_mesh_Mesh_Body_03": "130740395480975",
+    "pm0748_00_00_hand_mesh_Mesh_Body_03": "130740395480975",
+    "pm0748_00_00_hand_mesh_Mesh_Eyes_04": "72819524342924",
+    "pm0748_00_00_hand_mesh_Mesh_Eyes_05": "93163092260534",
+    "pm0748_00_00_head_mesh_Mesh_Body_02": "82987310465046",
+    "pm0748_00_00_head_mesh_Mesh_Body_03": "130740395480975"
   }
 }
