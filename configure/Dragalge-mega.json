@@ -1,15 +1,15 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0710_51_00_body_mesh_Mesh_Body_01": "139494276873313",
-    "pm0710_51_00_eye_mesh_Mesh_Eyes_01": "110387145547917",
-    "pm0710_51_00_eye_mesh_Mesh_Eyes_02": "97763491310722",
-    "pm0710_51_00_hair_mesh_Mesh_Body_02": "75444197829532",
-    "pm0710_51_00_head_mesh_Mesh_Body_01": "139494276873313",
-    "pm0710_51_00_inner_01_mesh_Mesh_Body_03": "131077219052434",
-    "pm0710_51_00_inner_02_mesh_Mesh_Body_03": "131077219052434",
-    "pm0710_51_00_outer_01_mesh_Mesh_Body_04": "76174802027175",
-    "pm0710_51_00_outer_02_mesh_Mesh_Body_04": "76174802027175"
+    "pm0710_51_00_body_mesh_Mesh_Body_01": "124661484993542",
+    "pm0710_51_00_eye_mesh_Mesh_Eyes_01": "79460365435050",
+    "pm0710_51_00_eye_mesh_Mesh_Eyes_02": "125414970215408",
+    "pm0710_51_00_hair_mesh_Mesh_Body_02": "131142784224586",
+    "pm0710_51_00_head_mesh_Mesh_Body_01": "124661484993542",
+    "pm0710_51_00_inner_01_mesh_Mesh_Body_03": "93308978030808",
+    "pm0710_51_00_inner_02_mesh_Mesh_Body_03": "93308978030808",
+    "pm0710_51_00_outer_01_mesh_Mesh_Body_04": "126746346958628",
+    "pm0710_51_00_outer_02_mesh_Mesh_Body_04": "126746346958628"
   },
   "Offset": {
     "ReleaseDown": {
@@ -26,14 +26,14 @@
     }
   },
   "Shiny": {
-    "pm0710_51_00_body_mesh_Mesh_Body_01": "136213968736034",
-    "pm0710_51_00_eye_mesh_Mesh_Eyes_01": "128891267662779",
-    "pm0710_51_00_eye_mesh_Mesh_Eyes_02": "97910386013714",
-    "pm0710_51_00_hair_mesh_Mesh_Body_02": "91825388664759",
-    "pm0710_51_00_head_mesh_Mesh_Body_01": "136213968736034",
-    "pm0710_51_00_inner_01_mesh_Mesh_Body_03": "133862337555826",
-    "pm0710_51_00_inner_02_mesh_Mesh_Body_03": "133862337555826",
-    "pm0710_51_00_outer_01_mesh_Mesh_Body_04": "77885992661338",
-    "pm0710_51_00_outer_02_mesh_Mesh_Body_04": "77885992661338"
+    "pm0710_51_00_body_mesh_Mesh_Body_01": "88528120320296",
+    "pm0710_51_00_eye_mesh_Mesh_Eyes_01": "77448640844378",
+    "pm0710_51_00_eye_mesh_Mesh_Eyes_02": "105698720187284",
+    "pm0710_51_00_hair_mesh_Mesh_Body_02": "83403512767690",
+    "pm0710_51_00_head_mesh_Mesh_Body_01": "88528120320296",
+    "pm0710_51_00_inner_01_mesh_Mesh_Body_03": "105764859355772",
+    "pm0710_51_00_inner_02_mesh_Mesh_Body_03": "105764859355772",
+    "pm0710_51_00_outer_01_mesh_Mesh_Body_04": "116890847367250",
+    "pm0710_51_00_outer_02_mesh_Mesh_Body_04": "116890847367250"
   }
 }
