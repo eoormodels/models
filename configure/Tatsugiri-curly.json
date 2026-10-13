@@ -1,14 +1,14 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm1056_11_00_body_mesh_Mesh_Body_01": "130367140259161",
-    "pm1056_11_00_eye_mesh_Mesh_Emissives_01": "128686477207671",
-    "pm1056_11_00_eye_mesh_Mesh_Emissives_02": "113183238119133",
-    "pm1056_11_00_fin_a_mesh_Mesh_Body_02": "74135075329326",
-    "pm1056_11_00_fin_b_mesh_Mesh_Body_02": "74135075329326",
-    "pm1056_11_00_fin_c_mesh_Mesh_Body_02": "74135075329326",
-    "pm1056_11_00_rice_a_mesh_Mesh_Body_02": "74135075329326",
-    "pm1056_11_00_rice_b_mesh_Mesh_Body_02": "74135075329326"
+    "pm1056_11_00_body_mesh_Mesh_Body_01": "97546838538653",
+    "pm1056_11_00_eye_mesh_Mesh_Eyes_01": "107169297091938",
+    "pm1056_11_00_eye_mesh_Mesh_Eyes_02": "133296386343948",
+    "pm1056_11_00_fin_a_mesh_Mesh_Body_02": "131218231546769",
+    "pm1056_11_00_fin_b_mesh_Mesh_Body_02": "131218231546769",
+    "pm1056_11_00_fin_c_mesh_Mesh_Body_02": "131218231546769",
+    "pm1056_11_00_rice_a_mesh_Mesh_Body_02": "131218231546769",
+    "pm1056_11_00_rice_b_mesh_Mesh_Body_02": "131218231546769"
   },
   "Offset": {
     "ReleaseDown": {
@@ -25,13 +25,13 @@
     }
   },
   "Shiny": {
-    "pm1056_11_00_body_mesh_Mesh_Body_01": "131909993674139",
-    "pm1056_11_00_eye_mesh_Mesh_Emissives_01": "128686477207671",
-    "pm1056_11_00_eye_mesh_Mesh_Emissives_02": "124677924968159",
-    "pm1056_11_00_fin_a_mesh_Mesh_Body_02": "80667220859173",
-    "pm1056_11_00_fin_b_mesh_Mesh_Body_02": "80667220859173",
-    "pm1056_11_00_fin_c_mesh_Mesh_Body_02": "80667220859173",
-    "pm1056_11_00_rice_a_mesh_Mesh_Body_02": "80667220859173",
-    "pm1056_11_00_rice_b_mesh_Mesh_Body_02": "80667220859173"
+    "pm1056_11_00_body_mesh_Mesh_Body_01": "70550325432835",
+    "pm1056_11_00_eye_mesh_Mesh_Eyes_01": "111147781219297",
+    "pm1056_11_00_eye_mesh_Mesh_Eyes_02": "115523813205515",
+    "pm1056_11_00_fin_a_mesh_Mesh_Body_02": "116553462749149",
+    "pm1056_11_00_fin_b_mesh_Mesh_Body_02": "116553462749149",
+    "pm1056_11_00_fin_c_mesh_Mesh_Body_02": "116553462749149",
+    "pm1056_11_00_rice_a_mesh_Mesh_Body_02": "116553462749149",
+    "pm1056_11_00_rice_b_mesh_Mesh_Body_02": "116553462749149"
   }
 }
