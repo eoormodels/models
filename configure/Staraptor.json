@@ -1,15 +1,14 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyA00_OptMesh_3_0": "109456510680380",
-    "BodyA00_OptMesh_4_0": "109456510680380",
-    "BodyA00_OptMesh_5_0": "109456510680380",
-    "BodyA01_OptMesh_9_0": "109456510680380",
-    "BodyAVco_OptMesh_7_0": "109456510680380",
-    "BodyAVco_OptMesh_8_0": "109456510680380",
-    "Eye_OptMesh_6_0": "103345211775221",
-    "LIris_OptMesh_1_0": "129742054192753",
-    "RIris_OptMesh_2_0": "129742054192753"
+    "pm0398_00_00_body_a_mesh_Mesh_Body_01": "74406282876802",
+    "pm0398_00_00_body_a_mesh_Mesh_Body_02": "95706221233341",
+    "pm0398_00_00_body_a_mesh_Mesh_Body_03": "81399431976230",
+    "pm0398_00_00_body_a_mesh_Mesh_Body_04": "93804267356033",
+    "pm0398_00_00_body_b_mesh_Mesh_Body_03": "81399431976230",
+    "pm0398_00_00_body_b_mesh_Mesh_Body_04": "93804267356033",
+    "pm0398_00_00_eye_mesh_Mesh_Eyes_01": "138199854760106",
+    "pm0398_00_00_eye_mesh_Mesh_Eyes_02": "94006834630673"
   },
   "Offset": {
     "ReleaseDown": {
@@ -26,16 +25,13 @@
     }
   },
   "Shiny": {
-    "BodyA00_OptMesh_3_0": "97557986751707",
-    "BodyA00_OptMesh_4_0": "97557986751707",
-    "BodyA00_OptMesh_5_0": "97557986751707",
-    "BodyA01_OptMesh_9_0": "97557986751707",
-    "BodyAVco_OptMesh_7_0": "97557986751707",
-    "BodyAVco_OptMesh_8_0": "97557986751707",
-    "BodyB01_OptMesh_10_0": "83547151976805",
-    "Eye_OptMesh_6_0": "117021555018121",
-    "LIris_OptMesh_1_0": "110332458087860",
-    "RIris_OptMesh_2_0": "110332458087860",
-    "pm0398_00_BodyBSkin_0_0": "83547151976805"
+    "pm0398_00_00_body_a_mesh_Mesh_Body_01": "123459047625513",
+    "pm0398_00_00_body_a_mesh_Mesh_Body_02": "88375704563287",
+    "pm0398_00_00_body_a_mesh_Mesh_Body_03": "136848337102004",
+    "pm0398_00_00_body_a_mesh_Mesh_Body_04": "90003287596716",
+    "pm0398_00_00_body_b_mesh_Mesh_Body_03": "136848337102004",
+    "pm0398_00_00_body_b_mesh_Mesh_Body_04": "90003287596716",
+    "pm0398_00_00_eye_mesh_Mesh_Eyes_01": "121819907317214",
+    "pm0398_00_00_eye_mesh_Mesh_Eyes_02": "87281946665515"
   }
 }
