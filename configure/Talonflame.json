@@ -1,12 +1,16 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyA00_OptMesh_2_0": "113338481911553",
-    "BodyA00_OptMesh_3_0": "113338481911553",
-    "BodyA00_OptMesh_4_0": "113338481911553",
-    "BodyA01_OptMesh_6_0": "113338481911553",
-    "BodyB01_OptMesh_7_0": "104739616550682",
-    "Eye_OptMesh_5_0": "80119147712324"
+    "pm0755_00_00_body_mesh_Mesh_Body_01": "82383077732857",
+    "pm0755_00_00_body_mesh_Mesh_Body_02": "75345879083606",
+    "pm0755_00_00_body_mesh_Mesh_Body_03": "81168457814565",
+    "pm0755_00_00_body_mesh_Mesh_Body_04": "85225046677021",
+    "pm0755_00_00_eye_mesh_Mesh_Eyes_01": "94351150377802",
+    "pm0755_00_00_eye_mesh_Mesh_Eyes_02": "73069957830054",
+    "pm0755_00_00_lower_eyelid_mesh_Mesh_Body_03": "81168457814565",
+    "pm0755_00_00_upper_eyelid_mesh_Mesh_Body_03": "81168457814565",
+    "pm0755_00_00_wing_l_mesh_Mesh_Body_04": "85225046677021",
+    "pm0755_00_00_wing_r_mesh_Mesh_Body_04": "85225046677021"
   },
   "Offset": {
     "ReleaseDown": {
@@ -23,13 +27,15 @@
     }
   },
   "Shiny": {
-    "BodyA00_OptMesh_2_0": "101158021143916",
-    "BodyA00_OptMesh_3_0": "101158021143916",
-    "BodyA00_OptMesh_4_0": "101158021143916",
-    "BodyA01_OptMesh_6_0": "101158021143916",
-    "BodyB01_OptMesh_7_0": "109343156150527",
-    "Eye_OptMesh_5_0": "100984335811447",
-    "pm0755_00_WingLSkin_1_0": "109343156150527",
-    "pm0755_00_WingRSkin_0_0": "109343156150527"
+    "pm0755_00_00_body_mesh_Mesh_Body_01": "128558448005017",
+    "pm0755_00_00_body_mesh_Mesh_Body_02": "92180737447670",
+    "pm0755_00_00_body_mesh_Mesh_Body_03": "79234702019558",
+    "pm0755_00_00_body_mesh_Mesh_Body_04": "74281558374551",
+    "pm0755_00_00_eye_mesh_Mesh_Eyes_01": "120876257976573",
+    "pm0755_00_00_eye_mesh_Mesh_Eyes_02": "127288484418782",
+    "pm0755_00_00_lower_eyelid_mesh_Mesh_Body_03": "79234702019558",
+    "pm0755_00_00_upper_eyelid_mesh_Mesh_Body_03": "79234702019558",
+    "pm0755_00_00_wing_l_mesh_Mesh_Body_04": "74281558374551",
+    "pm0755_00_00_wing_r_mesh_Mesh_Body_04": "74281558374551"
   }
 }
