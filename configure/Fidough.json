@@ -1,11 +1,16 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm1074_00_00_body_mesh_Mesh_Body_01": "136095323914069",
-    "pm1074_00_00_body_mesh_Mesh_Body_02": "76435470102689",
-    "pm1074_00_00_eye_mesh_Mesh_Emissives_01": "94677893727418",
-    "pm1074_00_00_eye_mesh_Mesh_Emissives_02": "129001568673123",
-    "pm1074_00_00_head_mesh_Mesh_Body_01": "136095323914069"
+    "pm1074_00_00_body_mesh_Mesh_Body_01": "90348343886485",
+    "pm1074_00_00_body_mesh_Mesh_Body_02": "125727398232334",
+    "pm1074_00_00_eye_a_mesh_Mesh_Eyes_01": "138250325415526",
+    "pm1074_00_00_eye_a_mesh_Mesh_Eyes_02": "89251705777146",
+    "pm1074_00_00_eye_b_mesh_Mesh_Eyes_03": "138472594826962",
+    "pm1074_00_00_eye_b_mesh_Mesh_Eyes_04": "120877080111271",
+    "pm1074_00_00_head_mesh_Mesh_Body_01": "90348343886485",
+    "pm1074_00_00_head_mesh_Mesh_Body_03": "124748357398371",
+    "pm1074_00_00_mouth_a_mesh_Mesh_Body_01": "90348343886485",
+    "pm1074_00_00_mouth_b_mesh_Mesh_Body_01": "90348343886485"
   },
   "Offset": {
     "ReleaseDown": {
@@ -22,10 +27,15 @@
     }
   },
   "Shiny": {
-    "pm1074_00_00_body_mesh_Mesh_Body_01": "124066496332255",
-    "pm1074_00_00_body_mesh_Mesh_Body_02": "105624084748635",
-    "pm1074_00_00_eye_mesh_Mesh_Emissives_01": "125949791400276",
-    "pm1074_00_00_eye_mesh_Mesh_Emissives_02": "75706044715145",
-    "pm1074_00_00_head_mesh_Mesh_Body_01": "124066496332255"
+    "pm1074_00_00_body_mesh_Mesh_Body_01": "117202260477779",
+    "pm1074_00_00_body_mesh_Mesh_Body_02": "120826228442262",
+    "pm1074_00_00_eye_a_mesh_Mesh_Eyes_01": "132701377292940",
+    "pm1074_00_00_eye_a_mesh_Mesh_Eyes_02": "114075320610735",
+    "pm1074_00_00_eye_b_mesh_Mesh_Eyes_03": "138310021169955",
+    "pm1074_00_00_eye_b_mesh_Mesh_Eyes_04": "127201005490992",
+    "pm1074_00_00_head_mesh_Mesh_Body_01": "117202260477779",
+    "pm1074_00_00_head_mesh_Mesh_Body_03": "123321716422697",
+    "pm1074_00_00_mouth_a_mesh_Mesh_Body_01": "117202260477779",
+    "pm1074_00_00_mouth_b_mesh_Mesh_Body_01": "117202260477779"
   }
 }
