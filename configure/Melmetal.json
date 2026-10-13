@@ -1,0 +1,73 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "pm0892_00_00_body_mesh_Mesh_Body_01": "97662628220014",
+    "pm0892_00_00_bodydown_mesh_Mesh_Body_01": "97662628220014",
+    "pm0892_00_00_eye_a_mesh_Mesh_Eyes_01": "79746925307226",
+    "pm0892_00_00_eye_b_mesh_Mesh_Eyes_01": "79746925307226",
+    "pm0892_00_00_eye_c_mesh_Mesh_Eyes_01": "79746925307226",
+    "pm0892_00_00_eye_d_mesh_Mesh_Eyes_01": "79746925307226",
+    "pm0892_00_00_eye_e_mesh_Mesh_Eyes_01": "79746925307226",
+    "pm0892_00_00_left_arm_mesh_Mesh_Body_02": "126712469452535",
+    "pm0892_00_00_nat_left_foot_mesh_Mesh_Body_01": "97662628220014",
+    "pm0892_00_00_nat_left_forearm_mesh_Mesh_Body_01": "97662628220014",
+    "pm0892_00_00_nat_left_hand_mesh_Mesh_Body_02": "126712469452535",
+    "pm0892_00_00_nat_left_sholder_mesh_Mesh_Body_02": "126712469452535",
+    "pm0892_00_00_nat_right_foot_mesh_Mesh_Body_01": "97662628220014",
+    "pm0892_00_00_nat_right_forearm_mesh_Mesh_Body_01": "97662628220014",
+    "pm0892_00_00_nat_right_hand_mesh_Mesh_Body_02": "126712469452535",
+    "pm0892_00_00_nat_right_sholder_mesh_Mesh_Body_02": "126712469452535",
+    "pm0892_00_00_natbelly_a_mesh_Mesh_Body_02": "126712469452535",
+    "pm0892_00_00_natbelly_a_mesh_Mesh_Body_03": "115222036282378",
+    "pm0892_00_00_natbelly_b_mesh_Mesh_Body_02": "126712469452535",
+    "pm0892_00_00_natbelly_b_mesh_Mesh_Body_03": "115222036282378",
+    "pm0892_00_00_natchest_mesh_Mesh_Body_01": "97662628220014",
+    "pm0892_00_00_nathead_mesh_Mesh_Body_02": "126712469452535",
+    "pm0892_00_00_right_arm_mesh_Mesh_Body_02": "126712469452535",
+    "pm0892_00_00_tail_mesh_Mesh_Body_01": "97662628220014",
+    "pm0892_00_00_tail_mesh_Mesh_Body_03": "115222036282378",
+    "pm0892_00_00_tail_mesh_Mesh_Body_04": "131968752764319"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "pm0892_00_00_body_mesh_Mesh_Body_01": "113510803241763",
+    "pm0892_00_00_bodydown_mesh_Mesh_Body_01": "113510803241763",
+    "pm0892_00_00_eye_a_mesh_Mesh_Eyes_01": "116993577898331",
+    "pm0892_00_00_eye_b_mesh_Mesh_Eyes_01": "116993577898331",
+    "pm0892_00_00_eye_c_mesh_Mesh_Eyes_01": "116993577898331",
+    "pm0892_00_00_eye_d_mesh_Mesh_Eyes_01": "116993577898331",
+    "pm0892_00_00_eye_e_mesh_Mesh_Eyes_01": "116993577898331",
+    "pm0892_00_00_left_arm_mesh_Mesh_Body_02": "105514105632184",
+    "pm0892_00_00_nat_left_foot_mesh_Mesh_Body_01": "113510803241763",
+    "pm0892_00_00_nat_left_forearm_mesh_Mesh_Body_01": "113510803241763",
+    "pm0892_00_00_nat_left_hand_mesh_Mesh_Body_02": "105514105632184",
+    "pm0892_00_00_nat_left_sholder_mesh_Mesh_Body_02": "105514105632184",
+    "pm0892_00_00_nat_right_foot_mesh_Mesh_Body_01": "113510803241763",
+    "pm0892_00_00_nat_right_forearm_mesh_Mesh_Body_01": "113510803241763",
+    "pm0892_00_00_nat_right_hand_mesh_Mesh_Body_02": "105514105632184",
+    "pm0892_00_00_nat_right_sholder_mesh_Mesh_Body_02": "105514105632184",
+    "pm0892_00_00_natbelly_a_mesh_Mesh_Body_02": "105514105632184",
+    "pm0892_00_00_natbelly_a_mesh_Mesh_Body_03": "101625738914748",
+    "pm0892_00_00_natbelly_b_mesh_Mesh_Body_02": "105514105632184",
+    "pm0892_00_00_natbelly_b_mesh_Mesh_Body_03": "101625738914748",
+    "pm0892_00_00_natchest_mesh_Mesh_Body_01": "113510803241763",
+    "pm0892_00_00_nathead_mesh_Mesh_Body_02": "105514105632184",
+    "pm0892_00_00_right_arm_mesh_Mesh_Body_02": "105514105632184",
+    "pm0892_00_00_tail_mesh_Mesh_Body_01": "113510803241763",
+    "pm0892_00_00_tail_mesh_Mesh_Body_03": "101625738914748",
+    "pm0892_00_00_tail_mesh_Mesh_Body_04": "101481471464214"
+  }
+}
