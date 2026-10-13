@@ -1,16 +1,14 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "Body00_OptMesh_1_0": "111416015156766",
-    "Body00_OptMesh_2_0": "111416015156766",
-    "Body00_OptMesh_3_0": "111416015156766",
-    "Body01_OptMesh_7_0": "111416015156766",
-    "Body02_OptMesh_8_0": "111416015156766",
-    "Body03_OptMesh_9_0": "111416015156766",
-    "BodyVco00_OptMesh_5_0": "111416015156766",
-    "BodyVco01_OptMesh_6_0": "111416015156766",
-    "Eye_OptMesh_4_0": "129408559088486",
-    "Mouth_OptMesh_0_0": "87889766414068"
+    "pm0359_00_00_body_mesh_Mesh_Body_01": "130990305416884",
+    "pm0359_00_00_body_mesh_Mesh_Body_02": "130990305416884",
+    "pm0359_00_00_body_mesh_Mesh_Body_03": "91688159306397",
+    "pm0359_00_00_eye_mesh_Mesh_Eyes_01": "72311082878641",
+    "pm0359_00_00_eye_mesh_Mesh_Eyes_02": "72311082878641",
+    "pm0359_00_00_face_mesh_Mesh_Body_02": "130990305416884",
+    "pm0359_00_00_face_mesh_Mesh_Body_03": "91688159306397",
+    "pm0359_00_00_face_mesh_Mesh_Body_04": "91688159306397"
   },
   "Offset": {
     "ReleaseDown": {
@@ -27,15 +25,13 @@
     }
   },
   "Shiny": {
-    "Body00_OptMesh_1_0": "101254321348498",
-    "Body00_OptMesh_2_0": "101254321348498",
-    "Body00_OptMesh_3_0": "101254321348498",
-    "Body01_OptMesh_7_0": "101254321348498",
-    "Body02_OptMesh_8_0": "101254321348498",
-    "Body03_OptMesh_9_0": "101254321348498",
-    "BodyVco00_OptMesh_5_0": "101254321348498",
-    "BodyVco01_OptMesh_6_0": "101254321348498",
-    "Eye_OptMesh_4_0": "106619435179387",
-    "Mouth_OptMesh_0_0": "134134429679717"
+    "pm0359_00_00_body_mesh_Mesh_Body_01": "92122463347577",
+    "pm0359_00_00_body_mesh_Mesh_Body_02": "92122463347577",
+    "pm0359_00_00_body_mesh_Mesh_Body_03": "131828282463516",
+    "pm0359_00_00_eye_mesh_Mesh_Eyes_01": "110710682996040",
+    "pm0359_00_00_eye_mesh_Mesh_Eyes_02": "110710682996040",
+    "pm0359_00_00_face_mesh_Mesh_Body_02": "92122463347577",
+    "pm0359_00_00_face_mesh_Mesh_Body_03": "131828282463516",
+    "pm0359_00_00_face_mesh_Mesh_Body_04": "131828282463516"
   }
 }
