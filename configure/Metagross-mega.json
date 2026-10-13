@@ -1,16 +1,16 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyAEnv_OptMesh_4_0": "111387638696828",
-    "BodyAVco00_OptMesh_0_0": "111387638696828",
-    "BodyAVco01_OptMesh_5_0": "111387638696828",
-    "BodyBEnv00_OptMesh_2_0": "127881314241711",
-    "BodyBEnv01_OptMesh_6_0": "127881314241711",
-    "BodyBEnv02_OptMesh_9_0": "127881314241711",
-    "BodyCEnv00_OptMesh_3_0": "90086034777469",
-    "BodyCEnv01_OptMesh_7_0": "90086034777469",
-    "BodyCEnv01_OptMesh_8_0": "90086034777469",
-    "Eye_OptMesh_1_0": "93614164870440"
+    "pm0376_51_00_arm_a_mesh_Mesh_Body_01": "97178105932121",
+    "pm0376_51_00_arm_b_mesh_Mesh_Body_01": "97178105932121",
+    "pm0376_51_00_body_a_mesh_Mesh_Body_02": "125851393744018",
+    "pm0376_51_00_body_b_mesh_Mesh_Body_02": "125851393744018",
+    "pm0376_51_00_eye_a_mesh_Mesh_Eyes_01": "102052644165305",
+    "pm0376_51_00_eye_a_mesh_Mesh_Eyes_02": "127325101919175",
+    "pm0376_51_00_eye_b_mesh_Mesh_Eyes_03": "115210421102263",
+    "pm0376_51_00_eye_b_mesh_Mesh_Eyes_04": "96126074548810",
+    "pm0376_51_00_leg_a_mesh_Mesh_Body_02": "125851393744018",
+    "pm0376_51_00_leg_b_mesh_Mesh_Body_02": "125851393744018"
   },
   "Offset": {
     "ReleaseDown": {
@@ -27,15 +27,15 @@
     }
   },
   "Shiny": {
-    "BodyAEnv_OptMesh_4_0": "70610819768312",
-    "BodyAVco00_OptMesh_0_0": "70610819768312",
-    "BodyAVco01_OptMesh_5_0": "70610819768312",
-    "BodyBEnv00_OptMesh_2_0": "120495999110759",
-    "BodyBEnv01_OptMesh_6_0": "120495999110759",
-    "BodyBEnv02_OptMesh_9_0": "120495999110759",
-    "BodyCEnv00_OptMesh_3_0": "126424154053772",
-    "BodyCEnv01_OptMesh_7_0": "126424154053772",
-    "BodyCEnv01_OptMesh_8_0": "126424154053772",
-    "Eye_OptMesh_1_0": "97062166797939"
+    "pm0376_51_00_arm_a_mesh_Mesh_Body_01": "113647281386537",
+    "pm0376_51_00_arm_b_mesh_Mesh_Body_01": "113647281386537",
+    "pm0376_51_00_body_a_mesh_Mesh_Body_02": "115356680404207",
+    "pm0376_51_00_body_b_mesh_Mesh_Body_02": "115356680404207",
+    "pm0376_51_00_eye_a_mesh_Mesh_Eyes_01": "86521372413705",
+    "pm0376_51_00_eye_a_mesh_Mesh_Eyes_02": "82010821488269",
+    "pm0376_51_00_eye_b_mesh_Mesh_Eyes_03": "98299781312657",
+    "pm0376_51_00_eye_b_mesh_Mesh_Eyes_04": "129085817982611",
+    "pm0376_51_00_leg_a_mesh_Mesh_Body_02": "115356680404207",
+    "pm0376_51_00_leg_b_mesh_Mesh_Body_02": "115356680404207"
   }
 }
