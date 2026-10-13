@@ -1,14 +1,15 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm1106_00_00_body_mesh_Mesh_Body_01": "117051285240569",
-    "pm1106_00_00_body_mesh_Mesh_Body_02": "125012688410118",
-    "pm1106_00_00_eye_mesh_Mesh_Emissives_01": "108641267637831",
-    "pm1106_00_00_eye_mesh_Mesh_Emissives_02": "84208946211708",
-    "pm1106_00_00_eyelash_mesh_Mesh_Body_02": "125012688410118",
-    "pm1106_00_00_hair_mesh_Mesh_Body_01": "117051285240569",
-    "pm1106_00_00_hammer_mesh_Mesh_Body_03": "100286160150843",
-    "pm1106_00_00_hammer_mesh_Mesh_Body_04": "130318122274422"
+    "pm1106_00_00_body_mesh_Mesh_Body_01": "73252048376608",
+    "pm1106_00_00_body_mesh_Mesh_Body_02": "100514101460238",
+    "pm1106_00_00_body_mesh_Mesh_Body_03": "71228450028180",
+    "pm1106_00_00_eye_mesh_Mesh_Eyes_01": "99402529870124",
+    "pm1106_00_00_eye_mesh_Mesh_Eyes_02": "115901417005602",
+    "pm1106_00_00_eyelash_mesh_Mesh_Body_02": "100514101460238",
+    "pm1106_00_00_hair_mesh_Mesh_Body_04": "81209115328261",
+    "pm1106_00_00_hammer_mesh_Mesh_Body_05": "111356521361746",
+    "pm1106_00_00_hammer_mesh_Mesh_Body_06": "112418732185294"
   },
   "Offset": {
     "ReleaseDown": {
@@ -25,13 +26,14 @@
     }
   },
   "Shiny": {
-    "pm1106_00_00_body_mesh_Mesh_Body_01": "135047746922986",
-    "pm1106_00_00_body_mesh_Mesh_Body_02": "75866886973797",
-    "pm1106_00_00_eye_mesh_Mesh_Emissives_01": "130201465300466",
-    "pm1106_00_00_eye_mesh_Mesh_Emissives_02": "103693696094514",
-    "pm1106_00_00_eyelash_mesh_Mesh_Body_02": "75866886973797",
-    "pm1106_00_00_hair_mesh_Mesh_Body_01": "135047746922986",
-    "pm1106_00_00_hammer_mesh_Mesh_Body_03": "129674088984983",
-    "pm1106_00_00_hammer_mesh_Mesh_Body_04": "130757920362199"
+    "pm1106_00_00_body_mesh_Mesh_Body_01": "123589689728024",
+    "pm1106_00_00_body_mesh_Mesh_Body_02": "96836735999345",
+    "pm1106_00_00_body_mesh_Mesh_Body_03": "85710124279654",
+    "pm1106_00_00_eye_mesh_Mesh_Eyes_01": "77359832610884",
+    "pm1106_00_00_eye_mesh_Mesh_Eyes_02": "130040676708822",
+    "pm1106_00_00_eyelash_mesh_Mesh_Body_02": "96836735999345",
+    "pm1106_00_00_hair_mesh_Mesh_Body_04": "111480033454090",
+    "pm1106_00_00_hammer_mesh_Mesh_Body_05": "73186264829050",
+    "pm1106_00_00_hammer_mesh_Mesh_Body_06": "78608474002981"
   }
 }
