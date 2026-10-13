@@ -1,18 +1,18 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0751_00_00_body_mesh_Mesh_Body_01": "102352015538990",
+    "pm0751_00_00_body_mesh_Mesh_Body_01": "135840738662766",
     "pm0751_00_00_body_mesh_Mesh_Body_02": "79645149254647",
     "pm0751_00_00_body_mesh_Mesh_Body_03": "135840738662766",
     "pm0751_00_00_cover_mesh_Mesh_Body_04": "111983709611620",
-    "pm0751_00_00_eye_a_mesh_Mesh_Eyes_01": "117945411541154",
+    "pm0751_00_00_eye_a_mesh_Mesh_Eyes_01": "112485008059913",
     "pm0751_00_00_eye_a_mesh_Mesh_Eyes_02": "112485008059913",
     "pm0751_00_00_eye_b_mesh_Mesh_Eyes_03": "110732108442975",
-    "pm0751_00_00_eyelid_mesh_Mesh_Body_01": "102352015538990",
+    "pm0751_00_00_eyelid_mesh_Mesh_Body_01": "135840738662766",
     "pm0751_00_00_head_mesh_Mesh_Body_02": "79645149254647",
     "pm0751_00_00_head_mesh_Mesh_Body_03": "135840738662766",
     "pm0751_00_00_head_mesh_Mesh_Body_05": "127678074056877",
-    "pm0751_00_00_jaw_mesh_Mesh_Body_01": "102352015538990",
+    "pm0751_00_00_jaw_mesh_Mesh_Body_01": "135840738662766",
     "pm0751_00_00_jaw_mesh_Mesh_Body_05": "127678074056877",
     "pm0751_00_00_spike_mesh_Mesh_Body_05": "127678074056877"
   },
@@ -31,18 +31,18 @@
     }
   },
   "Shiny": {
-    "pm0751_00_00_body_mesh_Mesh_Body_01": "103465055598459",
+    "pm0751_00_00_body_mesh_Mesh_Body_01": "140174191881780",
     "pm0751_00_00_body_mesh_Mesh_Body_02": "106792227701298",
     "pm0751_00_00_body_mesh_Mesh_Body_03": "140174191881780",
     "pm0751_00_00_cover_mesh_Mesh_Body_04": "123801794970871",
-    "pm0751_00_00_eye_a_mesh_Mesh_Eyes_01": "107531130953328",
+    "pm0751_00_00_eye_a_mesh_Mesh_Eyes_01": "127406203650589",
     "pm0751_00_00_eye_a_mesh_Mesh_Eyes_02": "127406203650589",
     "pm0751_00_00_eye_b_mesh_Mesh_Eyes_03": "73102616871776",
-    "pm0751_00_00_eyelid_mesh_Mesh_Body_01": "103465055598459",
+    "pm0751_00_00_eyelid_mesh_Mesh_Body_01": "140174191881780",
     "pm0751_00_00_head_mesh_Mesh_Body_02": "106792227701298",
     "pm0751_00_00_head_mesh_Mesh_Body_03": "140174191881780",
     "pm0751_00_00_head_mesh_Mesh_Body_05": "94247908589473",
-    "pm0751_00_00_jaw_mesh_Mesh_Body_01": "103465055598459",
+    "pm0751_00_00_jaw_mesh_Mesh_Body_01": "140174191881780",
     "pm0751_00_00_jaw_mesh_Mesh_Body_05": "94247908589473",
     "pm0751_00_00_spike_mesh_Mesh_Body_05": "94247908589473"
   }
