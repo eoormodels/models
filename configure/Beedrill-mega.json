@@ -1,15 +1,16 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyANutrey_Env00_OptMesh_7_0": "85129362467395",
-    "BodyANutrey_Env01_OptMesh_8_0": "85129362467395",
-    "BodyASpcVco00_OptMesh_5_0": "85129362467395",
-    "BodyASpcVco01_OptMesh_4_0": "85129362467395",
-    "BodyASpc_OptMesh_6_0": "85129362467395",
-    "BodyA_OptMesh_0_0": "85129362467395",
-    "BodyBRediba_Wing00_OptMesh_1_0": "110362231156353",
-    "BodyBRediba_Wing01_OptMesh_3_0": "129863226926443",
-    "Bug_OptMesh_2_0": "85129362467395"
+    "pm0015_51_00_body_mesh_Mesh_Body_01": "127517413833744",
+    "pm0015_51_00_body_mesh_Mesh_Body_02": "79315567359771",
+    "pm0015_51_00_body_mesh_Mesh_Emissives_01": "112933924092470",
+    "pm0015_51_00_body_mesh_Mesh_Emissives_02": "71042492457314",
+    "pm0015_51_00_wing_a_mesh_Mesh_Body_03": "83145978656009",
+    "pm0015_51_00_wing_b_mesh_Mesh_Body_03": "83145978656009",
+    "pm0015_51_00_wing_c_mesh_Mesh_Body_03": "83145978656009",
+    "pm0015_51_00_wing_d_mesh_Mesh_Body_03": "83145978656009",
+    "pm0015_51_00_wing_e_mesh_Mesh_Body_03": "83145978656009",
+    "pm0015_51_00_wing_f_mesh_Mesh_Body_03": "83145978656009"
   },
   "Offset": {
     "ReleaseDown": {
@@ -26,14 +27,15 @@
     }
   },
   "Shiny": {
-    "BodyANutrey_Env00_OptMesh_7_0": "94281577936262",
-    "BodyANutrey_Env01_OptMesh_8_0": "94281577936262",
-    "BodyASpcVco00_OptMesh_5_0": "94281577936262",
-    "BodyASpcVco01_OptMesh_4_0": "94281577936262",
-    "BodyASpc_OptMesh_6_0": "94281577936262",
-    "BodyA_OptMesh_0_0": "94281577936262",
-    "BodyBRediba_Wing00_OptMesh_1_0": "110874208452558",
-    "BodyBRediba_Wing01_OptMesh_3_0": "135915790196850",
-    "Bug_OptMesh_2_0": "94281577936262"
+    "pm0015_51_00_body_mesh_Mesh_Body_01": "83028191280211",
+    "pm0015_51_00_body_mesh_Mesh_Body_02": "112391773872154",
+    "pm0015_51_00_body_mesh_Mesh_Emissives_01": "98529076596229",
+    "pm0015_51_00_body_mesh_Mesh_Emissives_02": "110086167824638",
+    "pm0015_51_00_wing_a_mesh_Mesh_Body_03": "93325629626534",
+    "pm0015_51_00_wing_b_mesh_Mesh_Body_03": "93325629626534",
+    "pm0015_51_00_wing_c_mesh_Mesh_Body_03": "93325629626534",
+    "pm0015_51_00_wing_d_mesh_Mesh_Body_03": "93325629626534",
+    "pm0015_51_00_wing_e_mesh_Mesh_Body_03": "93325629626534",
+    "pm0015_51_00_wing_f_mesh_Mesh_Body_03": "93325629626534"
   }
 }
