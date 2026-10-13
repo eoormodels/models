@@ -22,10 +22,10 @@
     }
   },
   "Shiny": {
-    "pm0059_00_41_body_mesh_Mesh_Emissives_01": "84680910521371",
-    "pm0059_00_41_eye_mesh_Mesh_Emissives_02": "106844433645539",
-    "pm0059_00_41_head_mesh_Mesh_Emissives_03": "135059110194690",
-    "pm0059_00_41_legfeeler_mesh_Mesh_Emissives_03": "135059110194690",
-    "pm0059_00_41_tail_mesh_Mesh_Emissives_03": "135059110194690"
+    "pm0059_00_41_body_mesh_Mesh_Emissives_01": "74130571746165",
+    "pm0059_00_41_eye_mesh_Mesh_Emissives_02": "84256625092110",
+    "pm0059_00_41_head_mesh_Mesh_Emissives_03": "102329279033857",
+    "pm0059_00_41_legfeeler_mesh_Mesh_Emissives_03": "102329279033857",
+    "pm0059_00_41_tail_mesh_Mesh_Emissives_03": "102329279033857"
   }
 }
