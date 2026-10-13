@@ -3,7 +3,7 @@
   "Normal": {
     "pm0591_00_00_body_mesh_Mesh_Body_01": "71957698448516",
     "pm0591_00_00_body_mesh_Mesh_Body_02": "112958420104598",
-    "pm0591_00_00_eye_mesh_Mesh_Eyes_01": "117740544765647",
+    "pm0591_00_00_eye_mesh_Mesh_Eyes_01": "113851464090698",
     "pm0591_00_00_eye_mesh_Mesh_Eyes_02": "113851464090698"
   },
   "Offset": {
@@ -23,7 +23,7 @@
   "Shiny": {
     "pm0591_00_00_body_mesh_Mesh_Body_01": "82267081118398",
     "pm0591_00_00_body_mesh_Mesh_Body_02": "135105024672275",
-    "pm0591_00_00_eye_mesh_Mesh_Eyes_01": "112627645617306",
+    "pm0591_00_00_eye_mesh_Mesh_Eyes_01": "123124476295775",
     "pm0591_00_00_eye_mesh_Mesh_Eyes_02": "123124476295775"
   }
 }
