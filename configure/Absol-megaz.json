@@ -1,16 +1,16 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0359_52_00_body_mesh_Mesh_Body_01": "94498674955639",
-    "pm0359_52_00_body_mesh_Mesh_Body_02": "85265249657743",
-    "pm0359_52_00_body_mesh_Mesh_Body_03": "74774348354999",
-    "pm0359_52_00_eye_mesh_Mesh_Eyes_01": "107248613588604",
-    "pm0359_52_00_face_mesh_Mesh_Body_03": "74774348354999",
-    "pm0359_52_00_face_mesh_Mesh_Body_04": "85799843870717",
-    "pm0359_52_00_tail_mesh_Mesh_Body_03": "74774348354999",
-    "pm0359_52_00_teeth_mesh_Mesh_Body_03": "74774348354999",
-    "pm0359_52_00_wing_a_mesh_Mesh_Body_01": "94498674955639",
-    "pm0359_52_00_wing_b_mesh_Mesh_Body_01": "94498674955639"
+    "pm0359_52_00_body_mesh_Mesh_Body_01": "127183804429396",
+    "pm0359_52_00_body_mesh_Mesh_Body_02": "132381483277111",
+    "pm0359_52_00_body_mesh_Mesh_Body_03": "81374462825903",
+    "pm0359_52_00_eye_mesh_Mesh_Eyes_01": "112266741173696",
+    "pm0359_52_00_face_mesh_Mesh_Body_03": "81374462825903",
+    "pm0359_52_00_face_mesh_Mesh_Body_04": "121965629625123",
+    "pm0359_52_00_tail_mesh_Mesh_Body_03": "81374462825903",
+    "pm0359_52_00_teeth_mesh_Mesh_Body_03": "81374462825903",
+    "pm0359_52_00_wing_a_mesh_Mesh_Body_01": "127183804429396",
+    "pm0359_52_00_wing_b_mesh_Mesh_Body_01": "127183804429396"
   },
   "Offset": {
     "ReleaseDown": {
@@ -27,15 +27,15 @@
     }
   },
   "Shiny": {
-    "pm0359_52_00_body_mesh_Mesh_Body_01": "103866143673042",
-    "pm0359_52_00_body_mesh_Mesh_Body_02": "76458851757110",
-    "pm0359_52_00_body_mesh_Mesh_Body_03": "106853257852533",
-    "pm0359_52_00_eye_mesh_Mesh_Eyes_01": "94445058544894",
-    "pm0359_52_00_face_mesh_Mesh_Body_03": "106853257852533",
-    "pm0359_52_00_face_mesh_Mesh_Body_04": "95456853548564",
-    "pm0359_52_00_tail_mesh_Mesh_Body_03": "106853257852533",
-    "pm0359_52_00_teeth_mesh_Mesh_Body_03": "106853257852533",
-    "pm0359_52_00_wing_a_mesh_Mesh_Body_01": "103866143673042",
-    "pm0359_52_00_wing_b_mesh_Mesh_Body_01": "103866143673042"
+    "pm0359_52_00_body_mesh_Mesh_Body_01": "74192335169705",
+    "pm0359_52_00_body_mesh_Mesh_Body_02": "132381483277111",
+    "pm0359_52_00_body_mesh_Mesh_Body_03": "132788219577812",
+    "pm0359_52_00_eye_mesh_Mesh_Eyes_01": "116533983952224",
+    "pm0359_52_00_face_mesh_Mesh_Body_03": "132788219577812",
+    "pm0359_52_00_face_mesh_Mesh_Body_04": "81279956593870",
+    "pm0359_52_00_tail_mesh_Mesh_Body_03": "132788219577812",
+    "pm0359_52_00_teeth_mesh_Mesh_Body_03": "132788219577812",
+    "pm0359_52_00_wing_a_mesh_Mesh_Body_01": "74192335169705",
+    "pm0359_52_00_wing_b_mesh_Mesh_Body_01": "74192335169705"
   }
 }
