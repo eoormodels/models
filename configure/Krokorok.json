@@ -1,10 +1,10 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyVco_OptMesh_3_0": "129206171808603",
-    "Body_OptMesh_0_0": "129206171808603",
-    "Body_OptMesh_1_0": "129206171808603",
-    "Eye_OptMesh_2_0": "135891660182843"
+    "pm0552_00_00_body_mesh_Mesh_Body_01": "98957111444514",
+    "pm0552_00_00_body_mesh_Mesh_Body_02": "118701011005053",
+    "pm0552_00_00_eye_mesh_Mesh_Eyes_01": "110256429281569",
+    "pm0552_00_00_eye_mesh_Mesh_Eyes_02": "110256429281569"
   },
   "Offset": {
     "ReleaseDown": {
@@ -21,9 +21,9 @@
     }
   },
   "Shiny": {
-    "BodyVco_OptMesh_3_0": "95501059721945",
-    "Body_OptMesh_0_0": "95501059721945",
-    "Body_OptMesh_1_0": "95501059721945",
-    "Eye_OptMesh_2_0": "107862074632003"
+    "pm0552_00_00_body_mesh_Mesh_Body_01": "128747200754761",
+    "pm0552_00_00_body_mesh_Mesh_Body_02": "136511516969384",
+    "pm0552_00_00_eye_mesh_Mesh_Eyes_01": "99753323499752",
+    "pm0552_00_00_eye_mesh_Mesh_Eyes_02": "74751912555223"
   }
 }
