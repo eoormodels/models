@@ -1,13 +1,16 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyASpc00_OptMesh_4_0": "111081708572347",
-    "BodyASpc01_OptMesh_7_0": "111081708572347",
-    "Eye_OptMesh_5_0": "101446889544713",
-    "Mouth_OptMesh_6_0": "101782345188870",
-    "pm0607_00_FireASkin_2_0": "90331709459141",
-    "pm0607_00_FireBSkin_3_0": "90331709459141",
-    "pm0607_00_HeadASkin_0_0": "111081708572347"
+    "pm0607_00_00_body_a_mesh_Mesh_Body_01": "121231512087523",
+    "pm0607_00_00_body_a_mesh_Mesh_Body_02": "108955064597164",
+    "pm0607_00_00_body_b_mesh_Mesh_Body_02": "108955064597164",
+    "pm0607_00_00_bodyb00_mesh_Mesh_Body_03": "79683946198624",
+    "pm0607_00_00_bodyb01back_mesh_Mesh_Body_03": "79683946198624",
+    "pm0607_00_00_eye_mesh_Mesh_Eyes_01": "72245721307638",
+    "pm0607_00_00_eyelid_00_mesh_Mesh_Body_02": "108955064597164",
+    "pm0607_00_00_eyelid_01_mesh_Mesh_Body_02": "108955064597164",
+    "pm0607_00_00_head_a_mesh_Mesh_Body_02": "108955064597164",
+    "pm0607_00_00_head_b_mesh_Mesh_Body_02": "108955064597164"
   },
   "Offset": {
     "ReleaseDown": {
@@ -24,13 +27,15 @@
     }
   },
   "Shiny": {
-    "BodyASpc00_OptMesh_4_0": "79709020164613",
-    "BodyASpc01_OptMesh_7_0": "79709020164613",
-    "Eye_OptMesh_5_0": "90030157932788",
-    "Mouth_OptMesh_6_0": "131844758454836",
-    "pm0607_00_FireASkin_2_0": "72329343016088",
-    "pm0607_00_FireBSkin_3_0": "72329343016088",
-    "pm0607_00_HeadASkin_0_0": "79709020164613",
-    "pm0607_00_HeadBSkin_1_0": "79709020164613"
+    "pm0607_00_00_body_a_mesh_Mesh_Body_01": "94881853613741",
+    "pm0607_00_00_body_a_mesh_Mesh_Body_02": "134413627069886",
+    "pm0607_00_00_body_b_mesh_Mesh_Body_02": "134413627069886",
+    "pm0607_00_00_bodyb00_mesh_Mesh_Body_03": "90516925908763",
+    "pm0607_00_00_bodyb01back_mesh_Mesh_Body_03": "90516925908763",
+    "pm0607_00_00_eye_mesh_Mesh_Eyes_01": "92627559595970",
+    "pm0607_00_00_eyelid_00_mesh_Mesh_Body_02": "134413627069886",
+    "pm0607_00_00_eyelid_01_mesh_Mesh_Body_02": "134413627069886",
+    "pm0607_00_00_head_a_mesh_Mesh_Body_02": "134413627069886",
+    "pm0607_00_00_head_b_mesh_Mesh_Body_02": "134413627069886"
   }
 }
