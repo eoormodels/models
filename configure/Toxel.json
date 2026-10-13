@@ -1,14 +1,14 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0921_00_00_BodySkin_Mesh": "90696668658435",
-    "pm0921_00_00_BodySkin_Mesh_Eyes": "109209698427159",
-    "pm0921_00_00_SparkASkin_Mesh": "90696668658435",
-    "pm0921_00_00_SparkBSkin_Mesh": "90696668658435",
-    "pm0921_00_00_SparkShellBackASkin_Mesh": "90696668658435",
-    "pm0921_00_00_SparkShellBackBSkin_Mesh": "90696668658435",
-    "pm0921_00_00_SparkShellFaceASkin_Mesh": "90696668658435",
-    "pm0921_00_00_SparkShellFaceBSkin_Mesh": "90696668658435"
+    "pm0921_00_00_body_mesh_Mesh_Body_01": "74835293985571",
+    "pm0921_00_00_body_mesh_Mesh_Body_02": "99754150445768",
+    "pm0921_00_00_eye_mesh_Mesh_Eyes_01": "124494751300310",
+    "pm0921_00_00_eye_mesh_Mesh_Eyes_02": "121633218783256",
+    "pm0921_00_00_spark_a_mesh_Mesh_Emissives_01": "105454981653593",
+    "pm0921_00_00_spark_b_mesh_Mesh_Emissives_01": "105454981653593",
+    "pm0921_00_00_sparkshell...a_mesh_Mesh_Emissives_01": "105454981653593",
+    "pm0921_00_00_sparkshell...b_mesh_Mesh_Emissives_01": "105454981653593"
   },
   "Offset": {
     "ReleaseDown": {
@@ -25,13 +25,13 @@
     }
   },
   "Shiny": {
-    "pm0921_00_00_BodySkin_Mesh": "84349903852369",
-    "pm0921_00_00_BodySkin_Mesh_Eyes": "117602724948093",
-    "pm0921_00_00_SparkASkin_Mesh": "84349903852369",
-    "pm0921_00_00_SparkBSkin_Mesh": "84349903852369",
-    "pm0921_00_00_SparkShellBackASkin_Mesh": "84349903852369",
-    "pm0921_00_00_SparkShellBackBSkin_Mesh": "84349903852369",
-    "pm0921_00_00_SparkShellFaceASkin_Mesh": "84349903852369",
-    "pm0921_00_00_SparkShellFaceBSkin_Mesh": "84349903852369"
+    "pm0921_00_00_body_mesh_Mesh_Body_01": "114170783333309",
+    "pm0921_00_00_body_mesh_Mesh_Body_02": "96157324888502",
+    "pm0921_00_00_eye_mesh_Mesh_Eyes_01": "93529060936035",
+    "pm0921_00_00_eye_mesh_Mesh_Eyes_02": "121676231973920",
+    "pm0921_00_00_spark_a_mesh_Mesh_Emissives_01": "75554652577340",
+    "pm0921_00_00_spark_b_mesh_Mesh_Emissives_01": "75554652577340",
+    "pm0921_00_00_sparkshell...a_mesh_Mesh_Emissives_01": "75554652577340",
+    "pm0921_00_00_sparkshell...b_mesh_Mesh_Emissives_01": "75554652577340"
   }
 }
