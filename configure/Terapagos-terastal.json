@@ -1,15 +1,15 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm1130_12_00_body_mesh_Mesh_Body_01": "109988684495298",
-    "pm1130_12_00_body_mesh_Mesh_Body_02": "84166692850767",
-    "pm1130_12_00_bodyfur_mesh_Mesh_Body_02": "84166692850767",
-    "pm1130_12_00_bodyfur_mesh_Mesh_Emissives_01": "93266460082784",
-    "pm1130_12_00_eye_mesh_Mesh_Emissives_02": "136186585863467",
-    "pm1130_12_00_eye_mesh_Mesh_Emissives_03": "136186585863467",
-    "pm1130_12_00_glass_mesh_Mesh_Body_02": "84166692850767",
-    "pm1130_12_00_mark_mesh_Mesh_Emissives_04": "120449200936355",
-    "pm1130_12_00_tail_mesh_Mesh_Body_02": "84166692850767"
+    "pm1130_12_00_body_mesh_shape": "113237923780951",
+    "pm1130_12_00_body_mesh_shape2": "125536490960050",
+    "pm1130_12_00_bodyfur_mesh_shape": "84019199469551",
+    "pm1130_12_00_bodyfur_mesh_shape2": "125536490960050",
+    "pm1130_12_00_eye_mesh_shape": "97088699373801",
+    "pm1130_12_00_eye_mesh_shape2": "75028340257850",
+    "pm1130_12_00_glass_mesh_shape": "111135801350220",
+    "pm1130_12_00_mark_mesh_shape": "96739058948444",
+    "pm1130_12_00_tail_mesh_shape": "125536490960050"
   },
   "Offset": {
     "ReleaseDown": {
@@ -26,14 +26,14 @@
     }
   },
   "Shiny": {
-    "pm1130_12_00_body_mesh_Mesh_Body_01": "71928404327201",
-    "pm1130_12_00_body_mesh_Mesh_Body_02": "84166692850767",
-    "pm1130_12_00_bodyfur_mesh_Mesh_Body_02": "84166692850767",
-    "pm1130_12_00_bodyfur_mesh_Mesh_Emissives_01": "82174287933867",
-    "pm1130_12_00_eye_mesh_Mesh_Emissives_02": "136186585863467",
-    "pm1130_12_00_eye_mesh_Mesh_Emissives_03": "136186585863467",
-    "pm1130_12_00_glass_mesh_Mesh_Body_02": "84166692850767",
-    "pm1130_12_00_mark_mesh_Mesh_Emissives_04": "106904993575177",
-    "pm1130_12_00_tail_mesh_Mesh_Body_02": "84166692850767"
+    "pm1130_12_00_body_mesh_shape": "73587278909114",
+    "pm1130_12_00_body_mesh_shape2": "96130380398045",
+    "pm1130_12_00_bodyfur_mesh_shape": "76629945219777",
+    "pm1130_12_00_bodyfur_mesh_shape2": "96130380398045",
+    "pm1130_12_00_eye_mesh_shape": "92388778311962",
+    "pm1130_12_00_eye_mesh_shape2": "75028340257850",
+    "pm1130_12_00_glass_mesh_shape": "125914941236192",
+    "pm1130_12_00_mark_mesh_shape": "127295426396527",
+    "pm1130_12_00_tail_mesh_shape": "96130380398045"
   }
 }
