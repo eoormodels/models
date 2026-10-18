@@ -1,15 +1,16 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "BodyASpc00_OptMesh_4_0": "84007821798976",
-    "BodyASpc01_OptMesh_0_0": "84007821798976",
-    "BodyASpc01_OptMesh_1_0": "84007821798976",
-    "BodyASpcVco_OptMesh_7_0": "84007821798976",
-    "BodyBRediba00_OptMesh_6_0": "116800301260250",
-    "BodyBRediba01_OptMesh_8_0": "103856456030667",
-    "BodyBRediba02_OptMesh_5_0": "81109317880634",
-    "BodyBRediba03_OptMesh_2_0": "75057827464002",
-    "Eye_OptMesh_3_0": "132426058165069"
+    "pm0193_00_00_frontwing_h_mesh": "122842486705713",
+    "pm0193_00_00_frontwing_e_mesh": "140475611773236",
+    "pm0193_00_00_frontwing_a_mesh": "73109980271192",
+    "pm0193_00_00_frontwing_c_mesh": "98953303639732",
+    "pm0193_00_00_frontwing_d_mesh": "129265345330856",
+    "pm0193_00_00_frontwing_b_mesh": "135976011084977",
+    "pm0193_00_00_frontwing_f_mesh": "81600015320798",
+    "pm0193_00_00_body_a_mesh": "73051879529112",
+    "pm0193_00_00_frontwing_g_mesh": "119543538827736",
+    "pm0193_00_00_body_b_mesh": "113518999757622"
   },
   "Offset": {
     "ReleaseDown": {
@@ -26,14 +27,15 @@
     }
   },
   "Shiny": {
-    "BodyASpc00_OptMesh_4_0": "134860613413767",
-    "BodyASpc01_OptMesh_0_0": "134860613413767",
-    "BodyASpc01_OptMesh_1_0": "134860613413767",
-    "BodyASpcVco_OptMesh_7_0": "134860613413767",
-    "BodyBRediba00_OptMesh_6_0": "131800800513905",
-    "BodyBRediba01_OptMesh_8_0": "108389733539893",
-    "BodyBRediba02_OptMesh_5_0": "134284465166431",
-    "BodyBRediba03_OptMesh_2_0": "74693515731147",
-    "Eye_OptMesh_3_0": "85478860317788"
+    "pm0193_00_00_frontwing_h_mesh": "123535888140249",
+    "pm0193_00_00_frontwing_e_mesh": "131316356903176",
+    "pm0193_00_00_frontwing_a_mesh": "121726102499472",
+    "pm0193_00_00_frontwing_c_mesh": "70424001922695",
+    "pm0193_00_00_frontwing_d_mesh": "87152814869135",
+    "pm0193_00_00_frontwing_b_mesh": "125408299460920",
+    "pm0193_00_00_frontwing_f_mesh": "140066898243136",
+    "pm0193_00_00_body_a_mesh": "116741103022046",
+    "pm0193_00_00_frontwing_g_mesh": "70392114582289",
+    "pm0193_00_00_body_b_mesh": "112814278398690"
   }
 }
