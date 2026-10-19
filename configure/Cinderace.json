@@ -1,14 +1,7 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0956_00_00_BodyASkin_Mesh": "92487449999694",
-    "pm0956_00_00_BodyASkin_Mesh_Eyes": "75673224088229",
-    "pm0956_00_00_BodyBSkin_Mesh": "92487449999694",
-    "pm0956_00_00_FireBallAOutSkin_Mesh": "92487449999694",
-    "pm0956_00_00_FireBallASkin_Mesh": "92487449999694",
-    "pm0956_00_00_FireBallBOutSkin_Mesh": "92487449999694",
-    "pm0956_00_00_FireBallBSkin_Mesh": "92487449999694",
-    "pm0956_00_00_StoneSkin_Mesh": "92487449999694"
+    "pm0956_00_00_main_mesh": "85663749689039"
   },
   "Offset": {
     "ReleaseDown": {
@@ -25,13 +18,6 @@
     }
   },
   "Shiny": {
-    "pm0956_00_00_BodyASkin_Mesh": "102595481396933",
-    "pm0956_00_00_BodyASkin_Mesh_Eyes": "113190043664782",
-    "pm0956_00_00_BodyBSkin_Mesh": "102595481396933",
-    "pm0956_00_00_FireBallAOutSkin_Mesh": "102595481396933",
-    "pm0956_00_00_FireBallASkin_Mesh": "102595481396933",
-    "pm0956_00_00_FireBallBOutSkin_Mesh": "102595481396933",
-    "pm0956_00_00_FireBallBSkin_Mesh": "102595481396933",
-    "pm0956_00_00_StoneSkin_Mesh": "102595481396933"
+    "pm0956_00_00_main_mesh": "136580086505862"
   }
 }

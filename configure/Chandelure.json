@@ -1,20 +1,8 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0609_00_00_body_a_mesh_Mesh_Body_01": "91153357597681",
-    "pm0609_00_00_body_a_mesh_Mesh_Body_02": "83710027928567",
-    "pm0609_00_00_body_b_mesh_Mesh_Emissives_01": "132576554142386",
-    "pm0609_00_00_body_cb_mesh_Mesh_Body_03": "95934511811348",
-    "pm0609_00_00_body_cc_mesh_Mesh_Body_03": "95934511811348",
-    "pm0609_00_00_body_d_mesh_Mesh_Body_03": "95934511811348",
-    "pm0609_00_00_body_eb_mesh_Mesh_Body_03": "95934511811348",
-    "pm0609_00_00_body_ef_mesh_Mesh_Body_03": "95934511811348",
-    "pm0609_00_00_eye_mesh_Mesh_Emissives_02": "114416835527598",
-    "pm0609_00_00_eye_mesh_Mesh_Emissives_03": "114416835527598",
-    "pm0609_00_00_eyelid_a_mesh_Mesh_Body_01": "91153357597681",
-    "pm0609_00_00_eyelid_a_mesh_Mesh_Body_02": "83710027928567",
-    "pm0609_00_00_eyelid_b_mesh_Mesh_Body_02": "83710027928567",
-    "pm0609_00_00_eyelid_c_mesh_Mesh_Body_02": "83710027928567"
+    "pm0609_00_00_cutout_mesh_clear": "121146493667857",
+    "pm0609_00_00_main_mesh": "99947238990274"
   },
   "Offset": {
     "ReleaseDown": {
@@ -31,19 +19,7 @@
     }
   },
   "Shiny": {
-    "pm0609_00_00_body_a_mesh_Mesh_Body_01": "107422785118855",
-    "pm0609_00_00_body_a_mesh_Mesh_Body_02": "98815277320622",
-    "pm0609_00_00_body_b_mesh_Mesh_Emissives_01": "96009062591212",
-    "pm0609_00_00_body_cb_mesh_Mesh_Body_03": "124892266530812",
-    "pm0609_00_00_body_cc_mesh_Mesh_Body_03": "124892266530812",
-    "pm0609_00_00_body_d_mesh_Mesh_Body_03": "124892266530812",
-    "pm0609_00_00_body_eb_mesh_Mesh_Body_03": "124892266530812",
-    "pm0609_00_00_body_ef_mesh_Mesh_Body_03": "124892266530812",
-    "pm0609_00_00_eye_mesh_Mesh_Emissives_02": "78370040731073",
-    "pm0609_00_00_eye_mesh_Mesh_Emissives_03": "78370040731073",
-    "pm0609_00_00_eyelid_a_mesh_Mesh_Body_01": "107422785118855",
-    "pm0609_00_00_eyelid_a_mesh_Mesh_Body_02": "98815277320622",
-    "pm0609_00_00_eyelid_b_mesh_Mesh_Body_02": "98815277320622",
-    "pm0609_00_00_eyelid_c_mesh_Mesh_Body_02": "98815277320622"
+    "pm0609_00_00_cutout_mesh_clear": "107435534587605",
+    "pm0609_00_00_main_mesh": "133640323524791"
   }
 }
