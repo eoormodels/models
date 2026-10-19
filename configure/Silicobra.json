@@ -1,10 +1,7 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0936_00_00_BodySkin_Mesh": "106789187034569",
-    "pm0936_00_00_HeadSkin_Mesh": "106789187034569",
-    "pm0936_00_00_HeadSkin_Mesh_Eyes": "114698419580594",
-    "pm0936_00_00_TongueSkin_Mesh": "106789187034569"
+    "pm0936_00_00_main_mesh": "102460690602006"
   },
   "Offset": {
     "ReleaseDown": {
@@ -21,9 +18,6 @@
     }
   },
   "Shiny": {
-    "pm0936_00_00_BodySkin_Mesh": "129185531310356",
-    "pm0936_00_00_HeadSkin_Mesh": "129185531310356",
-    "pm0936_00_00_HeadSkin_Mesh_Eyes": "90344859013764",
-    "pm0936_00_00_TongueSkin_Mesh": "129185531310356"
+    "pm0936_00_00_main_mesh": "135383090072925"
   }
 }

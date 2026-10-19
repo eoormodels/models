@@ -1,12 +1,7 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "Body00_OptMesh_0_0": "86926820728210",
-    "Body01_OptMesh_4_0": "86926820728210",
-    "Body_kurumiru_Leaf_OptMesh_3_0": "86926820728210",
-    "Eye_OptMesh_1_0": "95451859432994",
-    "Leaf_kurumiru_Leaf_OptMesh_5_0": "80487291590283",
-    "Mouth_OptMesh_2_0": "82453685876453"
+    "pm0540_00_00_main_mesh": "81165427559918"
   },
   "Offset": {
     "ReleaseDown": {
@@ -23,11 +18,6 @@
     }
   },
   "Shiny": {
-    "Body00_OptMesh_0_0": "74510262940888",
-    "Body01_OptMesh_4_0": "74510262940888",
-    "Body_kurumiru_Leaf_OptMesh_3_0": "74510262940888",
-    "Eye_OptMesh_1_0": "131292797929113",
-    "Leaf_kurumiru_Leaf_OptMesh_5_0": "89670701387123",
-    "Mouth_OptMesh_2_0": "99943220886216"
+    "pm0540_00_00_main_mesh": "95105762266797"
   }
 }

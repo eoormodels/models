@@ -1,14 +1,7 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0933_00_00_BodySkin_Mesh": "90025055763642",
-    "pm0933_00_00_BodySkin_Mesh_Emissives": "76429207459261",
-    "pm0933_00_00_FeelerASkin_Mesh": "90025055763642",
-    "pm0933_00_00_FeelerBSkin_Mesh": "90025055763642",
-    "pm0933_00_00_FeelerCSkin_Mesh": "90025055763642",
-    "pm0933_00_00_FeelerDSkin_Mesh": "90025055763642",
-    "pm0933_00_00_FeelerESkin_Mesh": "90025055763642",
-    "pm0933_00_00_FeelerFSkin_Mesh": "90025055763642"
+    "pm0933_00_00_main_mesh": "103985659314808"
   },
   "Offset": {
     "ReleaseDown": {
@@ -25,13 +18,6 @@
     }
   },
   "Shiny": {
-    "pm0933_00_00_BodySkin_Mesh": "92222331299891",
-    "pm0933_00_00_BodySkin_Mesh_Emissives": "74744136696625",
-    "pm0933_00_00_FeelerASkin_Mesh": "92222331299891",
-    "pm0933_00_00_FeelerBSkin_Mesh": "92222331299891",
-    "pm0933_00_00_FeelerCSkin_Mesh": "92222331299891",
-    "pm0933_00_00_FeelerDSkin_Mesh": "92222331299891",
-    "pm0933_00_00_FeelerESkin_Mesh": "92222331299891",
-    "pm0933_00_00_FeelerFSkin_Mesh": "92222331299891"
+    "pm0933_00_00_main_mesh": "125272150536748"
   }
 }
