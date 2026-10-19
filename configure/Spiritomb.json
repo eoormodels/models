@@ -2,7 +2,7 @@
   "AnimSpeed": 0.01,
   "Normal": {
     "pm0442_00_00_main_mesh": "100196692365733",
-    "pm0442_00_00_main_mesh_clear": "106440139188254"
+    "pm0442_00_00_main_mesh_clear": "115649603413740"
   },
   "Offset": {
     "ReleaseDown": {
@@ -20,6 +20,6 @@
   },
   "Shiny": {
     "pm0442_00_00_main_mesh": "95822547812104",
-    "pm0442_00_00_main_mesh_clear": "106440139188254"
+    "pm0442_00_00_main_mesh_clear": "109531795865676"
   }
 }

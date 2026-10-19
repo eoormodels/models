@@ -1,20 +1,7 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0734_01_00_body_a_mesh_Mesh_Body_01": "137826894026565",
-    "pm0734_01_00_body_a_mesh_Mesh_Body_02": "111329588893683",
-    "pm0734_01_00_body_b_mesh_Mesh_Body_02": "111329588893683",
-    "pm0734_01_00_eye_a_mesh_Mesh_Eyes_01": "131228679191359",
-    "pm0734_01_00_eye_a_mesh_Mesh_Eyes_02": "90321419917430",
-    "pm0734_01_00_eye_b_mesh_Mesh_Emissives_01": "129322056018041",
-    "pm0734_01_00_eye_b_mesh_Mesh_Emissives_02": "122787794193660",
-    "pm0734_01_00_eye_c_mesh_Mesh_Eyes_03": "77566204233366",
-    "pm0734_01_00_eye_d_mesh_Mesh_Eyes_04": "107645131058601",
-    "pm0734_01_00_head_a_mesh_Mesh_Body_01": "137826894026565",
-    "pm0734_01_00_head_a_mesh_Mesh_Body_02": "111329588893683",
-    "pm0734_01_00_head_b_mesh_Mesh_Body_01": "137826894026565",
-    "pm0734_01_00_head_b_mesh_Mesh_Body_02": "111329588893683",
-    "pm0734_01_00_tooth_mesh_Mesh_Body_01": "137826894026565"
+    "pm0734_01_00_main_mesh": "137939286838474"
   },
   "Offset": {
     "ReleaseDown": {
@@ -31,19 +18,6 @@
     }
   },
   "Shiny": {
-    "pm0734_01_00_body_a_mesh_Mesh_Body_01": "127974277376122",
-    "pm0734_01_00_body_a_mesh_Mesh_Body_02": "100118957152127",
-    "pm0734_01_00_body_b_mesh_Mesh_Body_02": "100118957152127",
-    "pm0734_01_00_eye_a_mesh_Mesh_Eyes_01": "112505760448318",
-    "pm0734_01_00_eye_a_mesh_Mesh_Eyes_02": "107508757759607",
-    "pm0734_01_00_eye_b_mesh_Mesh_Emissives_01": "83267600454146",
-    "pm0734_01_00_eye_b_mesh_Mesh_Emissives_02": "126161884280052",
-    "pm0734_01_00_eye_c_mesh_Mesh_Eyes_03": "109321174700403",
-    "pm0734_01_00_eye_d_mesh_Mesh_Eyes_04": "136355679095134",
-    "pm0734_01_00_head_a_mesh_Mesh_Body_01": "127974277376122",
-    "pm0734_01_00_head_a_mesh_Mesh_Body_02": "100118957152127",
-    "pm0734_01_00_head_b_mesh_Mesh_Body_01": "127974277376122",
-    "pm0734_01_00_head_b_mesh_Mesh_Body_02": "100118957152127",
-    "pm0734_01_00_tooth_mesh_Mesh_Body_01": "127974277376122"
+    "pm0734_01_00_main_mesh": "107129477749393"
   }
 }
