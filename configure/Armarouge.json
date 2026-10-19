@@ -1,19 +1,7 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm1108_00_00_body_head_mesh_Mesh_Emissives_01": "115923673725959",
-    "pm1108_00_00_body_mesh_Mesh_Emissives_01": "115923673725959",
-    "pm1108_00_00_body_mesh_Mesh_Emissives_02": "115923673725959",
-    "pm1108_00_00_bodyarmor_mesh_Mesh_Emissives_03": "115923673725959",
-    "pm1108_00_00_eye_mesh_Mesh_Emissives_04": "81608399494433",
-    "pm1108_00_00_eye_mesh_Mesh_Emissives_05": "81608399494433",
-    "pm1108_00_00_eyelid_lower_mesh_Mesh_Emissives_01": "115923673725959",
-    "pm1108_00_00_eyelid_upper_mesh_Mesh_Emissives_01": "115923673725959",
-    "pm1108_00_00_fire_mesh_Mesh_Body_01": "129421032441931",
-    "pm1108_00_00_frontarmor_mesh_Mesh_Body_02": "78748040921337",
-    "pm1108_00_00_head_mesh_Mesh_Emissives_03": "115923673725959",
-    "pm1108_00_00_shoulderarmor_a_mesh_Mesh_Body_02": "78748040921337",
-    "pm1108_00_00_shoulderarmor_b_mesh_Mesh_Body_02": "78748040921337"
+    "pm1108_00_00_main_mesh": "71817670008232"
   },
   "Offset": {
     "ReleaseDown": {
@@ -30,18 +18,6 @@
     }
   },
   "Shiny": {
-    "pm1108_00_00_body_head_mesh_Mesh_Emissives_01": "115923673725959",
-    "pm1108_00_00_body_mesh_Mesh_Emissives_01": "115923673725959",
-    "pm1108_00_00_body_mesh_Mesh_Emissives_02": "115923673725959",
-    "pm1108_00_00_bodyarmor_mesh_Mesh_Emissives_03": "115923673725959",
-    "pm1108_00_00_eye_mesh_Mesh_Emissives_04": "80998323102625",
-    "pm1108_00_00_eye_mesh_Mesh_Emissives_05": "80998323102625",
-    "pm1108_00_00_eyelid_lower_mesh_Mesh_Emissives_01": "115923673725959",
-    "pm1108_00_00_eyelid_upper_mesh_Mesh_Emissives_01": "115923673725959",
-    "pm1108_00_00_fire_mesh_Mesh_Body_01": "129421032441931",
-    "pm1108_00_00_frontarmor_mesh_Mesh_Body_02": "99028495458797",
-    "pm1108_00_00_head_mesh_Mesh_Emissives_03": "115923673725959",
-    "pm1108_00_00_shoulderarmor_a_mesh_Mesh_Body_02": "99028495458797",
-    "pm1108_00_00_shoulderarmor_b_mesh_Mesh_Body_02": "99028495458797"
+    "pm1108_00_00_main_mesh": "85854275803989"
   }
 }
