@@ -1,9 +1,7 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "Body_OptMesh_0_0": "85835462472111",
-    "Body_OptMesh_1_0": "85835462472111",
-    "Eye_OptMesh_2_0": "83314820435610"
+    "pm0106_00_00_main_mesh": "111678596510608"
   },
   "Offset": {
     "ReleaseDown": {
@@ -20,8 +18,6 @@
     }
   },
   "Shiny": {
-    "Body_OptMesh_0_0": "131247900113942",
-    "Body_OptMesh_1_0": "131247900113942",
-    "Eye_OptMesh_2_0": "119444871025351"
+    "pm0106_00_00_main_mesh": "86221261775194"
   }
 }

@@ -1,23 +1,7 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0003_00_00_body_mesh_Mesh_Body_01": "114531909369785",
-    "pm0003_00_00_crown_mesh_Mesh_Body_02": "138999345941547",
-    "pm0003_00_00_eye_mesh_Mesh_Eyes_01": "106559925042655",
-    "pm0003_00_00_eye_mesh_Mesh_Eyes_02": "106559925042655",
-    "pm0003_00_00_flower02_mesh_Mesh_Body_03": "139832809543331",
-    "pm0003_00_00_flower03_mesh_Mesh_Body_03": "139832809543331",
-    "pm0003_00_00_flower04_mesh_Mesh_Body_03": "139832809543331",
-    "pm0003_00_00_flower05_mesh_Mesh_Body_03": "139832809543331",
-    "pm0003_00_00_flower06_mesh_Mesh_Body_03": "139832809543331",
-    "pm0003_00_00_flower07_mesh_Mesh_Body_03": "139832809543331",
-    "pm0003_00_00_flower08_mesh_Mesh_Body_03": "139832809543331",
-    "pm0003_00_00_leaves_mesh_Mesh_Body_02": "138999345941547",
-    "pm0003_00_00_shaft_mesh_Mesh_Body_03": "139832809543331",
-    "pm0003_00_00_tongue_mesh_Mesh_Body_02": "138999345941547",
-    "pm0003_00_00_vine_mesh_Mesh_Body_02": "138999345941547",
-    "pm0003_00_00_warts_mesh_Mesh_Body_01": "114531909369785",
-    "pm0003_01_00_flower01_mesh_Mesh_Body_02": "138999345941547"
+    "pm0003_01_00_main_mesh": "111178483493028"
   },
   "Offset": {
     "ReleaseDown": {
@@ -34,22 +18,6 @@
     }
   },
   "Shiny": {
-    "pm0003_00_00_body_mesh_Mesh_Body_01": "109895992133782",
-    "pm0003_00_00_crown_mesh_Mesh_Body_02": "97368068484390",
-    "pm0003_00_00_eye_mesh_Mesh_Eyes_01": "98678173301448",
-    "pm0003_00_00_eye_mesh_Mesh_Eyes_02": "98678173301448",
-    "pm0003_00_00_flower02_mesh_Mesh_Body_03": "139917532359080",
-    "pm0003_00_00_flower03_mesh_Mesh_Body_03": "139917532359080",
-    "pm0003_00_00_flower04_mesh_Mesh_Body_03": "139917532359080",
-    "pm0003_00_00_flower05_mesh_Mesh_Body_03": "139917532359080",
-    "pm0003_00_00_flower06_mesh_Mesh_Body_03": "139917532359080",
-    "pm0003_00_00_flower07_mesh_Mesh_Body_03": "139917532359080",
-    "pm0003_00_00_flower08_mesh_Mesh_Body_03": "139917532359080",
-    "pm0003_00_00_leaves_mesh_Mesh_Body_02": "97368068484390",
-    "pm0003_00_00_shaft_mesh_Mesh_Body_03": "139917532359080",
-    "pm0003_00_00_tongue_mesh_Mesh_Body_02": "97368068484390",
-    "pm0003_00_00_vine_mesh_Mesh_Body_02": "97368068484390",
-    "pm0003_00_00_warts_mesh_Mesh_Body_01": "109895992133782",
-    "pm0003_01_00_flower01_mesh_Mesh_Body_02": "97368068484390"
+    "pm0003_01_00_main_mesh": "114279345956806"
   }
 }
