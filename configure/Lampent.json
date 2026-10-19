@@ -1,19 +1,8 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0608_00_00_body_a_mesh_Mesh_Body_01": "94288809722631",
-    "pm0608_00_00_body_a_mesh_Mesh_Emissives_01": "74250699070874",
-    "pm0608_00_00_body_c_mesh_Mesh_Body_02": "129119003107741",
-    "pm0608_00_00_body_cb_mesh_Mesh_Body_02": "129119003107741",
-    "pm0608_00_00_bodyb00_mesh_Mesh_Emissives_02": "130289679482373",
-    "pm0608_00_00_eye_a_mesh_Mesh_Emissives_03": "82322051560505",
-    "pm0608_00_00_eye_a_mesh_Mesh_Emissives_04": "114006601181035",
-    "pm0608_00_00_eye_b_mesh_Mesh_Emissives_03": "82322051560505",
-    "pm0608_00_00_eye_b_mesh_Mesh_Emissives_04": "114006601181035",
-    "pm0608_00_00_eye_c_mesh_Mesh_Emissives_03": "82322051560505",
-    "pm0608_00_00_eye_c_mesh_Mesh_Emissives_04": "114006601181035",
-    "pm0608_00_00_eye_d_mesh_Mesh_Emissives_03": "82322051560505",
-    "pm0608_00_00_eye_d_mesh_Mesh_Emissives_04": "114006601181035"
+    "pm0608_00_00_cutout_mesh_clear": "135679165298278",
+    "pm0608_00_00_main_mesh": "110349569942735"
   },
   "Offset": {
     "ReleaseDown": {
@@ -30,18 +19,7 @@
     }
   },
   "Shiny": {
-    "pm0608_00_00_body_a_mesh_Mesh_Body_01": "76411943227610",
-    "pm0608_00_00_body_a_mesh_Mesh_Emissives_01": "129796635317704",
-    "pm0608_00_00_body_c_mesh_Mesh_Body_02": "105539292957219",
-    "pm0608_00_00_body_cb_mesh_Mesh_Body_02": "105539292957219",
-    "pm0608_00_00_bodyb00_mesh_Mesh_Emissives_02": "74629615072169",
-    "pm0608_00_00_eye_a_mesh_Mesh_Emissives_03": "103305650126662",
-    "pm0608_00_00_eye_a_mesh_Mesh_Emissives_04": "95777553263588",
-    "pm0608_00_00_eye_b_mesh_Mesh_Emissives_03": "103305650126662",
-    "pm0608_00_00_eye_b_mesh_Mesh_Emissives_04": "95777553263588",
-    "pm0608_00_00_eye_c_mesh_Mesh_Emissives_03": "103305650126662",
-    "pm0608_00_00_eye_c_mesh_Mesh_Emissives_04": "95777553263588",
-    "pm0608_00_00_eye_d_mesh_Mesh_Emissives_03": "103305650126662",
-    "pm0608_00_00_eye_d_mesh_Mesh_Emissives_04": "95777553263588"
+    "pm0608_00_00_cutout_mesh_clear": "133755180247003",
+    "pm0608_00_00_main_mesh": "117229084537576"
   }
 }

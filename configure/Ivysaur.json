@@ -1,13 +1,7 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0002_00_00_body_mesh_Mesh_Body_01": "75535787147114",
-    "pm0002_00_00_body_mesh_Mesh_Body_02": "117591153926179",
-    "pm0002_00_00_eye_mesh_Mesh_Eyes_01": "127380408531302",
-    "pm0002_00_00_eye_mesh_Mesh_Eyes_02": "82178819231182",
-    "pm0002_00_00_flower_mesh_Mesh_Body_03": "92816989000147",
-    "pm0002_00_00_flower_mesh_Mesh_Body_04": "131760937908832",
-    "pm0002_00_00_leaf_mesh_Mesh_Body_03": "92816989000147"
+    "pm0002_00_00_main_mesh": "117657934949892"
   },
   "Offset": {
     "ReleaseDown": {
@@ -24,12 +18,6 @@
     }
   },
   "Shiny": {
-    "pm0002_00_00_body_mesh_Mesh_Body_01": "105903775148435",
-    "pm0002_00_00_body_mesh_Mesh_Body_02": "135830271951741",
-    "pm0002_00_00_eye_mesh_Mesh_Eyes_01": "108684746651884",
-    "pm0002_00_00_eye_mesh_Mesh_Eyes_02": "117429590688681",
-    "pm0002_00_00_flower_mesh_Mesh_Body_03": "90323101819054",
-    "pm0002_00_00_flower_mesh_Mesh_Body_04": "87569837280386",
-    "pm0002_00_00_leaf_mesh_Mesh_Body_03": "90323101819054"
+    "pm0002_00_00_main_mesh": "120771451092666"
   }
 }
