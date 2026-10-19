@@ -1,8 +1,7 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0990_00_00_BodySkin_Mesh": "118336290851483",
-    "pm0990_00_00_BodySkin_Mesh_Emissives": "80342491980138"
+    "pm0990_00_00_main_mesh": "135705542087768"
   },
   "Offset": {
     "ReleaseDown": {
@@ -19,7 +18,6 @@
     }
   },
   "Shiny": {
-    "pm0990_00_00_BodySkin_Mesh": "134809276283929",
-    "pm0990_00_00_BodySkin_Mesh_Emissives": "137936085173807"
+    "pm0990_00_00_main_mesh": "137067118652529"
   }
 }
