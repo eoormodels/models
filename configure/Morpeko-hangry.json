@@ -1,21 +1,7 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0941_11_00_body_a_mesh_Mesh_Body_01": "90855272592919",
-    "pm0941_11_00_body_a_mesh_Mesh_Body_02": "135616718406061",
-    "pm0941_11_00_body_b_mesh_Mesh_Body_03": "70708020890307",
-    "pm0941_11_00_body_b_mesh_Mesh_Body_04": "112858272123291",
-    "pm0941_11_00_eye_a_mesh_Mesh_Eyes_01": "128178061129732",
-    "pm0941_11_00_eye_a_mesh_Mesh_Eyes_02": "81514334562024",
-    "pm0941_11_00_eye_b_mesh_Mesh_Eyes_03": "94907872028590",
-    "pm0941_11_00_eye_b_mesh_Mesh_Eyes_04": "89140715516165",
-    "pm0941_11_00_mouth_01_mesh_Mesh_Body_03": "70708020890307",
-    "pm0941_11_00_mouth_01_mesh_Mesh_Body_04": "112858272123291",
-    "pm0941_11_00_mouth_02_mesh_Mesh_Body_03": "70708020890307",
-    "pm0941_11_00_seed_mesh_Mesh_Body_02": "135616718406061",
-    "pm0941_11_00_tooth_a_mesh_Mesh_Body_02": "135616718406061",
-    "pm0941_11_00_tooth_b_mesh_Mesh_Body_04": "112858272123291",
-    "pm0941_11_00_tooth_c_mesh_Mesh_Body_04": "112858272123291"
+    "pm0941_12_00_main_mesh": "79634939518062"
   },
   "Offset": {
     "ReleaseDown": {
@@ -32,20 +18,6 @@
     }
   },
   "Shiny": {
-    "pm0941_11_00_body_a_mesh_Mesh_Body_01": "79719139120025",
-    "pm0941_11_00_body_a_mesh_Mesh_Body_02": "135167383492207",
-    "pm0941_11_00_body_b_mesh_Mesh_Body_03": "98964283224715",
-    "pm0941_11_00_body_b_mesh_Mesh_Body_04": "102354950798582",
-    "pm0941_11_00_eye_a_mesh_Mesh_Eyes_01": "113157688077368",
-    "pm0941_11_00_eye_a_mesh_Mesh_Eyes_02": "84030615958129",
-    "pm0941_11_00_eye_b_mesh_Mesh_Eyes_03": "77271723983213",
-    "pm0941_11_00_eye_b_mesh_Mesh_Eyes_04": "116954780714513",
-    "pm0941_11_00_mouth_01_mesh_Mesh_Body_03": "98964283224715",
-    "pm0941_11_00_mouth_01_mesh_Mesh_Body_04": "102354950798582",
-    "pm0941_11_00_mouth_02_mesh_Mesh_Body_03": "98964283224715",
-    "pm0941_11_00_seed_mesh_Mesh_Body_02": "135167383492207",
-    "pm0941_11_00_tooth_a_mesh_Mesh_Body_02": "135167383492207",
-    "pm0941_11_00_tooth_b_mesh_Mesh_Body_04": "102354950798582",
-    "pm0941_11_00_tooth_c_mesh_Mesh_Body_04": "102354950798582"
+    "pm0941_12_00_main_mesh": "137809524290271"
   }
 }
