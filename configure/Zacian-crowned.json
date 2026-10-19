@@ -1,16 +1,7 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0938_12_00_BodySkin_Mesh": "94666116885435",
-    "pm0938_12_00_BodySkin_Mesh_Eyes": "80658454392710",
-    "pm0938_12_00_SwordASkin_Mesh": "94666116885435",
-    "pm0938_12_00_SwordBSkin_Mesh": "94666116885435",
-    "pm0938_12_00_SwordCSkin_Mesh": "94666116885435",
-    "pm0938_12_00_SwordDSkin_Mesh": "94666116885435",
-    "pm0938_12_00_SwordESkin_Mesh": "94666116885435",
-    "pm0938_12_00_SwordFSkin_Mesh": "94666116885435",
-    "pm0938_12_00_SwordGSkin_Mesh": "94666116885435",
-    "pm0938_12_00_WingSkin_Mesh": "94666116885435"
+    "pm0938_12_00_main_mesh": "113612512861187"
   },
   "Offset": {
     "ReleaseDown": {
@@ -27,15 +18,6 @@
     }
   },
   "Shiny": {
-    "pm0938_12_00_BodySkin_Mesh": "102783721071519",
-    "pm0938_12_00_BodySkin_Mesh_Eyes": "88800250385137",
-    "pm0938_12_00_SwordASkin_Mesh": "102783721071519",
-    "pm0938_12_00_SwordBSkin_Mesh": "102783721071519",
-    "pm0938_12_00_SwordCSkin_Mesh": "102783721071519",
-    "pm0938_12_00_SwordDSkin_Mesh": "102783721071519",
-    "pm0938_12_00_SwordESkin_Mesh": "102783721071519",
-    "pm0938_12_00_SwordFSkin_Mesh": "102783721071519",
-    "pm0938_12_00_SwordGSkin_Mesh": "102783721071519",
-    "pm0938_12_00_WingSkin_Mesh": "102783721071519"
+    "pm0938_12_00_main_mesh": "124747491980416"
   }
 }
