@@ -1,7 +1,7 @@
 {
   "AnimSpeed": 0.01,
   "Normal": {
-    "pm0986_13_00_cutout_mesh_clear": "94252985654048",
+    "pm0986_13_00_cutout_mesh_clear": "82866030501703",
     "pm0986_13_00_main_mesh": "73048490530596"
   },
   "Offset": {
@@ -19,7 +19,7 @@
     }
   },
   "Shiny": {
-    "pm0986_13_00_cutout_mesh_clear": "103098968753600",
+    "pm0986_13_00_cutout_mesh_clear": "98624016445571",
     "pm0986_13_00_main_mesh": "99618993659167"
   }
 }
