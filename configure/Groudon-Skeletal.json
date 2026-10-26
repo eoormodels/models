@@ -1,0 +1,27 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "Groudon_Body_A": "114508206118539",
+    "Groudon_Body_B": "76660741848317",
+    "Groudon_Eyes": "79963066128963"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "Groudon_Body_A": "89897276079426",
+    "Groudon_Body_B": "105042780406254",
+    "Groudon_Eyes": "79963066128963"
+  }
+}

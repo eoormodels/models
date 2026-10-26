@@ -1,0 +1,27 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "Dialga_Body_A": "100565040067544",
+    "Dialga_Body_B": "91001881077305",
+    "Dialga_Eyes": "111774146570297"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "Dialga_Body_A": "70640324183996",
+    "Dialga_Body_B": "96350264703343",
+    "Dialga_Eyes": "111774146570297"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "Charizard_Body_A": "79349552455789",
+    "Charizard_Body_B": "116848828680057",
+    "Charizard_Eyes": "100624726758914",
+    "Charizard_Fire": "76029529898911",
+    "Charizard_Tongue": "116848828680057"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "Charizard_Body_A": "135882818487846",
+    "Charizard_Body_B": "103974760807221",
+    "Charizard_Eyes": "100624726758914",
+    "Charizard_Fire": "79862393075035",
+    "Charizard_Tongue": "103974760807221"
+  }
+}

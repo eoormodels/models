@@ -1,0 +1,31 @@
+{
+  "AnimSpeed": 0.01,
+  "Normal": {
+    "Marowak_Body_A": "128778847289320",
+    "Marowak_Body_B": "93710491493050",
+    "Marowak_Eyes": "79224311657439",
+    "Marowak_Head": "93710491493050",
+    "Marowak_Weapon": "128778847289320"
+  },
+  "Offset": {
+    "ReleaseDown": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 1.899999976158142,
+      "z": 0
+    },
+    "ReleaseUp": {
+      "$type": "Vector3",
+      "x": 0,
+      "y": 0.4000000059604645,
+      "z": 0
+    }
+  },
+  "Shiny": {
+    "Marowak_Body_A": "112248694026752",
+    "Marowak_Body_B": "81750524419250",
+    "Marowak_Eyes": "79224311657439",
+    "Marowak_Head": "81750524419250",
+    "Marowak_Weapon": "112248694026752"
+  }
+}
